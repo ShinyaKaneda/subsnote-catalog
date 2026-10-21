@@ -1,5 +1,5 @@
 {
- "version": 5,
+ "version": 6,
  "updatedAt": "2026-10-22",
  "idMigrations": {
   "niconico-premium": {
@@ -129,7 +129,7 @@
     "ディクテーション"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/aqua-voice.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/aqua-voice.png"
   },
   {
    "id": "chatgpt",
@@ -218,7 +218,7 @@
     "チャットジーピーティー",
     "OpenAI"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/chatgpt.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/chatgpt.png"
   },
   {
    "id": "claude",
@@ -293,7 +293,7 @@
     "クロード",
     "Anthropic"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/claude.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/claude.png"
   },
   {
    "id": "copy-ai",
@@ -344,7 +344,7 @@
     "AIライティング"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/copy-ai.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/copy-ai.png"
   },
   {
    "id": "cursor",
@@ -405,7 +405,7 @@
     "エディタ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/cursor.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/cursor.png"
   },
   {
    "id": "elevenlabs",
@@ -465,7 +465,7 @@
     "音声合成"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/elevenlabs.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/elevenlabs.png"
   },
   {
    "id": "gamma",
@@ -525,7 +525,7 @@
     "AIスライド"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/gamma.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/gamma.png"
   },
   {
    "id": "genspark",
@@ -584,7 +584,7 @@
     "クレジット制"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/genspark.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/genspark.png"
   },
   {
    "id": "github-copilot",
@@ -657,7 +657,7 @@
     "ギットハブ",
     "コパイロット"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/github-copilot.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/github-copilot.png"
   },
   {
    "id": "google-ai-pro",
@@ -727,7 +727,7 @@
     "Gemini",
     "Gemini Advanced"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/google-ai-pro.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/google-ai-pro.png"
   },
   {
    "id": "heygen",
@@ -784,7 +784,7 @@
     "AI動画生成"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/heygen.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/heygen.png"
   },
   {
    "id": "higgsfield",
@@ -844,7 +844,7 @@
     "クレジット制"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/higgsfield.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/higgsfield.png"
   },
   {
    "id": "jasper",
@@ -895,7 +895,7 @@
     "マーケティング"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/jasper.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/jasper.png"
   },
   {
    "id": "kling-ai",
@@ -954,7 +954,7 @@
     "クレジット制"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/kling-ai.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/kling-ai.png"
   },
   {
    "id": "leonardo-ai",
@@ -1012,7 +1012,7 @@
     "AI動画生成"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/leonardo-ai.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/leonardo-ai.png"
   },
   {
    "id": "midjourney",
@@ -1080,7 +1080,7 @@
     "画像生成"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/midjourney.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/midjourney.png"
   },
   {
    "id": "perplexity-pro",
@@ -1142,7 +1142,7 @@
     "検索"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/perplexity-pro.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/perplexity-pro.png"
   },
   {
    "id": "pika",
@@ -1204,7 +1204,7 @@
     "AI動画生成"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/pika.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/pika.png"
   },
   {
    "id": "runway",
@@ -1264,7 +1264,7 @@
     "動画生成"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/runway.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/runway.png"
   },
   {
    "id": "suno",
@@ -1317,7 +1317,7 @@
     "音楽生成"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/suno.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/suno.png"
   },
   {
    "id": "supergrok",
@@ -1378,7 +1378,7 @@
     "生成AI"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/supergrok.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/supergrok.png"
   },
   {
    "id": "synthesia",
@@ -1437,7 +1437,7 @@
     "AI動画生成"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/synthesia.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/synthesia.png"
   },
   {
    "id": "typeless",
@@ -1495,7 +1495,7 @@
     "ディクテーション"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/typeless.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/typeless.png"
   },
   {
    "id": "amazon-kids-plus",
@@ -1562,7 +1562,7 @@
     "キッズプラス",
     "アマゾンキッズ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/amazon-kids-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/amazon-kids-plus.png"
   },
   {
    "id": "bookwalker-yomihodai",
@@ -1615,7 +1615,7 @@
    "aliases": [
     "ブックウォーカー"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/bookwalker-yomihodai.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/bookwalker-yomihodai.png"
   },
   {
    "id": "kindle-unlimited",
@@ -1660,7 +1660,7 @@
     "キンドル",
     "キンドルアンリミテッド"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/kindle-unlimited.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/kindle-unlimited.png"
   },
   {
    "id": "line-manga",
@@ -1712,7 +1712,7 @@
    "aliases": [
     "ラインマンガ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/line-manga.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/line-manga.png"
   },
   {
    "id": "lyp-premium",
@@ -1777,7 +1777,7 @@
     "Yahoo!プレミアム",
     "ヤフープレミアム"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/lyp-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/lyp-premium.png"
   },
   {
    "id": "d-magazine",
@@ -1828,7 +1828,7 @@
    "aliases": [
     "ディーマガジン"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/d-magazine.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/d-magazine.png"
   },
   {
    "id": "flier",
@@ -1879,7 +1879,7 @@
     "ビジネス書"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/flier.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/flier.png"
   },
   {
    "id": "mangaoukoku",
@@ -1938,7 +1938,7 @@
     "ポイント制"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/mangaoukoku.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/mangaoukoku.png"
   },
   {
    "id": "mechacomic",
@@ -2029,7 +2029,7 @@
     "ポイント制"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/mechacomic.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/mechacomic.png"
   },
   {
    "id": "comic-days",
@@ -2072,7 +2072,7 @@
     "雑誌読み放題"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/comic-days.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/comic-days.png"
   },
   {
    "id": "cmoa-yomihodai",
@@ -2127,7 +2127,7 @@
    "aliases": [
     "シーモア"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/cmoa-yomihodai.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/cmoa-yomihodai.png"
   },
   {
    "id": "piccoma",
@@ -2185,7 +2185,7 @@
    ],
    "verifiedAt": "2026-10-21",
    "aliases": [],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/piccoma.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/piccoma.png"
   },
   {
    "id": "bookpass",
@@ -2237,7 +2237,7 @@
     "KDDI"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/bookpass.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/bookpass.png"
   },
   {
    "id": "book-hodai",
@@ -2283,7 +2283,7 @@
    "aliases": [
     "ブックホウダイ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/book-hodai.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/book-hodai.png"
   },
   {
    "id": "magapoke",
@@ -2336,7 +2336,7 @@
     "雑誌"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/magapoke.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/magapoke.png"
   },
   {
    "id": "shonen-jump-plus",
@@ -2396,7 +2396,7 @@
     "ジャンププラス",
     "ジャンプ+"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/shonen-jump-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/shonen-jump-plus.png"
   },
   {
    "id": "rakuten-magazine",
@@ -2468,7 +2468,7 @@
    ],
    "verifiedAt": "2026-10-21",
    "aliases": [],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/rakuten-magazine.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/rakuten-magazine.png"
   },
   {
    "id": "fantia",
@@ -2519,7 +2519,7 @@
     "同人"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/fantia.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/fantia.png"
   },
   {
    "id": "medium",
@@ -2581,7 +2581,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/medium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/medium.png"
   },
   {
    "id": "patreon",
@@ -2623,7 +2623,7 @@
     "クリエイター支援"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/patreon.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/patreon.png"
   },
   {
    "id": "substack",
@@ -2676,7 +2676,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/substack.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/substack.png"
   },
   {
    "id": "twitch-subscription",
@@ -2743,7 +2743,7 @@
     "クリエイター支援"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/twitch-subscription.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/twitch-subscription.png"
   },
   {
    "id": "youtube-channel-membership",
@@ -2803,7 +2803,7 @@
     "動画"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/youtube-channel-membership.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/youtube-channel-membership.png"
   },
   {
    "id": "note-membership",
@@ -2846,7 +2846,7 @@
     "記事"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/note-membership.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/note-membership.png"
   },
   {
    "id": "pixiv-fanbox",
@@ -2889,7 +2889,7 @@
     "イラスト"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/pixiv-fanbox.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/pixiv-fanbox.png"
   },
   {
    "id": "pixiv-premium",
@@ -2941,7 +2941,7 @@
     "クリエイター"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/pixiv-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/pixiv-premium.png"
   },
   {
    "id": "bumble",
@@ -2991,7 +2991,7 @@
     "マッチングアプリ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/bumble.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/bumble.png"
   },
   {
    "id": "match-jp",
@@ -3043,7 +3043,7 @@
     "婚活"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/match-jp.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/match-jp.png"
   },
   {
    "id": "omiai",
@@ -3100,7 +3100,7 @@
     "マッチングアプリ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/omiai.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/omiai.png"
   },
   {
    "id": "pairs",
@@ -3167,7 +3167,7 @@
     "マッチングアプリ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/pairs.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/pairs.png"
   },
   {
    "id": "tinder",
@@ -3226,7 +3226,7 @@
     "マッチングアプリ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/tinder.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/tinder.png"
   },
   {
    "id": "with",
@@ -3267,7 +3267,7 @@
     "マッチングアプリ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/with.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/with.png"
   },
   {
    "id": "tapple",
@@ -3315,7 +3315,7 @@
     "マッチングアプリ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/tapple.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/tapple.png"
   },
   {
    "id": "bizmates",
@@ -3371,7 +3371,7 @@
     "オンライン英会話"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/bizmates.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/bizmates.png"
   },
   {
    "id": "brilliant",
@@ -3423,7 +3423,7 @@
     "インタラクティブ学習"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/brilliant.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/brilliant.png"
   },
   {
    "id": "cambly",
@@ -3467,7 +3467,7 @@
     "未確認"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/cambly.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/cambly.png"
   },
   {
    "id": "codecademy",
@@ -3527,7 +3527,7 @@
     "プログラミング学習"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/codecademy.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/codecademy.png"
   },
   {
    "id": "coursera-plus",
@@ -3579,7 +3579,7 @@
     "大学"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/coursera-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/coursera-plus.png"
   },
   {
    "id": "dmm-eikaiwa",
@@ -3649,7 +3649,7 @@
     "オンライン英会話"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/dmm-eikaiwa.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/dmm-eikaiwa.png"
   },
   {
    "id": "duolingo",
@@ -3726,7 +3726,7 @@
    "aliases": [
     "デュオリンゴ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/duolingo.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/duolingo.png"
   },
   {
    "id": "ecc-online",
@@ -3783,7 +3783,7 @@
     "オンラインレッスン"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/ecc-online.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/ecc-online.png"
   },
   {
    "id": "elsa-speak",
@@ -3842,7 +3842,7 @@
     "AI"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/elsa-speak.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/elsa-speak.png"
   },
   {
    "id": "globis-manabihodai",
@@ -3894,7 +3894,7 @@
     "動画学習"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/globis-manabihodai.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/globis-manabihodai.png"
   },
   {
    "id": "kimini",
@@ -3952,7 +3952,7 @@
     "学研"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/kimini.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/kimini.png"
   },
   {
    "id": "masterclass",
@@ -4013,7 +4013,7 @@
     "著名人"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/masterclass.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/masterclass.png"
   },
   {
    "id": "nova-ochanoma",
@@ -4071,7 +4071,7 @@
     "NOVA"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/nova-ochanoma.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/nova-ochanoma.png"
   },
   {
    "id": "pluralsight",
@@ -4130,7 +4130,7 @@
     "技術学習"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/pluralsight.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/pluralsight.png"
   },
   {
    "id": "progate",
@@ -4189,7 +4189,7 @@
    "aliases": [
     "プロゲート"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/progate.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/progate.png"
   },
   {
    "id": "risu-sansu",
@@ -4239,7 +4239,7 @@
     "タブレット"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/risu-sansu.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/risu-sansu.png"
   },
   {
    "id": "schoo",
@@ -4299,7 +4299,7 @@
    "aliases": [
     "スクー"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/schoo.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/schoo.png"
   },
   {
    "id": "skillshare",
@@ -4351,7 +4351,7 @@
     "動画講座"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/skillshare.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/skillshare.png"
   },
   {
    "id": "speak",
@@ -4417,7 +4417,7 @@
     "AI英会話"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/speak.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/speak.png"
   },
   {
    "id": "udemy-personal-plan",
@@ -4469,7 +4469,7 @@
    "aliases": [
     "ユーデミー"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/udemy-personal-plan.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/udemy-personal-plan.png"
   },
   {
    "id": "zkai-shogaku-tablet",
@@ -4512,7 +4512,7 @@
     "未確認"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/zkai-shogaku-tablet.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/zkai-shogaku-tablet.png"
   },
   {
    "id": "abceed",
@@ -4571,7 +4571,7 @@
     "英検"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/abceed.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/abceed.png"
   },
   {
    "id": "kodomo-challenge",
@@ -4614,7 +4614,7 @@
     "未確認"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/kodomo-challenge.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/kodomo-challenge.png"
   },
   {
    "id": "studysapuri",
@@ -4691,7 +4691,7 @@
    "aliases": [
     "スタサプ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/studysapuri.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/studysapuri.png"
   },
   {
    "id": "speakbuddy",
@@ -4742,7 +4742,7 @@
     "AI英会話"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/speakbuddy.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/speakbuddy.png"
   },
   {
    "id": "smile-zemi",
@@ -4820,7 +4820,7 @@
     "タブレット"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/smile-zemi.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/smile-zemi.png"
   },
   {
    "id": "nativecamp",
@@ -4880,7 +4880,7 @@
     "受け放題"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/nativecamp.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/nativecamp.png"
   },
   {
    "id": "rarejob",
@@ -4927,7 +4927,7 @@
     "オンライン英会話"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/rarejob.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/rarejob.png"
   },
   {
    "id": "popy-shogaku",
@@ -4978,7 +4978,7 @@
     "紙教材"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/popy-shogaku.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/popy-shogaku.png"
   },
   {
    "id": "shinkenzemi",
@@ -5056,7 +5056,7 @@
     "ベネッセ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/shinkenzemi.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/shinkenzemi.png"
   },
   {
    "id": "moneytree-grow",
@@ -5104,7 +5104,7 @@
     "資産管理"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/moneytree-grow.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/moneytree-grow.png"
   },
   {
    "id": "osidori-premium",
@@ -5166,7 +5166,7 @@
     "共有"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/osidori-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/osidori-premium.png"
   },
   {
    "id": "revolut",
@@ -5233,7 +5233,7 @@
     "デビットカード"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/revolut.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/revolut.png"
   },
   {
    "id": "zaim-premium",
@@ -5282,7 +5282,7 @@
     "家計簿"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/zaim-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/zaim-premium.png"
   },
   {
    "id": "freee-kaikei-personal",
@@ -5356,7 +5356,7 @@
     "個人事業主"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/freee-kaikei-personal.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/freee-kaikei-personal.png"
   },
   {
    "id": "yayoi-aoiro-online",
@@ -5420,7 +5420,7 @@
     "個人事業主"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/yayoi-aoiro-online.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/yayoi-aoiro-online.png"
   },
   {
    "id": "moneyforward-me",
@@ -5514,7 +5514,7 @@
     "資産管理"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/moneyforward-me.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/moneyforward-me.png"
   },
   {
    "id": "moneyforward-cloud",
@@ -5569,7 +5569,7 @@
     "バックオフィス"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/moneyforward-cloud.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/moneyforward-cloud.png"
   },
   {
    "id": "apple-fitness-plus",
@@ -5620,7 +5620,7 @@
    "aliases": [
     "アップルフィットネス"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/apple-fitness-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/apple-fitness-plus.png"
   },
   {
    "id": "awarefy",
@@ -5690,7 +5690,7 @@
     "日記"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/awarefy.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/awarefy.png"
   },
   {
    "id": "calm",
@@ -5742,7 +5742,7 @@
     "メンタル"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/calm.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/calm.png"
   },
   {
    "id": "finc",
@@ -5785,7 +5785,7 @@
    "aliases": [
     "フィンク"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/finc.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/finc.png"
   },
   {
    "id": "garmin-connect-plus",
@@ -5836,7 +5836,7 @@
     "ランニング"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/garmin-connect-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/garmin-connect-plus.png"
   },
   {
    "id": "google-health-premium",
@@ -5895,7 +5895,7 @@
     "睡眠"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/google-health-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/google-health-premium.png"
   },
   {
    "id": "headspace",
@@ -5947,7 +5947,7 @@
     "未確認"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/headspace.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/headspace.png"
   },
   {
    "id": "jal-wellness-travel",
@@ -5993,7 +5993,7 @@
     "JAL"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/jal-wellness-travel.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/jal-wellness-travel.png"
   },
   {
    "id": "joyfit24",
@@ -6055,7 +6055,7 @@
     "ジョイフィット24",
     "ジョイフィット"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/joyfit24.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/joyfit24.png"
   },
   {
    "id": "leanbody",
@@ -6106,7 +6106,7 @@
     "ビリーズブートキャンプ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/leanbody.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/leanbody.png"
   },
   {
    "id": "myfitnesspal",
@@ -6157,7 +6157,7 @@
     "食事記録"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/myfitnesspal.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/myfitnesspal.png"
   },
   {
    "id": "oura-membership",
@@ -6209,7 +6209,7 @@
     "ウェアラブル"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/oura-membership.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/oura-membership.png"
   },
   {
    "id": "soelu",
@@ -6260,7 +6260,7 @@
     "フィットネス"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/soelu.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/soelu.png"
   },
   {
    "id": "strava",
@@ -6326,7 +6326,7 @@
     "GPS"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/strava.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/strava.png"
   },
   {
    "id": "whoop",
@@ -6386,7 +6386,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/whoop.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/whoop.png"
   },
   {
    "id": "zwift",
@@ -6445,7 +6445,7 @@
     "トレーニング"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/zwift.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/zwift.png"
   },
   {
    "id": "chocozap",
@@ -6498,7 +6498,7 @@
     "チョコザップ",
     "ちょこざっぷ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/chocozap.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/chocozap.png"
   },
   {
    "id": "asken-premium",
@@ -6551,7 +6551,7 @@
    "aliases": [
     "アスケン"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/asken-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/asken-premium.png"
   },
   {
    "id": "anytime-fitness",
@@ -6604,7 +6604,7 @@
    "aliases": [
     "エニタイム"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/anytime-fitness.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/anytime-fitness.png"
   },
   {
    "id": "curves",
@@ -6662,7 +6662,7 @@
    ],
    "verifiedAt": "2026-10-21",
    "aliases": [],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/curves.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/curves.png"
   },
   {
    "id": "tipness",
@@ -6726,7 +6726,7 @@
    ],
    "verifiedAt": "2026-10-21",
    "aliases": [],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/tipness.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/tipness.png"
   },
   {
    "id": "base-food",
@@ -6778,7 +6778,7 @@
    "aliases": [
     "ベースフード"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/base-food.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/base-food.png"
   },
   {
    "id": "coke-on-pass",
@@ -6820,7 +6820,7 @@
     "未確認"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/coke-on-pass.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/coke-on-pass.png"
   },
   {
    "id": "delish-kitchen-premium",
@@ -6884,7 +6884,7 @@
     "料理動画"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/delish-kitchen-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/delish-kitchen-premium.png"
   },
   {
    "id": "greenspoon",
@@ -6933,7 +6933,7 @@
     "スムージー"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/greenspoon.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/greenspoon.png"
   },
   {
    "id": "oisix",
@@ -6977,7 +6977,7 @@
     "Oisix(おいしっくすくらぶ)",
     "オイシックス"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/oisix.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/oisix.png"
   },
   {
    "id": "petokoto-foods",
@@ -7027,7 +7027,7 @@
     "定期便"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/petokoto-foods.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/petokoto-foods.png"
   },
   {
    "id": "postcoffee",
@@ -7118,7 +7118,7 @@
     "スペシャルティコーヒー"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/postcoffee.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/postcoffee.png"
   },
   {
    "id": "nosh",
@@ -7195,7 +7195,7 @@
     "ナッシュ(nosh)",
     "ナッシュ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/nosh.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/nosh.png"
   },
   {
    "id": "radishboya",
@@ -7248,7 +7248,7 @@
    "aliases": [
     "ラディッシュボーヤ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/radishboya.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/radishboya.png"
   },
   {
    "id": "cookpad-premium",
@@ -7300,7 +7300,7 @@
     "料理"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/cookpad-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/cookpad-premium.png"
   },
   {
    "id": "kurashiru-premium",
@@ -7352,7 +7352,7 @@
     "未確認"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/kurashiru-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/kurashiru-premium.png"
   },
   {
    "id": "suntory-water-server",
@@ -7398,7 +7398,7 @@
     "サントリー",
     "ウォーターサーバー"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/suntory-water-server.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/suntory-water-server.png"
   },
   {
    "id": "nescafe-barista-teiki",
@@ -7443,7 +7443,7 @@
     "ネスカフェ",
     "バリスタ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/nescafe-barista-teiki.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/nescafe-barista-teiki.png"
   },
   {
    "id": "mitsuboshi-farm",
@@ -7519,7 +7519,7 @@
    "aliases": [
     "みつぼしファーム"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/mitsuboshi-farm.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/mitsuboshi-farm.png"
   },
   {
    "id": "tabelog-premium",
@@ -7564,7 +7564,7 @@
     "クーポン"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/tabelog-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/tabelog-premium.png"
   },
   {
    "id": "apple-arcade",
@@ -7621,7 +7621,7 @@
    "aliases": [
     "アップルアーケード"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/apple-arcade.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/apple-arcade.png"
   },
   {
    "id": "ea-play",
@@ -7692,7 +7692,7 @@
     "サブスク"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/ea-play.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/ea-play.png"
   },
   {
    "id": "geforce-now",
@@ -7753,7 +7753,7 @@
     "ジーフォース ナウ",
     "ジーフォースナウ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/geforce-now.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/geforce-now.png"
   },
   {
    "id": "google-play-pass",
@@ -7803,7 +7803,7 @@
     "Google Play パス",
     "グーグルプレイパス"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/google-play-pass.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/google-play-pass.png"
   },
   {
    "id": "minecraft-realms",
@@ -7860,7 +7860,7 @@
     "マルチプレイ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/minecraft-realms.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/minecraft-realms.png"
   },
   {
    "id": "nintendo-switch-online",
@@ -7984,7 +7984,7 @@
     "スイッチオンライン",
     "任天堂"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/nintendo-switch-online.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/nintendo-switch-online.png"
   },
   {
    "id": "playstation-plus",
@@ -8113,7 +8113,7 @@
     "プレステ",
     "PS Plus"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/playstation-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/playstation-plus.png"
   },
   {
    "id": "pokemon-sleep-premium",
@@ -8163,7 +8163,7 @@
     "睡眠"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/pokemon-sleep-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/pokemon-sleep-premium.png"
   },
   {
    "id": "roblox-premium",
@@ -8225,7 +8225,7 @@
     "子ども"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/roblox-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/roblox-premium.png"
   },
   {
    "id": "xbox-game-pass",
@@ -8321,7 +8321,7 @@
     "エックスボックス",
     "ゲームパス"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/xbox-game-pass.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/xbox-game-pass.png"
   },
   {
    "id": "fortnite-crew",
@@ -8365,7 +8365,7 @@
     "ゲーム"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/fortnite-crew.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/fortnite-crew.png"
   },
   {
    "id": "kinto",
@@ -8418,7 +8418,7 @@
     "KINTO（キント）",
     "キント"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/kinto.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/kinto.png"
   },
   {
    "id": "luup-pass",
@@ -8463,7 +8463,7 @@
     "電動自転車"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/luup-pass.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/luup-pass.png"
   },
   {
    "id": "timescar",
@@ -8523,7 +8523,7 @@
     "タイムズ",
     "カーシェア"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/timescar.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/timescar.png"
   },
   {
    "id": "docomo-bikeshare",
@@ -8570,7 +8570,7 @@
     "ドコモ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/docomo-bikeshare.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/docomo-bikeshare.png"
   },
   {
    "id": "carshares",
@@ -8623,7 +8623,7 @@
     "カレコ",
     "カーシェア"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/carshares.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/carshares.png"
   },
   {
    "id": "awa",
@@ -8684,7 +8684,7 @@
    "aliases": [
     "アワ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/awa.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/awa.png"
   },
   {
    "id": "amazon-music-unlimited",
@@ -8795,7 +8795,7 @@
     "アマゾンミュージック",
     "Amazon Music"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/amazon-music-unlimited.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/amazon-music-unlimited.png"
   },
   {
    "id": "apple-music",
@@ -8888,7 +8888,7 @@
    "aliases": [
     "アップルミュージック"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/apple-music.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/apple-music.png"
   },
   {
    "id": "apple-one",
@@ -8953,7 +8953,7 @@
    "aliases": [
     "アップルワン"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/apple-one.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/apple-one.png"
   },
   {
    "id": "audible",
@@ -9005,7 +9005,7 @@
    "aliases": [
     "オーディブル"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/audible.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/audible.png"
   },
   {
    "id": "deezer",
@@ -9063,7 +9063,7 @@
     "ハイレゾ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/deezer.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/deezer.png"
   },
   {
    "id": "kkbox",
@@ -9106,7 +9106,7 @@
    "aliases": [
     "ケーケーボックス"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/kkbox.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/kkbox.png"
   },
   {
    "id": "line-music",
@@ -9176,7 +9176,7 @@
    "aliases": [
     "ラインミュージック"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/line-music.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/line-music.png"
   },
   {
    "id": "soundcloud-go-plus",
@@ -9225,7 +9225,7 @@
     "音楽ストリーミング"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/soundcloud-go-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/soundcloud-go-plus.png"
   },
   {
    "id": "spotify",
@@ -9320,7 +9320,7 @@
     "スポティファイ",
     "スポティファイ プレミアム"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/spotify.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/spotify.png"
   },
   {
    "id": "voicy-premium",
@@ -9373,7 +9373,7 @@
     "クリエイター支援"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/voicy-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/voicy-premium.png"
   },
   {
    "id": "audiobook-jp",
@@ -9425,7 +9425,7 @@
     "オーディオブック・ドットジェイピー",
     "オーディオブック"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/audiobook-jp.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/audiobook-jp.png"
   },
   {
    "id": "au-music-pass",
@@ -9493,7 +9493,7 @@
     "うたパス",
     "ウタパス"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/au-music-pass.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/au-music-pass.png"
   },
   {
    "id": "d-hits",
@@ -9552,7 +9552,7 @@
    "aliases": [
     "ディーヒッツ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/d-hits.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/d-hits.png"
   },
   {
    "id": "pokekara-vip",
@@ -9620,7 +9620,7 @@
     "アプリ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/pokekara-vip.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/pokekara-vip.png"
   },
   {
    "id": "rakuten-music",
@@ -9685,7 +9685,7 @@
    ],
    "verifiedAt": "2026-10-21",
    "aliases": [],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/rakuten-music.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/rakuten-music.png"
   },
   {
    "id": "bloomberg",
@@ -9736,7 +9736,7 @@
     "経済"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/bloomberg.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/bloomberg.png"
   },
   {
    "id": "newspicks",
@@ -9796,7 +9796,7 @@
    "aliases": [
     "ニューズピックス"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/newspicks.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/newspicks.png"
   },
   {
    "id": "nytimes",
@@ -9850,7 +9850,7 @@
     "海外メディア"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/nytimes.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/nytimes.png"
   },
   {
    "id": "wsj",
@@ -9903,7 +9903,7 @@
     "英語"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/wsj.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/wsj.png"
   },
   {
    "id": "smartnews-plus",
@@ -9946,7 +9946,7 @@
     "クーポン"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/smartnews-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/smartnews-plus.png"
   },
   {
    "id": "nikkei-digital",
@@ -10000,7 +10000,7 @@
     "日経",
     "ニッケイ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/nikkei-digital.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/nikkei-digital.png"
   },
   {
    "id": "asahi-digital",
@@ -10060,7 +10060,7 @@
    "aliases": [
     "朝日"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/asahi-digital.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/asahi-digital.png"
   },
   {
    "id": "toyokeizai-online",
@@ -10111,7 +10111,7 @@
    "aliases": [
     "東洋経済"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/toyokeizai-online.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/toyokeizai-online.png"
   },
   {
    "id": "mainichi-digital",
@@ -10162,7 +10162,7 @@
    "aliases": [
     "毎日"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/mainichi-digital.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/mainichi-digital.png"
   },
   {
    "id": "yomiuri-online",
@@ -10217,7 +10217,7 @@
    "aliases": [
     "読売"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/yomiuri-online.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/yomiuri-online.png"
   },
   {
    "id": "address",
@@ -10293,7 +10293,7 @@
     "旅"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/address.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/address.png"
   },
   {
    "id": "jaf",
@@ -10337,7 +10337,7 @@
     "会員優待"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/jaf.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/jaf.png"
   },
   {
    "id": "jal-neobank-premium",
@@ -10381,7 +10381,7 @@
     "住信SBI"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/jal-neobank-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/jal-neobank-premium.png"
   },
   {
    "id": "norel",
@@ -10432,7 +10432,7 @@
     "ガリバー"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/norel.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/norel.png"
   },
   {
    "id": "mederi-pill",
@@ -10474,7 +10474,7 @@
     "フェムテック"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/mederi-pill.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/mederi-pill.png"
   },
   {
    "id": "note-premium",
@@ -10515,7 +10515,7 @@
     "クリエイター"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/note-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/note-premium.png"
   },
   {
    "id": "radiko-premium",
@@ -10577,7 +10577,7 @@
     "音声"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/radiko-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/radiko-premium.png"
   },
   {
    "id": "club-off",
@@ -10629,7 +10629,7 @@
     "宿泊割引"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/club-off.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/club-off.png"
   },
   {
    "id": "clinicfor-pill",
@@ -10680,7 +10680,7 @@
     "定期配送"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/clinicfor-pill.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/clinicfor-pill.png"
   },
   {
    "id": "smaluna",
@@ -10732,7 +10732,7 @@
     "フェムテック"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/smaluna.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/smaluna.png"
   },
   {
    "id": "tiketplus-trade-premium",
@@ -10776,7 +10776,7 @@
     "ライブ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/tiketplus-trade-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/tiketplus-trade-premium.png"
   },
   {
    "id": "amazon-prime",
@@ -10875,7 +10875,7 @@
     "Amazonプライム",
     "アマプラ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/amazon-prime.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/amazon-prime.png"
   },
   {
    "id": "clas",
@@ -10919,7 +10919,7 @@
     "レンタル"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/clas.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/clas.png"
   },
   {
    "id": "mylittlebox",
@@ -10961,7 +10961,7 @@
     "サブスクボックス"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/mylittlebox.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/mylittlebox.png"
   },
   {
    "id": "uber-one",
@@ -11033,7 +11033,7 @@
     "ウーバーワン",
     "ウーバーイーツ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/uber-one.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/uber-one.png"
   },
   {
    "id": "wolt-plus",
@@ -11083,7 +11083,7 @@
    "aliases": [
     "ウォルト"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/wolt-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/wolt-plus.png"
   },
   {
    "id": "aircloset",
@@ -11135,7 +11135,7 @@
     "スタイリスト"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/aircloset.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/aircloset.png"
   },
   {
    "id": "bloomee",
@@ -11179,7 +11179,7 @@
     "ポスト投函"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/bloomee.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/bloomee.png"
   },
   {
    "id": "menu-pass",
@@ -11223,7 +11223,7 @@
    "aliases": [
     "メニューパス"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/menu-pass.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/menu-pass.png"
   },
   {
    "id": "mi-tomonokai",
@@ -11275,7 +11275,7 @@
     "伊勢丹"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/mi-tomonokai.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/mi-tomonokai.png"
   },
   {
    "id": "costco",
@@ -11353,7 +11353,7 @@
    "aliases": [
     "Costco"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/costco.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/costco.png"
   },
   {
    "id": "mechakari",
@@ -11412,7 +11412,7 @@
     "洋服サブスク"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/mechakari.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/mechakari.png"
   },
   {
    "id": "discord-nitro",
@@ -11475,7 +11475,7 @@
     "コミュニティ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/discord-nitro.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/discord-nitro.png"
   },
   {
    "id": "linkedin",
@@ -11553,7 +11553,7 @@
     "転職"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/linkedin.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/linkedin.png"
   },
   {
    "id": "meta-verified",
@@ -11608,7 +11608,7 @@
     "Facebook"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/meta-verified.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/meta-verified.png"
   },
   {
    "id": "snapchat-plus",
@@ -11649,7 +11649,7 @@
     "プレミアム機能"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/snapchat-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/snapchat-plus.png"
   },
   {
    "id": "telegram-premium",
@@ -11698,7 +11698,7 @@
     "メッセンジャー"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/telegram-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/telegram-premium.png"
   },
   {
    "id": "x-premium",
@@ -11770,7 +11770,7 @@
     "Grok"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/x-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/x-premium.png"
   },
   {
    "id": "1password",
@@ -11837,7 +11837,7 @@
    "aliases": [
     "ワンパスワード"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/1password.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/1password.png"
   },
   {
    "id": "adobe-creative-cloud",
@@ -11985,7 +11985,7 @@
     "アドビ",
     "クリエイティブクラウド"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/adobe-creative-cloud.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/adobe-creative-cloud.png"
   },
   {
    "id": "lightroom",
@@ -12046,7 +12046,7 @@
     "Adobe"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/lightroom.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/lightroom.png"
   },
   {
    "id": "ahrefs",
@@ -12103,7 +12103,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/ahrefs.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/ahrefs.png"
   },
   {
    "id": "airtable",
@@ -12164,7 +12164,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/airtable.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/airtable.png"
   },
   {
    "id": "apple-developer-program",
@@ -12209,7 +12209,7 @@
     "年会費"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/apple-developer-program.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/apple-developer-program.png"
   },
   {
    "id": "asana",
@@ -12268,7 +12268,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/asana.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/asana.png"
   },
   {
    "id": "backblaze",
@@ -12319,7 +12319,7 @@
     "ストレージ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/backblaze.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/backblaze.png"
   },
   {
    "id": "bear-pro",
@@ -12368,7 +12368,7 @@
     "Markdown"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/bear-pro.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/bear-pro.png"
   },
   {
    "id": "bitwarden",
@@ -12421,7 +12421,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/bitwarden.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/bitwarden.png"
   },
   {
    "id": "bolt-new",
@@ -12483,7 +12483,7 @@
     "ノーコード"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/bolt-new.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/bolt-new.png"
   },
   {
    "id": "box-personal-pro",
@@ -12524,7 +12524,7 @@
     "クラウドストレージ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/box-personal-pro.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/box-personal-pro.png"
   },
   {
    "id": "buffer",
@@ -12587,7 +12587,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/buffer.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/buffer.png"
   },
   {
    "id": "calendly",
@@ -12649,7 +12649,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/calendly.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/calendly.png"
   },
   {
    "id": "canva",
@@ -12717,7 +12717,7 @@
     "Canva Pro / ビジネス",
     "キャンバ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/canva.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/canva.png"
   },
   {
    "id": "capcut-pro",
@@ -12775,7 +12775,7 @@
     "動画編集"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/capcut-pro.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/capcut-pro.png"
   },
   {
    "id": "chatwork",
@@ -12831,7 +12831,7 @@
     "国内"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/chatwork.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/chatwork.png"
   },
   {
    "id": "foryou-check",
@@ -12881,7 +12881,7 @@
     "forYou inc."
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/foryou-check.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-check.png"
   },
   {
    "id": "clickup",
@@ -12943,7 +12943,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/clickup.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/clickup.png"
   },
   {
    "id": "cloudflare",
@@ -13004,7 +13004,7 @@
     "インフラ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/cloudflare.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/cloudflare.png"
   },
   {
    "id": "cloudinary",
@@ -13065,7 +13065,7 @@
     "CDN"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/cloudinary.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/cloudinary.png"
   },
   {
    "id": "craft",
@@ -13124,7 +13124,7 @@
     "ドキュメント"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/craft.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/craft.png"
   },
   {
    "id": "dashlane",
@@ -13177,7 +13177,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/dashlane.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/dashlane.png"
   },
   {
    "id": "datadog",
@@ -13238,7 +13238,7 @@
     "インフラ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/datadog.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/datadog.png"
   },
   {
    "id": "day-one",
@@ -13296,7 +13296,7 @@
     "ジャーナル"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/day-one.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/day-one.png"
   },
   {
    "id": "deepl-pro",
@@ -13356,7 +13356,7 @@
     "AI"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/deepl-pro.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/deepl-pro.png"
   },
   {
    "id": "dify",
@@ -13417,7 +13417,7 @@
     "ノーコード"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/dify.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/dify.png"
   },
   {
    "id": "docker",
@@ -13478,7 +13478,7 @@
     "ツール"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/docker.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/docker.png"
   },
   {
    "id": "dropbox",
@@ -13561,7 +13561,7 @@
    "aliases": [
     "ドロップボックス"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/dropbox.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/dropbox.png"
   },
   {
    "id": "eset",
@@ -13618,7 +13618,7 @@
     "ウイルス対策"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/eset.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/eset.png"
   },
   {
    "id": "envato-elements",
@@ -13680,7 +13680,7 @@
     "ストック"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/envato-elements.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/envato-elements.png"
   },
   {
    "id": "evernote",
@@ -13778,7 +13778,7 @@
    "aliases": [
     "エバーノート"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/evernote.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/evernote.png"
   },
   {
    "id": "excalidraw-plus",
@@ -13829,7 +13829,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/excalidraw-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/excalidraw-plus.png"
   },
   {
    "id": "expressvpn",
@@ -13922,7 +13922,7 @@
    "aliases": [
     "エクスプレスVPN"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/expressvpn.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/expressvpn.png"
   },
   {
    "id": "figma-professional",
@@ -13972,7 +13972,7 @@
     "デザイン"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/figma-professional.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/figma-professional.png"
   },
   {
    "id": "font-awesome",
@@ -14071,7 +14071,7 @@
     "デザイン"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/font-awesome.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/font-awesome.png"
   },
   {
    "id": "frame-io",
@@ -14123,7 +14123,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/frame-io.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/frame-io.png"
   },
   {
    "id": "framer",
@@ -14192,7 +14192,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/framer.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/framer.png"
   },
   {
    "id": "gitlab",
@@ -14235,7 +14235,7 @@
     "DevOps"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/gitlab.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/gitlab.png"
   },
   {
    "id": "goodnotes",
@@ -14294,7 +14294,7 @@
     "手書き"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/goodnotes.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/goodnotes.png"
   },
   {
    "id": "google-one",
@@ -14374,7 +14374,7 @@
    "aliases": [
     "グーグルワン"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/google-one.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/google-one.png"
   },
   {
    "id": "google-workspace-business-starter",
@@ -14432,7 +14432,7 @@
     "クラウド"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/google-workspace-business-starter.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/google-workspace-business-starter.png"
   },
   {
    "id": "grammarly-pro",
@@ -14492,7 +14492,7 @@
     "AI"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/grammarly-pro.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/grammarly-pro.png"
   },
   {
    "id": "heroku",
@@ -14554,7 +14554,7 @@
     "PaaS"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/heroku.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/heroku.png"
   },
   {
    "id": "hootsuite",
@@ -14607,7 +14607,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/hootsuite.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/hootsuite.png"
   },
   {
    "id": "hotjar",
@@ -14659,7 +14659,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/hotjar.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/hotjar.png"
   },
   {
    "id": "hubspot",
@@ -14708,7 +14708,7 @@
     "ビジネス"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/hubspot.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/hubspot.png"
   },
   {
    "id": "intercom",
@@ -14768,7 +14768,7 @@
     "ビジネス"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/intercom.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/intercom.png"
   },
   {
    "id": "jetbrains-all-products",
@@ -14821,7 +14821,7 @@
     "IDE"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/jetbrains-all-products.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/jetbrains-all-products.png"
   },
   {
    "id": "foryou-kagi",
@@ -14864,7 +14864,7 @@
     "forYou inc."
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/foryou-kagi.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-kagi.png"
   },
   {
    "id": "kit",
@@ -14926,7 +14926,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/kit.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/kit.png"
   },
   {
    "id": "line-stickers-premium",
@@ -14978,7 +14978,7 @@
    "aliases": [
     "ラインスタンプ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/line-stickers-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/line-stickers-premium.png"
   },
   {
    "id": "lastpass",
@@ -15031,7 +15031,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/lastpass.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/lastpass.png"
   },
   {
    "id": "loom",
@@ -15092,7 +15092,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/loom.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/loom.png"
   },
   {
    "id": "lottiefiles",
@@ -15143,7 +15143,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/lottiefiles.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/lottiefiles.png"
   },
   {
    "id": "lovable",
@@ -15196,7 +15196,7 @@
     "ノーコード"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/lovable.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/lovable.png"
   },
   {
    "id": "mailchimp",
@@ -15245,7 +15245,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/mailchimp.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/mailchimp.png"
   },
   {
    "id": "make",
@@ -15305,7 +15305,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/make.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/make.png"
   },
   {
    "id": "foryou-margins",
@@ -15346,7 +15346,7 @@
     "forYou inc."
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/foryou-margins.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-margins.png"
   },
   {
    "id": "microsoft-365",
@@ -15477,7 +15477,7 @@
     "オフィス",
     "Office"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/microsoft-365.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/microsoft-365.png"
   },
   {
    "id": "miro",
@@ -15546,7 +15546,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/miro.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/miro.png"
   },
   {
    "id": "morisawa-fonts",
@@ -15614,7 +15614,7 @@
     "デザイン"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/morisawa-fonts.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/morisawa-fonts.png"
   },
   {
    "id": "foryou-mosaic",
@@ -15657,7 +15657,7 @@
     "forYou inc."
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/foryou-mosaic.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-mosaic.png"
   },
   {
    "id": "mullvad-vpn",
@@ -15703,7 +15703,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/mullvad-vpn.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/mullvad-vpn.png"
   },
   {
    "id": "namecheap",
@@ -15745,7 +15745,7 @@
     "開発"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/namecheap.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/namecheap.png"
   },
   {
    "id": "netlify",
@@ -15797,7 +15797,7 @@
     "ホスティング"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/netlify.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/netlify.png"
   },
   {
    "id": "nordvpn",
@@ -15856,7 +15856,7 @@
    "aliases": [
     "ノードVPN"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/nordvpn.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/nordvpn.png"
   },
   {
    "id": "notion",
@@ -15924,7 +15924,7 @@
    "aliases": [
     "ノーション"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/notion.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/notion.png"
   },
   {
    "id": "obsidian-sync",
@@ -15975,7 +15975,7 @@
     "同期"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/obsidian-sync.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/obsidian-sync.png"
   },
   {
    "id": "otter-pro",
@@ -16027,7 +16027,7 @@
     "AI"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/otter-pro.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/otter-pro.png"
   },
   {
    "id": "planetscale",
@@ -16078,7 +16078,7 @@
     "データベース"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/planetscale.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/planetscale.png"
   },
   {
    "id": "proton",
@@ -16144,7 +16144,7 @@
     "セキュリティ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/proton.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/proton.png"
   },
   {
    "id": "railway",
@@ -16197,7 +16197,7 @@
     "PaaS"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/railway.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/railway.png"
   },
   {
    "id": "raycast",
@@ -16258,7 +16258,7 @@
     "AI"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/raycast.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/raycast.png"
   },
   {
    "id": "render",
@@ -16310,7 +16310,7 @@
     "PaaS"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/render.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/render.png"
   },
   {
    "id": "replit",
@@ -16372,7 +16372,7 @@
     "IDE"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/replit.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/replit.png"
   },
   {
    "id": "foryou-screentimeblocker",
@@ -16422,7 +16422,7 @@
     "forYou inc."
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/foryou-screentimeblocker.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-screentimeblocker.png"
   },
   {
    "id": "semrush",
@@ -16482,7 +16482,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/semrush.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/semrush.png"
   },
   {
    "id": "sentry",
@@ -16534,7 +16534,7 @@
     "エラートラッキング"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/sentry.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/sentry.png"
   },
   {
    "id": "setapp",
@@ -16595,7 +16595,7 @@
    "aliases": [
     "セットアップ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/setapp.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/setapp.png"
   },
   {
    "id": "shopify",
@@ -16669,7 +16669,7 @@
     "ビジネス"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/shopify.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/shopify.png"
   },
   {
    "id": "shutterstock",
@@ -16709,7 +16709,7 @@
     "素材"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/shutterstock.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/shutterstock.png"
   },
   {
    "id": "sketch",
@@ -16769,7 +16769,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/sketch.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/sketch.png"
   },
   {
    "id": "slack",
@@ -16849,7 +16849,7 @@
     "Slack Pro",
     "スラック"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/slack.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/slack.png"
   },
   {
    "id": "spark-mail",
@@ -16908,7 +16908,7 @@
     "メール"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/spark-mail.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/spark-mail.png"
   },
   {
    "id": "squarespace",
@@ -16981,7 +16981,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/squarespace.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/squarespace.png"
   },
   {
    "id": "supabase",
@@ -17034,7 +17034,7 @@
     "BaaS"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/supabase.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/supabase.png"
   },
   {
    "id": "surfshark",
@@ -17094,7 +17094,7 @@
     "セキュリティ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/surfshark.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/surfshark.png"
   },
   {
    "id": "sync-com",
@@ -17155,7 +17155,7 @@
     "クラウド"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/sync-com.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/sync-com.png"
   },
   {
    "id": "todoist-pro",
@@ -17213,7 +17213,7 @@
     "タスク管理"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/todoist-pro.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/todoist-pro.png"
   },
   {
    "id": "tradingview",
@@ -17277,7 +17277,7 @@
     "トレード"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/tradingview.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/tradingview.png"
   },
   {
    "id": "trello",
@@ -17339,7 +17339,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/trello.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/trello.png"
   },
   {
    "id": "unity",
@@ -17400,7 +17400,7 @@
     "ツール"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/unity.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/unity.png"
   },
   {
    "id": "upstash",
@@ -17452,7 +17452,7 @@
     "Redis"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/upstash.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/upstash.png"
   },
   {
    "id": "vsco",
@@ -17501,7 +17501,7 @@
     "フィルター"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/vsco.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/vsco.png"
   },
   {
    "id": "vercel",
@@ -17544,7 +17544,7 @@
     "ホスティング"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/vercel.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/vercel.png"
   },
   {
    "id": "vimeo",
@@ -17607,7 +17607,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/vimeo.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/vimeo.png"
   },
   {
    "id": "webflow",
@@ -17667,7 +17667,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/webflow.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/webflow.png"
   },
   {
    "id": "windsurf",
@@ -17719,7 +17719,7 @@
     "IDE"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/windsurf.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/windsurf.png"
   },
   {
    "id": "wix",
@@ -17784,7 +17784,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/wix.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/wix.png"
   },
   {
    "id": "wordpress-com",
@@ -17856,7 +17856,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/wordpress-com.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/wordpress-com.png"
   },
   {
    "id": "xserver",
@@ -17915,7 +17915,7 @@
     "レンタルサーバー"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/xserver.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/xserver.png"
   },
   {
    "id": "zapier",
@@ -17976,7 +17976,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/zapier.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/zapier.png"
   },
   {
    "id": "zendesk",
@@ -18045,7 +18045,7 @@
     "ビジネス"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/zendesk.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/zendesk.png"
   },
   {
    "id": "zoom",
@@ -18098,7 +18098,7 @@
     "Zoom Workplace Pro",
     "ズーム"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/zoom.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/zoom.png"
   },
   {
    "id": "beehiiv",
@@ -18157,7 +18157,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/beehiiv.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/beehiiv.png"
   },
   {
    "id": "icloud-plus",
@@ -18263,7 +18263,7 @@
    "aliases": [
     "アイクラウド"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/icloud-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/icloud-plus.png"
   },
   {
    "id": "monday-com",
@@ -18331,7 +18331,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/monday-com.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/monday-com.png"
   },
   {
    "id": "foryou-months",
@@ -18381,7 +18381,7 @@
     "forYou inc."
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/foryou-months.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-months.png"
   },
   {
    "id": "pcloud",
@@ -18433,7 +18433,7 @@
     "クラウド"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/pcloud.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/pcloud.png"
   },
   {
    "id": "v0",
@@ -18486,7 +18486,7 @@
     "ツール"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/v0.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/v0.png"
   },
   {
    "id": "virusbuster-cloud",
@@ -18561,7 +18561,7 @@
    "aliases": [
     "トレンドマイクロ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/virusbuster-cloud.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/virusbuster-cloud.png"
   },
   {
    "id": "kaspersky",
@@ -18637,7 +18637,7 @@
     "ウイルス対策"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/kaspersky.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/kaspersky.png"
   },
   {
    "id": "foryou-subsnote",
@@ -18687,7 +18687,7 @@
     "forYou inc."
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/foryou-subsnote.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-subsnote.png"
   },
   {
    "id": "norton-360",
@@ -18747,7 +18747,7 @@
    "aliases": [
     "ノートン"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/norton-360.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/norton-360.png"
   },
   {
    "id": "mcafee",
@@ -18788,7 +18788,7 @@
     "ウイルス対策"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/mcafee.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/mcafee.png"
   },
   {
    "id": "gmo-tokutoku-wimax",
@@ -18840,7 +18840,7 @@
    "aliases": [
     "とくとくBB"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/gmo-tokutoku-wimax.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/gmo-tokutoku-wimax.png"
   },
   {
    "id": "iijmio",
@@ -18931,7 +18931,7 @@
    "aliases": [
     "アイアイジェイミオ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/iijmio.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/iijmio.png"
   },
   {
    "id": "jal-mobile",
@@ -18983,7 +18983,7 @@
     "JAL"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/jal-mobile.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/jal-mobile.png"
   },
   {
    "id": "linemo",
@@ -19043,7 +19043,7 @@
    "aliases": [
     "ラインモ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/linemo.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/linemo.png"
   },
   {
    "id": "docomo",
@@ -19149,7 +19149,7 @@
     "ドコモ",
     "docomo"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/docomo.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/docomo.png"
   },
   {
    "id": "nuro-hikari",
@@ -19238,7 +19238,7 @@
     "ニューロ光",
     "NURO光"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/nuro-hikari.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/nuro-hikari.png"
   },
   {
    "id": "softbank-hikari",
@@ -19305,7 +19305,7 @@
    "aliases": [
     "ソフトバンク光"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/softbank-hikari.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/softbank-hikari.png"
   },
   {
    "id": "uq-wimax",
@@ -19353,7 +19353,7 @@
     "ワイマックス",
     "WiMAX"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/uq-wimax.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/uq-wimax.png"
   },
   {
    "id": "uq-mobile",
@@ -19414,7 +19414,7 @@
    "aliases": [
     "ユーキューモバイル"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/uq-mobile.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/uq-mobile.png"
   },
   {
    "id": "ymobile",
@@ -19495,7 +19495,7 @@
    "aliases": [
     "ワイモバイル"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/ymobile.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/ymobile.png"
   },
   {
    "id": "ahamo",
@@ -19569,7 +19569,7 @@
    "aliases": [
     "アハモ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/ahamo.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/ahamo.png"
   },
   {
    "id": "au",
@@ -19649,7 +19649,7 @@
     "エーユー",
     "KDDI"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/au.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/au.png"
   },
   {
    "id": "au-hikari",
@@ -19701,7 +19701,7 @@
    ],
    "verifiedAt": "2026-10-21",
    "aliases": [],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/au-hikari.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/au-hikari.png"
   },
   {
    "id": "mineo",
@@ -19777,7 +19777,7 @@
    "aliases": [
     "マイネオ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/mineo.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/mineo.png"
   },
   {
    "id": "povo",
@@ -19862,7 +19862,7 @@
     "ポヴォ",
     "ポボ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/povo.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/povo.png"
   },
   {
    "id": "softbank",
@@ -19974,7 +19974,7 @@
    ],
    "verifiedAt": "2026-10-21",
    "aliases": [],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/softbank.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/softbank.png"
   },
   {
    "id": "docomo-hikari",
@@ -20026,7 +20026,7 @@
    ],
    "verifiedAt": "2026-10-21",
    "aliases": [],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/docomo-hikari.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/docomo-hikari.png"
   },
   {
    "id": "flets-hikari",
@@ -20095,7 +20095,7 @@
    "aliases": [
     "フレッツ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/flets-hikari.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/flets-hikari.png"
   },
   {
    "id": "rakuten-mobile",
@@ -20163,7 +20163,7 @@
    ],
    "verifiedAt": "2026-10-21",
    "aliases": [],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/rakuten-mobile.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/rakuten-mobile.png"
   },
   {
    "id": "applecare-plus",
@@ -20257,7 +20257,7 @@
    "aliases": [
     "アップルケア"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/applecare-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/applecare-plus.png"
   },
   {
    "id": "conoha-wing",
@@ -20309,7 +20309,7 @@
    "aliases": [
     "コノハ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/conoha-wing.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/conoha-wing.png"
   },
   {
    "id": "google-home-premium",
@@ -20373,7 +20373,7 @@
     "防犯カメラ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/google-home-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/google-home-premium.png"
   },
   {
    "id": "navitime-premium",
@@ -20433,7 +20433,7 @@
     "地図"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/navitime-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/navitime-premium.png"
   },
   {
    "id": "nhk",
@@ -20516,7 +20516,7 @@
     "エヌエイチケー",
     "受信料"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/nhk.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/nhk.png"
   },
   {
    "id": "ring-home",
@@ -20576,7 +20576,7 @@
     "ドアベル"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/ring-home.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/ring-home.png"
   },
   {
    "id": "switchbot-cloud",
@@ -20625,7 +20625,7 @@
     "防犯カメラ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/switchbot-cloud.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/switchbot-cloud.png"
   },
   {
    "id": "d-valuepass",
@@ -20676,7 +20676,7 @@
     "アプリ定額"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/d-valuepass.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/d-valuepass.png"
   },
   {
    "id": "onamae",
@@ -20736,7 +20736,7 @@
    "aliases": [
     "おなまえ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/onamae.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/onamae.png"
   },
   {
    "id": "sakura-internet",
@@ -20788,7 +20788,7 @@
    "aliases": [
     "サクラ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/sakura-internet.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/sakura-internet.png"
   },
   {
    "id": "softbank-tokuhodai",
@@ -20840,7 +20840,7 @@
     "クーポン"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/softbank-tokuhodai.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/softbank-tokuhodai.png"
   },
   {
    "id": "ekispert-premium",
@@ -20888,7 +20888,7 @@
     "定期券"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/ekispert-premium.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/ekispert-premium.png"
   },
   {
    "id": "abema",
@@ -20957,7 +20957,7 @@
    "aliases": [
     "アベマ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/abema.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/abema.png"
   },
   {
    "id": "apple-tv-plus",
@@ -21023,7 +21023,7 @@
     "アップルティービー",
     "Apple TV+"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/apple-tv-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/apple-tv-plus.png"
   },
   {
    "id": "crunchyroll",
@@ -21075,7 +21075,7 @@
     "未確認"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/crunchyroll.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/crunchyroll.png"
   },
   {
    "id": "dazn",
@@ -21174,7 +21174,7 @@
    "aliases": [
     "ダゾーン"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/dazn.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/dazn.png"
   },
   {
    "id": "dmm-tv",
@@ -21244,7 +21244,7 @@
     "ディーエムエム",
     "DMMプレミアム"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/dmm-tv.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/dmm-tv.png"
   },
   {
    "id": "downtown-plus",
@@ -21297,7 +21297,7 @@
     "吉本興業"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/downtown-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/downtown-plus.png"
   },
   {
    "id": "disney-plus",
@@ -21395,7 +21395,7 @@
     "ディズニープラス",
     "ディズニー"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/disney-plus.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/disney-plus.png"
   },
   {
    "id": "f1-tv",
@@ -21452,7 +21452,7 @@
     "スポーツ"
    ],
    "verifiedAt": null,
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/f1-tv.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/f1-tv.png"
   },
   {
    "id": "fod",
@@ -21558,7 +21558,7 @@
     "フジテレビオンデマンド",
     "エフオーディー"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/fod.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/fod.png"
   },
   {
    "id": "hulu",
@@ -21662,7 +21662,7 @@
    "aliases": [
     "フールー"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/hulu.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/hulu.png"
   },
   {
    "id": "j-sports",
@@ -21747,7 +21747,7 @@
    "aliases": [
     "ジェイスポーツ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/j-sports.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/j-sports.png"
   },
   {
    "id": "lemino",
@@ -21816,7 +21816,7 @@
     "レミノ",
     "dTV"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/lemino.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/lemino.png"
   },
   {
    "id": "mlb-tv",
@@ -21879,7 +21879,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/mlb-tv.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/mlb-tv.png"
   },
   {
    "id": "nba-docomo",
@@ -21932,7 +21932,7 @@
     "ドコモ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/nba-docomo.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/nba-docomo.png"
   },
   {
    "id": "nhk-kodomo-park",
@@ -21975,7 +21975,7 @@
     "未確認"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/nhk-kodomo-park.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/nhk-kodomo-park.png"
   },
   {
    "id": "nhk-on-demand",
@@ -22018,7 +22018,7 @@
    "aliases": [
     "エヌエイチケー オンデマンド"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/nhk-on-demand.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/nhk-on-demand.png"
   },
   {
    "id": "netflix",
@@ -22100,7 +22100,7 @@
     "ネットフリックス",
     "ネトフリ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/netflix.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/netflix.png"
   },
   {
    "id": "plex-pass",
@@ -22151,7 +22151,7 @@
     "動画"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/plex-pass.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/plex-pass.png"
   },
   {
    "id": "ponta-pass",
@@ -22197,7 +22197,7 @@
     "ポンタパス",
     "auスマートパス"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/ponta-pass.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/ponta-pass.png"
   },
   {
    "id": "rakuten-tv",
@@ -22250,7 +22250,7 @@
     "楽天TV",
     "楽天ティービー"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/rakuten-tv.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/rakuten-tv.png"
   },
   {
    "id": "rakuten-viki",
@@ -22311,7 +22311,7 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/rakuten-viki.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/rakuten-viki.png"
   },
   {
    "id": "spotv-now",
@@ -22392,7 +22392,7 @@
     "サッカー"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/spotv-now.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/spotv-now.png"
   },
   {
    "id": "telasa",
@@ -22447,7 +22447,7 @@
    "aliases": [
     "テラサ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/telasa.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/telasa.png"
   },
   {
    "id": "u-next",
@@ -22503,7 +22503,7 @@
    "aliases": [
     "ユーネクスト"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/u-next.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/u-next.png"
   },
   {
    "id": "watcha",
@@ -22559,7 +22559,7 @@
     "映画"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/watcha.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/watcha.png"
   },
   {
    "id": "wowow",
@@ -22613,7 +22613,7 @@
    "aliases": [
     "ワウワウ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/wowow.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/wowow.png"
   },
   {
    "id": "wwe-network",
@@ -22657,7 +22657,7 @@
    "aliases": [
     "ダブリューダブリューイー"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/wwe-network.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/wwe-network.png"
   },
   {
    "id": "youtube",
@@ -22779,7 +22779,7 @@
     "音楽"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/youtube.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/youtube.png"
   },
   {
    "id": "d-anime-store",
@@ -22868,7 +22868,7 @@
     "ディーアニメ",
     "dアニメ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/d-anime-store.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/d-anime-store.png"
   },
   {
    "id": "hikari-tv",
@@ -22943,7 +22943,7 @@
     "専門チャンネル"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/hikari-tv.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/hikari-tv.png"
   },
   {
    "id": "anime-times",
@@ -22984,7 +22984,7 @@
    "aliases": [
     "Anime Times"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/anime-times.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/anime-times.png"
   },
   {
    "id": "skyperfectv",
@@ -23053,7 +23053,7 @@
     "スカパー",
     "SKY PerfecTV"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/skyperfectv.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/skyperfectv.png"
   },
   {
    "id": "star-channel-ex",
@@ -23094,7 +23094,7 @@
    "aliases": [
     "スターチャンネル"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/star-channel-ex.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/star-channel-ex.png"
   },
   {
    "id": "niconico",
@@ -23187,7 +23187,7 @@
     "配信"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/niconico.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/niconico.png"
   },
   {
    "id": "bandai-channel",
@@ -23231,7 +23231,7 @@
    "aliases": [
     "バンダイ"
    ],
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/bandai-channel.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/bandai-channel.png"
   },
   {
    "id": "ttfc",
@@ -23274,7 +23274,7 @@
     "戦隊"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://shinyakaneda.github.io/subsnote-catalog/icons/ttfc.png"
+   "iconUrl": "https://catalog.uuuu.to/icons/ttfc.png"
   }
  ]
 }
