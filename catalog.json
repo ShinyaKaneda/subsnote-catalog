@@ -1,5 +1,5 @@
 {
- "version": 9,
+ "version": 10,
  "updatedAt": "2026-10-22",
  "idMigrations": {
   "niconico-premium": {
@@ -70,6 +70,13 @@
     "individual": "music-individual",
     "family": "music-family",
     "student": "music-student"
+   }
+  },
+  "meta-verified": {
+   "id": "meta-one",
+   "plans": {
+    "instagram-standard": "verified-legacy",
+    "facebook-standard": "verified-legacy"
    }
   }
  },
@@ -13376,7 +13383,14 @@
     "WhatsApp Plus",
     "インスタ 有料",
     "Meta One Core",
-    "Meta One Premium"
+    "Meta One Premium",
+    "Meta Verified",
+    "メタ認証",
+    "Meta認証",
+    "Instagram認証バッジ",
+    "インスタ認証",
+    "Facebook認証",
+    "認証バッジ"
    ],
    "category": "sns",
    "brandColor": "#0866FF",
@@ -13456,6 +13470,14 @@
      "cycle": "monthly",
      "currency": "JPY",
      "notes": "クリエイター・ビジネス向け。2026-09 時点で日本のアプリ内に表示される税込価格（Impress Watch・ITmedia・neworder 等の報道で確認）。地域・アカウントにより異なる場合あり"
+    },
+    {
+     "id": "verified-legacy",
+     "name": "Meta Verified（旧プラン）",
+     "price": 2000,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "Meta One 以前から Meta Verified を契約している場合の旧プラン（Instagram の App Store 課金「Meta Verified Standard」2,000円で確認、2026-10）。新規は Meta One のビジネスプランに統合"
     }
    ],
    "cancelSteps": [
@@ -13464,7 +13486,7 @@
     "「サブスクリプションを管理」→キャンセル",
     "Apple/Google 経由で契約した場合は各ストアのサブスクリプション管理から解約"
    ],
-   "cancelNotes": "いつでも解約でき、請求期間の末日まで特典を使える。ビジネスプランを解約すると認証バッジとなりすまし対策が外れる場合がある。加入しても広告は非表示にならない。",
+   "cancelNotes": "いつでも解約でき、請求期間の末日まで特典を使える。ビジネスプランを解約すると認証バッジとなりすまし対策が外れる場合がある。加入しても広告は非表示にならない。 旧 Meta Verified を契約中の場合も、同じ「サブスクリプション」画面から解約できる。",
    "paymentChannels": [
     "apple",
     "google",
@@ -13480,61 +13502,6 @@
    ],
    "verifiedAt": "2026-10-22",
    "iconUrl": "https://catalog.uuuu.to/icons/meta-one.png"
-  },
-  {
-   "id": "meta-verified",
-   "name": "Meta Verified",
-   "nameJa": "Meta Verified",
-   "aliases": [
-    "Meta認証",
-    "メタ認証",
-    "Instagram認証バッジ",
-    "インスタ認証",
-    "Facebook認証"
-   ],
-   "category": "sns",
-   "brandColor": "#0081FB",
-   "website": "https://www.meta.com/ja-jp/meta-verified/",
-   "cancelUrl": "https://www.facebook.com/help/",
-   "accountUrl": "https://accountscenter.instagram.com/",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "instagram-standard",
-     "name": "Instagram Standard",
-     "price": 2000,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "InstagramアプリのApp Store(日本)App内課金「Meta Verified Standard」2,000円で確認（2026-10）。Web申込はUSD表示(Standard $14.99)で割引あり"
-    },
-    {
-     "id": "facebook-standard",
-     "name": "Facebook Standard",
-     "price": 2000,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "未確認。FacebookアプリのApp Store(日本)課金一覧にMeta Verified項目なし。Meta公式日本語ページはUSD表示(Standard $14.99)。Instagram版と同額の2,000円と推定"
-    }
-   ],
-   "cancelSteps": [
-    "アカウントセンター→「Meta Verified」を開く",
-    "「サブスクリプションを管理」→キャンセル",
-    "Apple/Google経由は各ストアから"
-   ],
-   "cancelNotes": "InstagramとFacebookで個別契約。解約すると認証バッジは即時または期末に消失。",
-   "paymentChannels": [
-    "web",
-    "apple",
-    "google"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "認証バッジ",
-    "Instagram",
-    "Facebook"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/meta-verified.png"
   },
   {
    "id": "snapchat-plus",
