@@ -1,5 +1,5 @@
 {
- "version": 11,
+ "version": 12,
  "updatedAt": "2026-10-22",
  "idMigrations": {
   "niconico-premium": {
@@ -12963,56 +12963,6 @@
    "iconUrl": "https://catalog.uuuu.to/icons/uber-one.png"
   },
   {
-   "id": "wolt-plus",
-   "name": "Wolt+",
-   "nameJa": "Wolt+",
-   "category": "shopping",
-   "brandColor": "#009DE0",
-   "website": "https://wolt.com/ja/jpn",
-   "cancelUrl": "https://wolt.com/ja/jpn",
-   "accountUrl": "https://wolt.com/ja/jpn",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "monthly",
-     "name": "月額プラン(終了)",
-     "price": 498,
-     "cycle": "monthly",
-     "notes": "税込(2025年時点)。Woltは2026年3月4日で日本でのサービスを終了し、3月5日以降注文不可。Wolt+も終了済み",
-     "currency": "JPY"
-    },
-    {
-     "id": "yearly",
-     "name": "年額プラン(終了)",
-     "price": 3998,
-     "cycle": "yearly",
-     "notes": "税込(2025年時点)。サービス終了済み",
-     "currency": "JPY"
-    }
-   ],
-   "cancelSteps": [
-    "サービス終了に伴い新規契約・更新は不可",
-    "過去に課金があった場合は、アプリのプロフィール→Wolt+の購読状況、またはApp Store/Google Playのサブスクリプション一覧に残っていないか確認する",
-    "残っていれば各ストアで解約する"
-   ],
-   "cancelNotes": "DoorDash傘下のWoltは2026年2月25日に日本撤退を発表、2026年3月4日でサービス終了。以降の課金は発生しないはずだが、ストア経由の購読が残っていないか確認推奨。",
-   "paymentChannels": [
-    "apple",
-    "google",
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "フードデリバリー",
-    "サービス終了(2026-03-04)"
-   ],
-   "verifiedAt": "2026-10-22",
-   "aliases": [
-    "ウォルト"
-   ],
-   "iconUrl": "https://catalog.uuuu.to/icons/wolt-plus.png"
-  },
-  {
    "id": "aircloset",
    "name": "airCloset",
    "nameJa": "airCloset",
@@ -13107,50 +13057,6 @@
    ],
    "verifiedAt": "2026-10-22",
    "iconUrl": "https://catalog.uuuu.to/icons/bloomee.png"
-  },
-  {
-   "id": "menu-pass",
-   "name": "menu pass",
-   "nameJa": "menu pass",
-   "category": "shopping",
-   "brandColor": "#E8001C",
-   "website": "https://corp.menu.jp/",
-   "cancelUrl": "https://support.menu.jp/",
-   "accountUrl": "https://corp.menu.jp/",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "monthly",
-     "name": "menu pass 月額",
-     "price": 980,
-     "cycle": "monthly",
-     "notes": "2026-09-01更新の解説記事で月額980円を確認（30日間無料トライアル、いつでも解約可）。税込表記は記事に明記なし。公式ヘルプ（support.menu.jp）はDNS不通で代替URL特定できず",
-     "currency": "JPY"
-    }
-   ],
-   "cancelSteps": [
-    "menuアプリの「マイページ」→「menu pass」を開く",
-    "「解約する」を選び注意事項を確認する",
-    "App Store/Google Play経由で登録した場合は各ストアのサブスクリプション管理から解約する",
-    "次回更新日までは特典が利用できることを確認する"
-   ],
-   "cancelNotes": "未確認。月途中解約での日割り返金はなしとされる。Pontaパス経由で特典を受けている場合はPontaパス側の退会が必要。",
-   "paymentChannels": [
-    "apple",
-    "google",
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "フードデリバリー",
-    "配達料無料",
-    "未確認"
-   ],
-   "verifiedAt": "2026-10-22",
-   "aliases": [
-    "メニューパス"
-   ],
-   "iconUrl": "https://catalog.uuuu.to/icons/menu-pass.png"
   },
   {
    "id": "mi-tomonokai",
@@ -21387,58 +21293,6 @@
     "スターチャンネル"
    ],
    "iconUrl": "https://catalog.uuuu.to/icons/star-channel-ex.png"
-  },
-  {
-   "id": "crunchyroll",
-   "name": "Crunchyroll",
-   "nameJa": "Crunchyroll",
-   "aliases": [
-    "クランチロール",
-    "クランチ"
-   ],
-   "category": "video",
-   "brandColor": "#F47521",
-   "website": "https://www.crunchyroll.com/ja",
-   "cancelUrl": "https://www.crunchyroll.com/account/membership",
-   "accountUrl": "https://www.crunchyroll.com/account",
-   "freeTrialDays": 7,
-   "plans": [
-    {
-     "id": "fan",
-     "name": "ファン",
-     "price": 1080,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "未確認。公式日本語ページ（crunchyroll.com/ja, /ja/premium）はHTTP 403、日本App Storeに配信なし（id329913454は/jp/で404）。米国は2026-02に$9.99へ値上げ（2026-03-04以降既存会員適用）。日本円の現行価格は要公式確認"
-    },
-    {
-     "id": "mega-fan",
-     "name": "メガファン",
-     "price": 1310,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "未確認。公式日本語ページ取得不可（403）、日本App Storeに配信なし。米国は2026-02に$13.99へ値上げ。日本円の現行価格は要公式確認"
-    }
-   ],
-   "cancelSteps": [
-    "Webでログイン",
-    "アカウント > メンバーシップ",
-    "「メンバーシップをキャンセル」を選択"
-   ],
-   "cancelNotes": "Apple/Google経由は各ストアのサブスクリプション管理から。期末まで視聴可。無料プランは2025年末に廃止",
-   "paymentChannels": [
-    "web",
-    "apple",
-    "google"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "アニメ",
-    "海外",
-    "未確認"
-   ],
-   "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/crunchyroll.png"
   },
   {
    "id": "dazn",
