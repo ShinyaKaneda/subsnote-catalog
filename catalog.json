@@ -1,5 +1,5 @@
 {
- "version": 12,
+ "version": 13,
  "updatedAt": "2026-10-22",
  "idMigrations": {
   "niconico-premium": {
@@ -136,7 +136,8 @@
     "ディクテーション"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/aqua-voice.png"
+   "iconRev": "8316f6facb",
+   "iconUrl": "https://catalog.uuuu.to/icons/aqua-voice.png?v=8316f6facb"
   },
   {
    "id": "chatgpt",
@@ -225,7 +226,8 @@
     "チャットジーピーティー",
     "OpenAI"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/chatgpt.png"
+   "iconRev": "6fe6815dbf",
+   "iconUrl": "https://catalog.uuuu.to/icons/chatgpt.png?v=6fe6815dbf"
   },
   {
    "id": "claude",
@@ -300,7 +302,8 @@
     "クロード",
     "Anthropic"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/claude.png"
+   "iconRev": "8386f4054c",
+   "iconUrl": "https://catalog.uuuu.to/icons/claude.png?v=8386f4054c"
   },
   {
    "id": "copy-ai",
@@ -351,7 +354,8 @@
     "AIライティング"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/copy-ai.png"
+   "iconRev": "d3f38ba45a",
+   "iconUrl": "https://catalog.uuuu.to/icons/copy-ai.png?v=d3f38ba45a"
   },
   {
    "id": "cursor",
@@ -445,7 +449,8 @@
     "エディタ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/cursor.png"
+   "iconRev": "bfc425a1ba",
+   "iconUrl": "https://catalog.uuuu.to/icons/cursor.png?v=bfc425a1ba"
   },
   {
    "id": "elevenlabs",
@@ -505,7 +510,8 @@
     "音声合成"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/elevenlabs.png"
+   "iconRev": "c79db6a43e",
+   "iconUrl": "https://catalog.uuuu.to/icons/elevenlabs.png?v=c79db6a43e"
   },
   {
    "id": "gamma",
@@ -565,7 +571,8 @@
     "AIスライド"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/gamma.png"
+   "iconRev": "52449fa894",
+   "iconUrl": "https://catalog.uuuu.to/icons/gamma.png?v=52449fa894"
   },
   {
    "id": "genspark",
@@ -624,7 +631,8 @@
     "クレジット制"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/genspark.png"
+   "iconRev": "b0c735fe52",
+   "iconUrl": "https://catalog.uuuu.to/icons/genspark.png?v=b0c735fe52"
   },
   {
    "id": "github-copilot",
@@ -697,7 +705,8 @@
     "ギットハブ",
     "コパイロット"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/github-copilot.png"
+   "iconRev": "26441f053a",
+   "iconUrl": "https://catalog.uuuu.to/icons/github-copilot.png?v=26441f053a"
   },
   {
    "id": "google-ai-pro",
@@ -767,7 +776,8 @@
     "Gemini",
     "Gemini Advanced"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/google-ai-pro.png"
+   "iconRev": "a7ebbabffb",
+   "iconUrl": "https://catalog.uuuu.to/icons/google-ai-pro.png?v=a7ebbabffb"
   },
   {
    "id": "heygen",
@@ -824,7 +834,8 @@
     "AI動画生成"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/heygen.png"
+   "iconRev": "af8545bd9e",
+   "iconUrl": "https://catalog.uuuu.to/icons/heygen.png?v=af8545bd9e"
   },
   {
    "id": "higgsfield",
@@ -884,7 +895,8 @@
     "クレジット制"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/higgsfield.png"
+   "iconRev": "feab865ec4",
+   "iconUrl": "https://catalog.uuuu.to/icons/higgsfield.png?v=feab865ec4"
   },
   {
    "id": "jasper",
@@ -935,7 +947,8 @@
     "マーケティング"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/jasper.png"
+   "iconRev": "d8622b86bf",
+   "iconUrl": "https://catalog.uuuu.to/icons/jasper.png?v=d8622b86bf"
   },
   {
    "id": "kling-ai",
@@ -994,7 +1007,8 @@
     "クレジット制"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/kling-ai.png"
+   "iconRev": "325fa4dcd9",
+   "iconUrl": "https://catalog.uuuu.to/icons/kling-ai.png?v=325fa4dcd9"
   },
   {
    "id": "leonardo-ai",
@@ -1052,7 +1066,8 @@
     "AI動画生成"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/leonardo-ai.png"
+   "iconRev": "bf0450e014",
+   "iconUrl": "https://catalog.uuuu.to/icons/leonardo-ai.png?v=bf0450e014"
   },
   {
    "id": "midjourney",
@@ -1120,7 +1135,8 @@
     "画像生成"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/midjourney.png"
+   "iconRev": "bfd79746dc",
+   "iconUrl": "https://catalog.uuuu.to/icons/midjourney.png?v=bfd79746dc"
   },
   {
    "id": "perplexity-pro",
@@ -1182,7 +1198,8 @@
     "検索"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/perplexity-pro.png"
+   "iconRev": "6868a59a67",
+   "iconUrl": "https://catalog.uuuu.to/icons/perplexity-pro.png?v=6868a59a67"
   },
   {
    "id": "pika",
@@ -1244,7 +1261,8 @@
     "AI動画生成"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/pika.png"
+   "iconRev": "2e68c1648b",
+   "iconUrl": "https://catalog.uuuu.to/icons/pika.png?v=2e68c1648b"
   },
   {
    "id": "runway",
@@ -1304,7 +1322,8 @@
     "動画生成"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/runway.png"
+   "iconRev": "162b5ae798",
+   "iconUrl": "https://catalog.uuuu.to/icons/runway.png?v=162b5ae798"
   },
   {
    "id": "suno",
@@ -1357,7 +1376,8 @@
     "音楽生成"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/suno.png"
+   "iconRev": "13d31f6107",
+   "iconUrl": "https://catalog.uuuu.to/icons/suno.png?v=13d31f6107"
   },
   {
    "id": "supergrok",
@@ -1418,7 +1438,8 @@
     "生成AI"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/supergrok.png"
+   "iconRev": "4591b27e11",
+   "iconUrl": "https://catalog.uuuu.to/icons/supergrok.png?v=4591b27e11"
   },
   {
    "id": "synthesia",
@@ -1477,7 +1498,8 @@
     "AI動画生成"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/synthesia.png"
+   "iconRev": "45d733a754",
+   "iconUrl": "https://catalog.uuuu.to/icons/synthesia.png?v=45d733a754"
   },
   {
    "id": "typeless",
@@ -1535,7 +1557,8 @@
     "ディクテーション"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/typeless.png"
+   "iconRev": "873912234c",
+   "iconUrl": "https://catalog.uuuu.to/icons/typeless.png?v=873912234c"
   },
   {
    "id": "amazon-kids-plus",
@@ -1621,7 +1644,8 @@
     "キッズプラス",
     "アマゾンキッズ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/amazon-kids-plus.png"
+   "iconRev": "ab08bb9e1a",
+   "iconUrl": "https://catalog.uuuu.to/icons/amazon-kids-plus.png?v=ab08bb9e1a"
   },
   {
    "id": "bookwalker-yomihodai",
@@ -1674,7 +1698,8 @@
    "aliases": [
     "ブックウォーカー"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/bookwalker-yomihodai.png"
+   "iconRev": "b6e8472743",
+   "iconUrl": "https://catalog.uuuu.to/icons/bookwalker-yomihodai.png?v=b6e8472743"
   },
   {
    "id": "kindle-unlimited",
@@ -1721,7 +1746,8 @@
     "キンドル",
     "キンドルアンリミテッド"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/kindle-unlimited.png"
+   "iconRev": "4b7b1cecdc",
+   "iconUrl": "https://catalog.uuuu.to/icons/kindle-unlimited.png?v=4b7b1cecdc"
   },
   {
    "id": "line-manga",
@@ -1773,7 +1799,8 @@
    "aliases": [
     "ラインマンガ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/line-manga.png"
+   "iconRev": "f2503d92d8",
+   "iconUrl": "https://catalog.uuuu.to/icons/line-manga.png?v=f2503d92d8"
   },
   {
    "id": "lyp-premium",
@@ -1838,7 +1865,8 @@
     "Yahoo!プレミアム",
     "ヤフープレミアム"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/lyp-premium.png"
+   "iconRev": "68e6452bd1",
+   "iconUrl": "https://catalog.uuuu.to/icons/lyp-premium.png?v=68e6452bd1"
   },
   {
    "id": "d-magazine",
@@ -1889,7 +1917,8 @@
    "aliases": [
     "ディーマガジン"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/d-magazine.png"
+   "iconRev": "4c133cda2e",
+   "iconUrl": "https://catalog.uuuu.to/icons/d-magazine.png?v=4c133cda2e"
   },
   {
    "id": "flier",
@@ -1940,7 +1969,8 @@
     "ビジネス書"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/flier.png"
+   "iconRev": "ee349f72f9",
+   "iconUrl": "https://catalog.uuuu.to/icons/flier.png?v=ee349f72f9"
   },
   {
    "id": "mangaoukoku",
@@ -1999,7 +2029,8 @@
     "ポイント制"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/mangaoukoku.png"
+   "iconRev": "cdf37ff394",
+   "iconUrl": "https://catalog.uuuu.to/icons/mangaoukoku.png?v=cdf37ff394"
   },
   {
    "id": "mechacomic",
@@ -2090,7 +2121,8 @@
     "ポイント制"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/mechacomic.png"
+   "iconRev": "f676964f6d",
+   "iconUrl": "https://catalog.uuuu.to/icons/mechacomic.png?v=f676964f6d"
   },
   {
    "id": "comic-days",
@@ -2141,7 +2173,8 @@
     "雑誌読み放題"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/comic-days.png"
+   "iconRev": "9d530a5f8d",
+   "iconUrl": "https://catalog.uuuu.to/icons/comic-days.png?v=9d530a5f8d"
   },
   {
    "id": "cmoa-yomihodai",
@@ -2196,7 +2229,8 @@
    "aliases": [
     "シーモア"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/cmoa-yomihodai.png"
+   "iconRev": "8f678f9526",
+   "iconUrl": "https://catalog.uuuu.to/icons/cmoa-yomihodai.png?v=8f678f9526"
   },
   {
    "id": "piccoma",
@@ -2254,7 +2288,8 @@
    ],
    "verifiedAt": "2026-10-22",
    "aliases": [],
-   "iconUrl": "https://catalog.uuuu.to/icons/piccoma.png"
+   "iconRev": "be16f6007c",
+   "iconUrl": "https://catalog.uuuu.to/icons/piccoma.png?v=be16f6007c"
   },
   {
    "id": "bookpass",
@@ -2306,7 +2341,8 @@
     "KDDI"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/bookpass.png"
+   "iconRev": "edb516508c",
+   "iconUrl": "https://catalog.uuuu.to/icons/bookpass.png?v=edb516508c"
   },
   {
    "id": "book-hodai",
@@ -2352,7 +2388,8 @@
    "aliases": [
     "ブックホウダイ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/book-hodai.png"
+   "iconRev": "d45a484cd2",
+   "iconUrl": "https://catalog.uuuu.to/icons/book-hodai.png?v=d45a484cd2"
   },
   {
    "id": "magapoke",
@@ -2405,7 +2442,8 @@
     "雑誌"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/magapoke.png"
+   "iconRev": "d8341a38e7",
+   "iconUrl": "https://catalog.uuuu.to/icons/magapoke.png?v=d8341a38e7"
   },
   {
    "id": "shonen-jump-plus",
@@ -2478,7 +2516,8 @@
     "ジャンププラス",
     "ジャンプ+"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/shonen-jump-plus.png"
+   "iconRev": "8a9b739cb3",
+   "iconUrl": "https://catalog.uuuu.to/icons/shonen-jump-plus.png?v=8a9b739cb3"
   },
   {
    "id": "rakuten-magazine",
@@ -2550,7 +2589,8 @@
    ],
    "verifiedAt": "2026-10-22",
    "aliases": [],
-   "iconUrl": "https://catalog.uuuu.to/icons/rakuten-magazine.png"
+   "iconRev": "77a8a55914",
+   "iconUrl": "https://catalog.uuuu.to/icons/rakuten-magazine.png?v=77a8a55914"
   },
   {
    "id": "backblaze",
@@ -2601,7 +2641,8 @@
     "ストレージ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/backblaze.png"
+   "iconRev": "dd0ad8d37e",
+   "iconUrl": "https://catalog.uuuu.to/icons/backblaze.png?v=dd0ad8d37e"
   },
   {
    "id": "box-personal-pro",
@@ -2642,7 +2683,8 @@
     "クラウドストレージ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/box-personal-pro.png"
+   "iconRev": "0e58037e86",
+   "iconUrl": "https://catalog.uuuu.to/icons/box-personal-pro.png?v=0e58037e86"
   },
   {
    "id": "cloudflare",
@@ -2703,7 +2745,8 @@
     "インフラ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/cloudflare.png"
+   "iconRev": "d35dd60f0f",
+   "iconUrl": "https://catalog.uuuu.to/icons/cloudflare.png?v=d35dd60f0f"
   },
   {
    "id": "cloudinary",
@@ -2764,7 +2807,8 @@
     "CDN"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/cloudinary.png"
+   "iconRev": "5ed59f6e7d",
+   "iconUrl": "https://catalog.uuuu.to/icons/cloudinary.png?v=5ed59f6e7d"
   },
   {
    "id": "datadog",
@@ -2825,7 +2869,8 @@
     "インフラ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/datadog.png"
+   "iconRev": "f0d5c4221c",
+   "iconUrl": "https://catalog.uuuu.to/icons/datadog.png?v=f0d5c4221c"
   },
   {
    "id": "dropbox",
@@ -2908,7 +2953,8 @@
    "aliases": [
     "ドロップボックス"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/dropbox.png"
+   "iconRev": "845a9e338f",
+   "iconUrl": "https://catalog.uuuu.to/icons/dropbox.png?v=845a9e338f"
   },
   {
    "id": "framer",
@@ -2977,7 +3023,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/framer.png"
+   "iconRev": "9a1a725b75",
+   "iconUrl": "https://catalog.uuuu.to/icons/framer.png?v=9a1a725b75"
   },
   {
    "id": "gitlab",
@@ -3020,7 +3067,8 @@
     "DevOps"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/gitlab.png"
+   "iconRev": "7c991a82c8",
+   "iconUrl": "https://catalog.uuuu.to/icons/gitlab.png?v=7c991a82c8"
   },
   {
    "id": "google-one",
@@ -3100,7 +3148,8 @@
    "aliases": [
     "グーグルワン"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/google-one.png"
+   "iconRev": "fda8fa2f92",
+   "iconUrl": "https://catalog.uuuu.to/icons/google-one.png?v=fda8fa2f92"
   },
   {
    "id": "google-workspace-business-starter",
@@ -3158,7 +3207,8 @@
     "クラウド"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/google-workspace-business-starter.png"
+   "iconRev": "4ed6d0f4e7",
+   "iconUrl": "https://catalog.uuuu.to/icons/google-workspace-business-starter.png?v=4ed6d0f4e7"
   },
   {
    "id": "heroku",
@@ -3220,7 +3270,8 @@
     "PaaS"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/heroku.png"
+   "iconRev": "05a1eefeaf",
+   "iconUrl": "https://catalog.uuuu.to/icons/heroku.png?v=05a1eefeaf"
   },
   {
    "id": "namecheap",
@@ -3262,7 +3313,8 @@
     "開発"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/namecheap.png"
+   "iconRev": "5ff58f6aef",
+   "iconUrl": "https://catalog.uuuu.to/icons/namecheap.png?v=5ff58f6aef"
   },
   {
    "id": "netlify",
@@ -3314,7 +3366,8 @@
     "ホスティング"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/netlify.png"
+   "iconRev": "5f17ca6d13",
+   "iconUrl": "https://catalog.uuuu.to/icons/netlify.png?v=5f17ca6d13"
   },
   {
    "id": "planetscale",
@@ -3365,7 +3418,8 @@
     "データベース"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/planetscale.png"
+   "iconRev": "0a3333adcf",
+   "iconUrl": "https://catalog.uuuu.to/icons/planetscale.png?v=0a3333adcf"
   },
   {
    "id": "proton",
@@ -3431,7 +3485,8 @@
     "セキュリティ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/proton.png"
+   "iconRev": "8237e64ede",
+   "iconUrl": "https://catalog.uuuu.to/icons/proton.png?v=8237e64ede"
   },
   {
    "id": "railway",
@@ -3484,7 +3539,8 @@
     "PaaS"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/railway.png"
+   "iconRev": "281c9a4d2d",
+   "iconUrl": "https://catalog.uuuu.to/icons/railway.png?v=281c9a4d2d"
   },
   {
    "id": "render",
@@ -3536,7 +3592,8 @@
     "PaaS"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/render.png"
+   "iconRev": "e155c83a13",
+   "iconUrl": "https://catalog.uuuu.to/icons/render.png?v=e155c83a13"
   },
   {
    "id": "sentry",
@@ -3588,7 +3645,8 @@
     "エラートラッキング"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/sentry.png"
+   "iconRev": "9ba7174def",
+   "iconUrl": "https://catalog.uuuu.to/icons/sentry.png?v=9ba7174def"
   },
   {
    "id": "shopify",
@@ -3662,7 +3720,8 @@
     "ビジネス"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/shopify.png"
+   "iconRev": "a657e5786e",
+   "iconUrl": "https://catalog.uuuu.to/icons/shopify.png?v=a657e5786e"
   },
   {
    "id": "squarespace",
@@ -3735,7 +3794,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/squarespace.png"
+   "iconRev": "84f9a7fb41",
+   "iconUrl": "https://catalog.uuuu.to/icons/squarespace.png?v=84f9a7fb41"
   },
   {
    "id": "supabase",
@@ -3788,7 +3848,8 @@
     "BaaS"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/supabase.png"
+   "iconRev": "2ba671d792",
+   "iconUrl": "https://catalog.uuuu.to/icons/supabase.png?v=2ba671d792"
   },
   {
    "id": "sync-com",
@@ -3849,7 +3910,8 @@
     "クラウド"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/sync-com.png"
+   "iconRev": "08f87c67d3",
+   "iconUrl": "https://catalog.uuuu.to/icons/sync-com.png?v=08f87c67d3"
   },
   {
    "id": "upstash",
@@ -3901,7 +3963,8 @@
     "Redis"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/upstash.png"
+   "iconRev": "3800fb0fde",
+   "iconUrl": "https://catalog.uuuu.to/icons/upstash.png?v=3800fb0fde"
   },
   {
    "id": "vercel",
@@ -3944,7 +4007,8 @@
     "ホスティング"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/vercel.png"
+   "iconRev": "4fe1872254",
+   "iconUrl": "https://catalog.uuuu.to/icons/vercel.png?v=4fe1872254"
   },
   {
    "id": "webflow",
@@ -4004,7 +4068,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/webflow.png"
+   "iconRev": "3f4f14cc81",
+   "iconUrl": "https://catalog.uuuu.to/icons/webflow.png?v=3f4f14cc81"
   },
   {
    "id": "wix",
@@ -4069,7 +4134,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/wix.png"
+   "iconRev": "bc4b7a4e6c",
+   "iconUrl": "https://catalog.uuuu.to/icons/wix.png?v=bc4b7a4e6c"
   },
   {
    "id": "wordpress-com",
@@ -4141,7 +4207,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/wordpress-com.png"
+   "iconRev": "4dacf3b24c",
+   "iconUrl": "https://catalog.uuuu.to/icons/wordpress-com.png?v=4dacf3b24c"
   },
   {
    "id": "xserver",
@@ -4200,7 +4267,8 @@
     "レンタルサーバー"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/xserver.png"
+   "iconRev": "d4fb2be7f9",
+   "iconUrl": "https://catalog.uuuu.to/icons/xserver.png?v=d4fb2be7f9"
   },
   {
    "id": "icloud-plus",
@@ -4306,7 +4374,8 @@
    "aliases": [
     "アイクラウド"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/icloud-plus.png"
+   "iconRev": "c4facdd5f1",
+   "iconUrl": "https://catalog.uuuu.to/icons/icloud-plus.png?v=c4facdd5f1"
   },
   {
    "id": "pcloud",
@@ -4358,7 +4427,8 @@
     "クラウド"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/pcloud.png"
+   "iconRev": "7fdbd5bd29",
+   "iconUrl": "https://catalog.uuuu.to/icons/pcloud.png?v=7fdbd5bd29"
   },
   {
    "id": "fantia",
@@ -4409,7 +4479,8 @@
     "同人"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/fantia.png"
+   "iconRev": "52fdc2a8d0",
+   "iconUrl": "https://catalog.uuuu.to/icons/fantia.png?v=52fdc2a8d0"
   },
   {
    "id": "medium",
@@ -4471,7 +4542,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/medium.png"
+   "iconRev": "c9e8d31543",
+   "iconUrl": "https://catalog.uuuu.to/icons/medium.png?v=c9e8d31543"
   },
   {
    "id": "patreon",
@@ -4513,7 +4585,8 @@
     "クリエイター支援"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/patreon.png"
+   "iconRev": "5be270326a",
+   "iconUrl": "https://catalog.uuuu.to/icons/patreon.png?v=5be270326a"
   },
   {
    "id": "substack",
@@ -4566,7 +4639,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/substack.png"
+   "iconRev": "7a46d3fb3c",
+   "iconUrl": "https://catalog.uuuu.to/icons/substack.png?v=7a46d3fb3c"
   },
   {
    "id": "twitch-subscription",
@@ -4633,7 +4707,8 @@
     "クリエイター支援"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/twitch-subscription.png"
+   "iconRev": "3f56001ed3",
+   "iconUrl": "https://catalog.uuuu.to/icons/twitch-subscription.png?v=3f56001ed3"
   },
   {
    "id": "youtube-channel-membership",
@@ -4693,7 +4768,8 @@
     "動画"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/youtube-channel-membership.png"
+   "iconRev": "a8ab6a2705",
+   "iconUrl": "https://catalog.uuuu.to/icons/youtube-channel-membership.png?v=a8ab6a2705"
   },
   {
    "id": "note-membership",
@@ -4736,7 +4812,8 @@
     "記事"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/note-membership.png"
+   "iconRev": "79275173f4",
+   "iconUrl": "https://catalog.uuuu.to/icons/note-membership.png?v=79275173f4"
   },
   {
    "id": "pixiv-fanbox",
@@ -4779,7 +4856,8 @@
     "イラスト"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/pixiv-fanbox.png"
+   "iconRev": "5ae44a6b98",
+   "iconUrl": "https://catalog.uuuu.to/icons/pixiv-fanbox.png?v=5ae44a6b98"
   },
   {
    "id": "pixiv-premium",
@@ -4831,7 +4909,8 @@
     "クリエイター"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/pixiv-premium.png"
+   "iconRev": "54b2da01d6",
+   "iconUrl": "https://catalog.uuuu.to/icons/pixiv-premium.png?v=54b2da01d6"
   },
   {
    "id": "bumble",
@@ -4881,7 +4960,8 @@
     "マッチングアプリ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/bumble.png"
+   "iconRev": "e34e3a3711",
+   "iconUrl": "https://catalog.uuuu.to/icons/bumble.png?v=e34e3a3711"
   },
   {
    "id": "match-jp",
@@ -4933,7 +5013,8 @@
     "婚活"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/match-jp.png"
+   "iconRev": "6ea4c26541",
+   "iconUrl": "https://catalog.uuuu.to/icons/match-jp.png?v=6ea4c26541"
   },
   {
    "id": "omiai",
@@ -4990,7 +5071,8 @@
     "マッチングアプリ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/omiai.png"
+   "iconRev": "d47f31359e",
+   "iconUrl": "https://catalog.uuuu.to/icons/omiai.png?v=d47f31359e"
   },
   {
    "id": "pairs",
@@ -5057,7 +5139,8 @@
     "マッチングアプリ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/pairs.png"
+   "iconRev": "e48bdc8b4e",
+   "iconUrl": "https://catalog.uuuu.to/icons/pairs.png?v=e48bdc8b4e"
   },
   {
    "id": "tinder",
@@ -5116,7 +5199,8 @@
     "マッチングアプリ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/tinder.png"
+   "iconRev": "91fb27f929",
+   "iconUrl": "https://catalog.uuuu.to/icons/tinder.png?v=91fb27f929"
   },
   {
    "id": "with",
@@ -5157,7 +5241,8 @@
     "マッチングアプリ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/with.png"
+   "iconRev": "8412213cf5",
+   "iconUrl": "https://catalog.uuuu.to/icons/with.png?v=8412213cf5"
   },
   {
    "id": "tapple",
@@ -5205,7 +5290,8 @@
     "マッチングアプリ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/tapple.png"
+   "iconRev": "fc419b462d",
+   "iconUrl": "https://catalog.uuuu.to/icons/tapple.png?v=fc419b462d"
   },
   {
    "id": "bizmates",
@@ -5261,7 +5347,8 @@
     "オンライン英会話"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/bizmates.png"
+   "iconRev": "35dd075181",
+   "iconUrl": "https://catalog.uuuu.to/icons/bizmates.png?v=35dd075181"
   },
   {
    "id": "brilliant",
@@ -5313,7 +5400,8 @@
     "インタラクティブ学習"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/brilliant.png"
+   "iconRev": "2edd9cf727",
+   "iconUrl": "https://catalog.uuuu.to/icons/brilliant.png?v=2edd9cf727"
   },
   {
    "id": "cambly",
@@ -5357,7 +5445,8 @@
     "未確認"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/cambly.png"
+   "iconRev": "1a64ff0def",
+   "iconUrl": "https://catalog.uuuu.to/icons/cambly.png?v=1a64ff0def"
   },
   {
    "id": "codecademy",
@@ -5417,7 +5506,8 @@
     "プログラミング学習"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/codecademy.png"
+   "iconRev": "6f0bdfc1dd",
+   "iconUrl": "https://catalog.uuuu.to/icons/codecademy.png?v=6f0bdfc1dd"
   },
   {
    "id": "coursera-plus",
@@ -5469,7 +5559,8 @@
     "大学"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/coursera-plus.png"
+   "iconRev": "ef63624294",
+   "iconUrl": "https://catalog.uuuu.to/icons/coursera-plus.png?v=ef63624294"
   },
   {
    "id": "dmm-eikaiwa",
@@ -5539,7 +5630,8 @@
     "オンライン英会話"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/dmm-eikaiwa.png"
+   "iconRev": "b39f81033a",
+   "iconUrl": "https://catalog.uuuu.to/icons/dmm-eikaiwa.png?v=b39f81033a"
   },
   {
    "id": "duolingo",
@@ -5616,7 +5708,8 @@
    "aliases": [
     "デュオリンゴ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/duolingo.png"
+   "iconRev": "2f8efd212b",
+   "iconUrl": "https://catalog.uuuu.to/icons/duolingo.png?v=2f8efd212b"
   },
   {
    "id": "ecc-online",
@@ -5673,7 +5766,8 @@
     "オンラインレッスン"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/ecc-online.png"
+   "iconRev": "ff29fc9b5a",
+   "iconUrl": "https://catalog.uuuu.to/icons/ecc-online.png?v=ff29fc9b5a"
   },
   {
    "id": "elsa-speak",
@@ -5732,7 +5826,8 @@
     "AI"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/elsa-speak.png"
+   "iconRev": "c6bd688194",
+   "iconUrl": "https://catalog.uuuu.to/icons/elsa-speak.png?v=c6bd688194"
   },
   {
    "id": "globis-manabihodai",
@@ -5784,7 +5879,8 @@
     "動画学習"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/globis-manabihodai.png"
+   "iconRev": "8dc3057f5e",
+   "iconUrl": "https://catalog.uuuu.to/icons/globis-manabihodai.png?v=8dc3057f5e"
   },
   {
    "id": "kimini",
@@ -5842,7 +5938,8 @@
     "学研"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/kimini.png"
+   "iconRev": "11e8d29e4d",
+   "iconUrl": "https://catalog.uuuu.to/icons/kimini.png?v=11e8d29e4d"
   },
   {
    "id": "masterclass",
@@ -5903,7 +6000,8 @@
     "著名人"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/masterclass.png"
+   "iconRev": "5ceac935d2",
+   "iconUrl": "https://catalog.uuuu.to/icons/masterclass.png?v=5ceac935d2"
   },
   {
    "id": "nova-ochanoma",
@@ -5961,7 +6059,8 @@
     "NOVA"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/nova-ochanoma.png"
+   "iconRev": "e195adf6f0",
+   "iconUrl": "https://catalog.uuuu.to/icons/nova-ochanoma.png?v=e195adf6f0"
   },
   {
    "id": "pluralsight",
@@ -6020,7 +6119,8 @@
     "技術学習"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/pluralsight.png"
+   "iconRev": "bc7addcb0b",
+   "iconUrl": "https://catalog.uuuu.to/icons/pluralsight.png?v=bc7addcb0b"
   },
   {
    "id": "progate",
@@ -6086,7 +6186,8 @@
    "aliases": [
     "プロゲート"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/progate.png"
+   "iconRev": "a1d80e9e0c",
+   "iconUrl": "https://catalog.uuuu.to/icons/progate.png?v=a1d80e9e0c"
   },
   {
    "id": "risu-sansu",
@@ -6136,7 +6237,8 @@
     "タブレット"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/risu-sansu.png"
+   "iconRev": "3be657836b",
+   "iconUrl": "https://catalog.uuuu.to/icons/risu-sansu.png?v=3be657836b"
   },
   {
    "id": "schoo",
@@ -6196,7 +6298,8 @@
    "aliases": [
     "スクー"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/schoo.png"
+   "iconRev": "a8ab6dffa2",
+   "iconUrl": "https://catalog.uuuu.to/icons/schoo.png?v=a8ab6dffa2"
   },
   {
    "id": "skillshare",
@@ -6248,7 +6351,8 @@
     "動画講座"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/skillshare.png"
+   "iconRev": "a591c26dc8",
+   "iconUrl": "https://catalog.uuuu.to/icons/skillshare.png?v=a591c26dc8"
   },
   {
    "id": "speak",
@@ -6314,7 +6418,8 @@
     "AI英会話"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/speak.png"
+   "iconRev": "c8612e29e2",
+   "iconUrl": "https://catalog.uuuu.to/icons/speak.png?v=c8612e29e2"
   },
   {
    "id": "udemy-personal-plan",
@@ -6366,7 +6471,8 @@
    "aliases": [
     "ユーデミー"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/udemy-personal-plan.png"
+   "iconRev": "849b5373f0",
+   "iconUrl": "https://catalog.uuuu.to/icons/udemy-personal-plan.png?v=849b5373f0"
   },
   {
    "id": "zkai-shogaku-tablet",
@@ -6409,7 +6515,8 @@
     "未確認"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/zkai-shogaku-tablet.png"
+   "iconRev": "0024a1a0f8",
+   "iconUrl": "https://catalog.uuuu.to/icons/zkai-shogaku-tablet.png?v=0024a1a0f8"
   },
   {
    "id": "abceed",
@@ -6468,7 +6575,8 @@
     "英検"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/abceed.png"
+   "iconRev": "e43de53c1e",
+   "iconUrl": "https://catalog.uuuu.to/icons/abceed.png?v=e43de53c1e"
   },
   {
    "id": "kodomo-challenge",
@@ -6511,7 +6619,8 @@
     "未確認"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/kodomo-challenge.png"
+   "iconRev": "695ff72691",
+   "iconUrl": "https://catalog.uuuu.to/icons/kodomo-challenge.png?v=695ff72691"
   },
   {
    "id": "studysapuri",
@@ -6588,7 +6697,8 @@
    "aliases": [
     "スタサプ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/studysapuri.png"
+   "iconRev": "d59270c656",
+   "iconUrl": "https://catalog.uuuu.to/icons/studysapuri.png?v=d59270c656"
   },
   {
    "id": "speakbuddy",
@@ -6639,7 +6749,8 @@
     "AI英会話"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/speakbuddy.png"
+   "iconRev": "18c9d6381b",
+   "iconUrl": "https://catalog.uuuu.to/icons/speakbuddy.png?v=18c9d6381b"
   },
   {
    "id": "smile-zemi",
@@ -6717,7 +6828,8 @@
     "タブレット"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/smile-zemi.png"
+   "iconRev": "ad0b3db084",
+   "iconUrl": "https://catalog.uuuu.to/icons/smile-zemi.png?v=ad0b3db084"
   },
   {
    "id": "nativecamp",
@@ -6777,7 +6889,8 @@
     "受け放題"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/nativecamp.png"
+   "iconRev": "aaf57eb027",
+   "iconUrl": "https://catalog.uuuu.to/icons/nativecamp.png?v=aaf57eb027"
   },
   {
    "id": "rarejob",
@@ -6824,7 +6937,8 @@
     "オンライン英会話"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/rarejob.png"
+   "iconRev": "9071a3ac0e",
+   "iconUrl": "https://catalog.uuuu.to/icons/rarejob.png?v=9071a3ac0e"
   },
   {
    "id": "popy-shogaku",
@@ -6875,7 +6989,8 @@
     "紙教材"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/popy-shogaku.png"
+   "iconRev": "ac3e03f57d",
+   "iconUrl": "https://catalog.uuuu.to/icons/popy-shogaku.png?v=ac3e03f57d"
   },
   {
    "id": "shinkenzemi",
@@ -6953,7 +7068,8 @@
     "ベネッセ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/shinkenzemi.png"
+   "iconRev": "a16ce26fc8",
+   "iconUrl": "https://catalog.uuuu.to/icons/shinkenzemi.png?v=a16ce26fc8"
   },
   {
    "id": "moneytree-grow",
@@ -7001,7 +7117,8 @@
     "資産管理"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/moneytree-grow.png"
+   "iconRev": "6755d4d24d",
+   "iconUrl": "https://catalog.uuuu.to/icons/moneytree-grow.png?v=6755d4d24d"
   },
   {
    "id": "osidori-premium",
@@ -7063,7 +7180,8 @@
     "共有"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/osidori-premium.png"
+   "iconRev": "0a8b0d8866",
+   "iconUrl": "https://catalog.uuuu.to/icons/osidori-premium.png?v=0a8b0d8866"
   },
   {
    "id": "revolut",
@@ -7130,7 +7248,8 @@
     "デビットカード"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/revolut.png"
+   "iconRev": "7784baff74",
+   "iconUrl": "https://catalog.uuuu.to/icons/revolut.png?v=7784baff74"
   },
   {
    "id": "zaim-premium",
@@ -7179,7 +7298,8 @@
     "家計簿"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/zaim-premium.png"
+   "iconRev": "5be11e2f68",
+   "iconUrl": "https://catalog.uuuu.to/icons/zaim-premium.png?v=5be11e2f68"
   },
   {
    "id": "freee-kaikei-personal",
@@ -7253,7 +7373,8 @@
     "個人事業主"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/freee-kaikei-personal.png"
+   "iconRev": "3e7ca76c06",
+   "iconUrl": "https://catalog.uuuu.to/icons/freee-kaikei-personal.png?v=3e7ca76c06"
   },
   {
    "id": "yayoi-aoiro-online",
@@ -7317,7 +7438,8 @@
     "個人事業主"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/yayoi-aoiro-online.png"
+   "iconRev": "64ba3f4231",
+   "iconUrl": "https://catalog.uuuu.to/icons/yayoi-aoiro-online.png?v=64ba3f4231"
   },
   {
    "id": "moneyforward-me",
@@ -7411,7 +7533,8 @@
     "資産管理"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/moneyforward-me.png"
+   "iconRev": "ac8f0eb050",
+   "iconUrl": "https://catalog.uuuu.to/icons/moneyforward-me.png?v=ac8f0eb050"
   },
   {
    "id": "moneyforward-cloud",
@@ -7466,7 +7589,8 @@
     "バックオフィス"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/moneyforward-cloud.png"
+   "iconRev": "7db020057c",
+   "iconUrl": "https://catalog.uuuu.to/icons/moneyforward-cloud.png?v=7db020057c"
   },
   {
    "id": "apple-fitness-plus",
@@ -7517,7 +7641,8 @@
    "aliases": [
     "アップルフィットネス"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/apple-fitness-plus.png"
+   "iconRev": "ae6800883c",
+   "iconUrl": "https://catalog.uuuu.to/icons/apple-fitness-plus.png?v=ae6800883c"
   },
   {
    "id": "awarefy",
@@ -7587,7 +7712,8 @@
     "日記"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/awarefy.png"
+   "iconRev": "4e4947a1e5",
+   "iconUrl": "https://catalog.uuuu.to/icons/awarefy.png?v=4e4947a1e5"
   },
   {
    "id": "calm",
@@ -7639,7 +7765,8 @@
     "メンタル"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/calm.png"
+   "iconRev": "1b29aac6d8",
+   "iconUrl": "https://catalog.uuuu.to/icons/calm.png?v=1b29aac6d8"
   },
   {
    "id": "finc",
@@ -7682,7 +7809,8 @@
    "aliases": [
     "フィンク"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/finc.png"
+   "iconRev": "b4e4f6d339",
+   "iconUrl": "https://catalog.uuuu.to/icons/finc.png?v=b4e4f6d339"
   },
   {
    "id": "garmin-connect-plus",
@@ -7733,7 +7861,8 @@
     "ランニング"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/garmin-connect-plus.png"
+   "iconRev": "bf9526cf23",
+   "iconUrl": "https://catalog.uuuu.to/icons/garmin-connect-plus.png?v=bf9526cf23"
   },
   {
    "id": "google-health-premium",
@@ -7792,7 +7921,8 @@
     "睡眠"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/google-health-premium.png"
+   "iconRev": "496348ec63",
+   "iconUrl": "https://catalog.uuuu.to/icons/google-health-premium.png?v=496348ec63"
   },
   {
    "id": "headspace",
@@ -7844,7 +7974,8 @@
     "未確認"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/headspace.png"
+   "iconRev": "344fe80f62",
+   "iconUrl": "https://catalog.uuuu.to/icons/headspace.png?v=344fe80f62"
   },
   {
    "id": "jal-wellness-travel",
@@ -7890,7 +8021,8 @@
     "JAL"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/jal-wellness-travel.png"
+   "iconRev": "4ea5ef3c02",
+   "iconUrl": "https://catalog.uuuu.to/icons/jal-wellness-travel.png?v=4ea5ef3c02"
   },
   {
    "id": "joyfit24",
@@ -7959,7 +8091,8 @@
     "ジョイフィット24",
     "ジョイフィット"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/joyfit24.png"
+   "iconRev": "896b9c84c9",
+   "iconUrl": "https://catalog.uuuu.to/icons/joyfit24.png?v=896b9c84c9"
   },
   {
    "id": "leanbody",
@@ -8010,7 +8143,8 @@
     "ビリーズブートキャンプ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/leanbody.png"
+   "iconRev": "7d8b380a61",
+   "iconUrl": "https://catalog.uuuu.to/icons/leanbody.png?v=7d8b380a61"
   },
   {
    "id": "myfitnesspal",
@@ -8061,7 +8195,8 @@
     "食事記録"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/myfitnesspal.png"
+   "iconRev": "2ea3d90959",
+   "iconUrl": "https://catalog.uuuu.to/icons/myfitnesspal.png?v=2ea3d90959"
   },
   {
    "id": "oura-membership",
@@ -8113,7 +8248,8 @@
     "ウェアラブル"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/oura-membership.png"
+   "iconRev": "4c48215a82",
+   "iconUrl": "https://catalog.uuuu.to/icons/oura-membership.png?v=4c48215a82"
   },
   {
    "id": "soelu",
@@ -8164,7 +8300,8 @@
     "フィットネス"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/soelu.png"
+   "iconRev": "d9c611220b",
+   "iconUrl": "https://catalog.uuuu.to/icons/soelu.png?v=d9c611220b"
   },
   {
    "id": "strava",
@@ -8230,7 +8367,8 @@
     "GPS"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/strava.png"
+   "iconRev": "1346c1905a",
+   "iconUrl": "https://catalog.uuuu.to/icons/strava.png?v=1346c1905a"
   },
   {
    "id": "whoop",
@@ -8290,7 +8428,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/whoop.png"
+   "iconRev": "a5d272150c",
+   "iconUrl": "https://catalog.uuuu.to/icons/whoop.png?v=a5d272150c"
   },
   {
    "id": "zwift",
@@ -8349,7 +8488,8 @@
     "トレーニング"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/zwift.png"
+   "iconRev": "2aa9b35d6a",
+   "iconUrl": "https://catalog.uuuu.to/icons/zwift.png?v=2aa9b35d6a"
   },
   {
    "id": "chocozap",
@@ -8402,7 +8542,8 @@
     "チョコザップ",
     "ちょこざっぷ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/chocozap.png"
+   "iconRev": "8e6f2ba905",
+   "iconUrl": "https://catalog.uuuu.to/icons/chocozap.png?v=8e6f2ba905"
   },
   {
    "id": "asken-premium",
@@ -8455,7 +8596,8 @@
    "aliases": [
     "アスケン"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/asken-premium.png"
+   "iconRev": "20fdb9d10f",
+   "iconUrl": "https://catalog.uuuu.to/icons/asken-premium.png?v=20fdb9d10f"
   },
   {
    "id": "anytime-fitness",
@@ -8508,7 +8650,8 @@
    "aliases": [
     "エニタイム"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/anytime-fitness.png"
+   "iconRev": "d95bd93ba7",
+   "iconUrl": "https://catalog.uuuu.to/icons/anytime-fitness.png?v=d95bd93ba7"
   },
   {
    "id": "curves",
@@ -8566,7 +8709,8 @@
    ],
    "verifiedAt": "2026-10-22",
    "aliases": [],
-   "iconUrl": "https://catalog.uuuu.to/icons/curves.png"
+   "iconRev": "abc8db007f",
+   "iconUrl": "https://catalog.uuuu.to/icons/curves.png?v=abc8db007f"
   },
   {
    "id": "tipness",
@@ -8630,7 +8774,8 @@
    ],
    "verifiedAt": "2026-10-21",
    "aliases": [],
-   "iconUrl": "https://catalog.uuuu.to/icons/tipness.png"
+   "iconRev": "b64e2b48da",
+   "iconUrl": "https://catalog.uuuu.to/icons/tipness.png?v=b64e2b48da"
   },
   {
    "id": "base-food",
@@ -8682,7 +8827,8 @@
    "aliases": [
     "ベースフード"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/base-food.png"
+   "iconRev": "91f0c765c0",
+   "iconUrl": "https://catalog.uuuu.to/icons/base-food.png?v=91f0c765c0"
   },
   {
    "id": "coke-on-pass",
@@ -8724,7 +8870,8 @@
     "未確認"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/coke-on-pass.png"
+   "iconRev": "d3ca6ecb7b",
+   "iconUrl": "https://catalog.uuuu.to/icons/coke-on-pass.png?v=d3ca6ecb7b"
   },
   {
    "id": "delish-kitchen-premium",
@@ -8788,7 +8935,8 @@
     "料理動画"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/delish-kitchen-premium.png"
+   "iconRev": "053791d8e6",
+   "iconUrl": "https://catalog.uuuu.to/icons/delish-kitchen-premium.png?v=053791d8e6"
   },
   {
    "id": "greenspoon",
@@ -8837,7 +8985,8 @@
     "スムージー"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/greenspoon.png"
+   "iconRev": "c24d0950a1",
+   "iconUrl": "https://catalog.uuuu.to/icons/greenspoon.png?v=c24d0950a1"
   },
   {
    "id": "oisix",
@@ -8881,7 +9030,8 @@
     "Oisix(おいしっくすくらぶ)",
     "オイシックス"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/oisix.png"
+   "iconRev": "492da51bca",
+   "iconUrl": "https://catalog.uuuu.to/icons/oisix.png?v=492da51bca"
   },
   {
    "id": "petokoto-foods",
@@ -8931,7 +9081,8 @@
     "定期便"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/petokoto-foods.png"
+   "iconRev": "b784c8f50d",
+   "iconUrl": "https://catalog.uuuu.to/icons/petokoto-foods.png?v=b784c8f50d"
   },
   {
    "id": "postcoffee",
@@ -9022,7 +9173,8 @@
     "スペシャルティコーヒー"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/postcoffee.png"
+   "iconRev": "9af1d88b0f",
+   "iconUrl": "https://catalog.uuuu.to/icons/postcoffee.png?v=9af1d88b0f"
   },
   {
    "id": "nosh",
@@ -9099,7 +9251,8 @@
     "ナッシュ(nosh)",
     "ナッシュ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/nosh.png"
+   "iconRev": "701c0c50d5",
+   "iconUrl": "https://catalog.uuuu.to/icons/nosh.png?v=701c0c50d5"
   },
   {
    "id": "radishboya",
@@ -9152,7 +9305,8 @@
    "aliases": [
     "ラディッシュボーヤ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/radishboya.png"
+   "iconRev": "661f6a81f5",
+   "iconUrl": "https://catalog.uuuu.to/icons/radishboya.png?v=661f6a81f5"
   },
   {
    "id": "cookpad-premium",
@@ -9204,7 +9358,8 @@
     "料理"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/cookpad-premium.png"
+   "iconRev": "edec75ac55",
+   "iconUrl": "https://catalog.uuuu.to/icons/cookpad-premium.png?v=edec75ac55"
   },
   {
    "id": "kurashiru-premium",
@@ -9256,7 +9411,8 @@
     "未確認"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/kurashiru-premium.png"
+   "iconRev": "2afe9e3048",
+   "iconUrl": "https://catalog.uuuu.to/icons/kurashiru-premium.png?v=2afe9e3048"
   },
   {
    "id": "suntory-water-server",
@@ -9302,7 +9458,8 @@
     "サントリー",
     "ウォーターサーバー"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/suntory-water-server.png"
+   "iconRev": "1027ee41e4",
+   "iconUrl": "https://catalog.uuuu.to/icons/suntory-water-server.png?v=1027ee41e4"
   },
   {
    "id": "nescafe-barista-teiki",
@@ -9347,7 +9504,8 @@
     "ネスカフェ",
     "バリスタ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/nescafe-barista-teiki.png"
+   "iconRev": "e05bb921ae",
+   "iconUrl": "https://catalog.uuuu.to/icons/nescafe-barista-teiki.png?v=e05bb921ae"
   },
   {
    "id": "mitsuboshi-farm",
@@ -9423,7 +9581,8 @@
    "aliases": [
     "みつぼしファーム"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/mitsuboshi-farm.png"
+   "iconRev": "619232b59f",
+   "iconUrl": "https://catalog.uuuu.to/icons/mitsuboshi-farm.png?v=619232b59f"
   },
   {
    "id": "tabelog-premium",
@@ -9468,7 +9627,8 @@
     "クーポン"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/tabelog-premium.png"
+   "iconRev": "eb0d3eff32",
+   "iconUrl": "https://catalog.uuuu.to/icons/tabelog-premium.png?v=eb0d3eff32"
   },
   {
    "id": "apple-arcade",
@@ -9525,7 +9685,8 @@
    "aliases": [
     "アップルアーケード"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/apple-arcade.png"
+   "iconRev": "1f88a3cd01",
+   "iconUrl": "https://catalog.uuuu.to/icons/apple-arcade.png?v=1f88a3cd01"
   },
   {
    "id": "ea-play",
@@ -9596,7 +9757,8 @@
     "サブスク"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/ea-play.png"
+   "iconRev": "dd5805b03e",
+   "iconUrl": "https://catalog.uuuu.to/icons/ea-play.png?v=dd5805b03e"
   },
   {
    "id": "geforce-now",
@@ -9657,7 +9819,8 @@
     "ジーフォース ナウ",
     "ジーフォースナウ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/geforce-now.png"
+   "iconRev": "29eba423d4",
+   "iconUrl": "https://catalog.uuuu.to/icons/geforce-now.png?v=29eba423d4"
   },
   {
    "id": "google-play-pass",
@@ -9707,7 +9870,8 @@
     "Google Play パス",
     "グーグルプレイパス"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/google-play-pass.png"
+   "iconRev": "876ee9264d",
+   "iconUrl": "https://catalog.uuuu.to/icons/google-play-pass.png?v=876ee9264d"
   },
   {
    "id": "minecraft-realms",
@@ -9764,7 +9928,8 @@
     "マルチプレイ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/minecraft-realms.png"
+   "iconRev": "d42449caa1",
+   "iconUrl": "https://catalog.uuuu.to/icons/minecraft-realms.png?v=d42449caa1"
   },
   {
    "id": "nintendo-switch-online",
@@ -9888,7 +10053,8 @@
     "スイッチオンライン",
     "任天堂"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/nintendo-switch-online.png"
+   "iconRev": "668f5cbf97",
+   "iconUrl": "https://catalog.uuuu.to/icons/nintendo-switch-online.png?v=668f5cbf97"
   },
   {
    "id": "playstation-plus",
@@ -10017,7 +10183,8 @@
     "プレステ",
     "PS Plus"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/playstation-plus.png"
+   "iconRev": "9de52336e6",
+   "iconUrl": "https://catalog.uuuu.to/icons/playstation-plus.png?v=9de52336e6"
   },
   {
    "id": "pokemon-sleep-premium",
@@ -10067,7 +10234,8 @@
     "睡眠"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/pokemon-sleep-premium.png"
+   "iconRev": "bbbdb8a1ef",
+   "iconUrl": "https://catalog.uuuu.to/icons/pokemon-sleep-premium.png?v=bbbdb8a1ef"
   },
   {
    "id": "roblox-premium",
@@ -10129,7 +10297,8 @@
     "子ども"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/roblox-premium.png"
+   "iconRev": "dc99256e78",
+   "iconUrl": "https://catalog.uuuu.to/icons/roblox-premium.png?v=dc99256e78"
   },
   {
    "id": "xbox-game-pass",
@@ -10225,7 +10394,8 @@
     "エックスボックス",
     "ゲームパス"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/xbox-game-pass.png"
+   "iconRev": "b5089a4ad1",
+   "iconUrl": "https://catalog.uuuu.to/icons/xbox-game-pass.png?v=b5089a4ad1"
   },
   {
    "id": "fortnite-crew",
@@ -10269,7 +10439,8 @@
     "ゲーム"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/fortnite-crew.png"
+   "iconRev": "6d302314e6",
+   "iconUrl": "https://catalog.uuuu.to/icons/fortnite-crew.png?v=6d302314e6"
   },
   {
    "id": "kinto",
@@ -10322,7 +10493,8 @@
     "KINTO（キント）",
     "キント"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/kinto.png"
+   "iconRev": "709ea6d31e",
+   "iconUrl": "https://catalog.uuuu.to/icons/kinto.png?v=709ea6d31e"
   },
   {
    "id": "luup-pass",
@@ -10367,7 +10539,8 @@
     "電動自転車"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/luup-pass.png"
+   "iconRev": "87b7962bdc",
+   "iconUrl": "https://catalog.uuuu.to/icons/luup-pass.png?v=87b7962bdc"
   },
   {
    "id": "timescar",
@@ -10427,7 +10600,8 @@
     "タイムズ",
     "カーシェア"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/timescar.png"
+   "iconRev": "699ae33f14",
+   "iconUrl": "https://catalog.uuuu.to/icons/timescar.png?v=699ae33f14"
   },
   {
    "id": "docomo-bikeshare",
@@ -10474,7 +10648,8 @@
     "ドコモ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/docomo-bikeshare.png"
+   "iconRev": "d286e9b7a4",
+   "iconUrl": "https://catalog.uuuu.to/icons/docomo-bikeshare.png?v=d286e9b7a4"
   },
   {
    "id": "carshares",
@@ -10527,7 +10702,8 @@
     "カレコ",
     "カーシェア"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/carshares.png"
+   "iconRev": "449e2ca72f",
+   "iconUrl": "https://catalog.uuuu.to/icons/carshares.png?v=449e2ca72f"
   },
   {
    "id": "awa",
@@ -10588,7 +10764,8 @@
    "aliases": [
     "アワ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/awa.png"
+   "iconRev": "8b87c2b6a2",
+   "iconUrl": "https://catalog.uuuu.to/icons/awa.png?v=8b87c2b6a2"
   },
   {
    "id": "amazon-music-unlimited",
@@ -10699,7 +10876,8 @@
     "アマゾンミュージック",
     "Amazon Music"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/amazon-music-unlimited.png"
+   "iconRev": "19f59e6cf8",
+   "iconUrl": "https://catalog.uuuu.to/icons/amazon-music-unlimited.png?v=19f59e6cf8"
   },
   {
    "id": "apple-music",
@@ -10792,7 +10970,8 @@
    "aliases": [
     "アップルミュージック"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/apple-music.png"
+   "iconRev": "61ee2d942c",
+   "iconUrl": "https://catalog.uuuu.to/icons/apple-music.png?v=61ee2d942c"
   },
   {
    "id": "apple-one",
@@ -10857,7 +11036,8 @@
    "aliases": [
     "アップルワン"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/apple-one.png"
+   "iconRev": "81f4c6116f",
+   "iconUrl": "https://catalog.uuuu.to/icons/apple-one.png?v=81f4c6116f"
   },
   {
    "id": "audible",
@@ -10909,7 +11089,8 @@
    "aliases": [
     "オーディブル"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/audible.png"
+   "iconRev": "69962efb5e",
+   "iconUrl": "https://catalog.uuuu.to/icons/audible.png?v=69962efb5e"
   },
   {
    "id": "deezer",
@@ -10967,7 +11148,8 @@
     "ハイレゾ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/deezer.png"
+   "iconRev": "7c0753b8f2",
+   "iconUrl": "https://catalog.uuuu.to/icons/deezer.png?v=7c0753b8f2"
   },
   {
    "id": "kkbox",
@@ -11010,7 +11192,8 @@
    "aliases": [
     "ケーケーボックス"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/kkbox.png"
+   "iconRev": "8dc44f15e5",
+   "iconUrl": "https://catalog.uuuu.to/icons/kkbox.png?v=8dc44f15e5"
   },
   {
    "id": "line-music",
@@ -11095,7 +11278,8 @@
    "aliases": [
     "ラインミュージック"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/line-music.png"
+   "iconRev": "64ac001293",
+   "iconUrl": "https://catalog.uuuu.to/icons/line-music.png?v=64ac001293"
   },
   {
    "id": "soundcloud-go-plus",
@@ -11144,7 +11328,8 @@
     "音楽ストリーミング"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/soundcloud-go-plus.png"
+   "iconRev": "411b09df1c",
+   "iconUrl": "https://catalog.uuuu.to/icons/soundcloud-go-plus.png?v=411b09df1c"
   },
   {
    "id": "spotify",
@@ -11239,7 +11424,8 @@
     "スポティファイ",
     "スポティファイ プレミアム"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/spotify.png"
+   "iconRev": "bc8d0b32a4",
+   "iconUrl": "https://catalog.uuuu.to/icons/spotify.png?v=bc8d0b32a4"
   },
   {
    "id": "voicy-premium",
@@ -11292,7 +11478,8 @@
     "クリエイター支援"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/voicy-premium.png"
+   "iconRev": "9ee8d7863e",
+   "iconUrl": "https://catalog.uuuu.to/icons/voicy-premium.png?v=9ee8d7863e"
   },
   {
    "id": "audiobook-jp",
@@ -11344,7 +11531,8 @@
     "オーディオブック・ドットジェイピー",
     "オーディオブック"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/audiobook-jp.png"
+   "iconRev": "a093f8ec55",
+   "iconUrl": "https://catalog.uuuu.to/icons/audiobook-jp.png?v=a093f8ec55"
   },
   {
    "id": "au-music-pass",
@@ -11412,7 +11600,8 @@
     "うたパス",
     "ウタパス"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/au-music-pass.png"
+   "iconRev": "cef8df4293",
+   "iconUrl": "https://catalog.uuuu.to/icons/au-music-pass.png?v=cef8df4293"
   },
   {
    "id": "d-hits",
@@ -11471,7 +11660,8 @@
    "aliases": [
     "ディーヒッツ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/d-hits.png"
+   "iconRev": "2ea601daeb",
+   "iconUrl": "https://catalog.uuuu.to/icons/d-hits.png?v=2ea601daeb"
   },
   {
    "id": "pokekara-vip",
@@ -11539,7 +11729,8 @@
     "アプリ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/pokekara-vip.png"
+   "iconRev": "8bb41155d9",
+   "iconUrl": "https://catalog.uuuu.to/icons/pokekara-vip.png?v=8bb41155d9"
   },
   {
    "id": "rakuten-music",
@@ -11604,7 +11795,8 @@
    ],
    "verifiedAt": "2026-10-22",
    "aliases": [],
-   "iconUrl": "https://catalog.uuuu.to/icons/rakuten-music.png"
+   "iconRev": "e24e67c124",
+   "iconUrl": "https://catalog.uuuu.to/icons/rakuten-music.png?v=e24e67c124"
   },
   {
    "id": "bloomberg",
@@ -11655,7 +11847,8 @@
     "経済"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/bloomberg.png"
+   "iconRev": "198397d8c4",
+   "iconUrl": "https://catalog.uuuu.to/icons/bloomberg.png?v=198397d8c4"
   },
   {
    "id": "newspicks",
@@ -11715,7 +11908,8 @@
    "aliases": [
     "ニューズピックス"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/newspicks.png"
+   "iconRev": "33caad0dd0",
+   "iconUrl": "https://catalog.uuuu.to/icons/newspicks.png?v=33caad0dd0"
   },
   {
    "id": "nytimes",
@@ -11769,7 +11963,8 @@
     "海外メディア"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/nytimes.png"
+   "iconRev": "167e199fe1",
+   "iconUrl": "https://catalog.uuuu.to/icons/nytimes.png?v=167e199fe1"
   },
   {
    "id": "wsj",
@@ -11822,7 +12017,8 @@
     "英語"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/wsj.png"
+   "iconRev": "486919e1c7",
+   "iconUrl": "https://catalog.uuuu.to/icons/wsj.png?v=486919e1c7"
   },
   {
    "id": "smartnews-plus",
@@ -11865,7 +12061,8 @@
     "クーポン"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/smartnews-plus.png"
+   "iconRev": "ca316b2e4e",
+   "iconUrl": "https://catalog.uuuu.to/icons/smartnews-plus.png?v=ca316b2e4e"
   },
   {
    "id": "nikkei-digital",
@@ -11919,7 +12116,8 @@
     "日経",
     "ニッケイ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/nikkei-digital.png"
+   "iconRev": "6671a7b032",
+   "iconUrl": "https://catalog.uuuu.to/icons/nikkei-digital.png?v=6671a7b032"
   },
   {
    "id": "asahi-digital",
@@ -11987,7 +12185,8 @@
    "aliases": [
     "朝日"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/asahi-digital.png"
+   "iconRev": "32255855f3",
+   "iconUrl": "https://catalog.uuuu.to/icons/asahi-digital.png?v=32255855f3"
   },
   {
    "id": "toyokeizai-online",
@@ -12038,7 +12237,8 @@
    "aliases": [
     "東洋経済"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/toyokeizai-online.png"
+   "iconRev": "7294b88d35",
+   "iconUrl": "https://catalog.uuuu.to/icons/toyokeizai-online.png?v=7294b88d35"
   },
   {
    "id": "mainichi-digital",
@@ -12089,7 +12289,8 @@
    "aliases": [
     "毎日"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/mainichi-digital.png"
+   "iconRev": "a7a82cb0be",
+   "iconUrl": "https://catalog.uuuu.to/icons/mainichi-digital.png?v=a7a82cb0be"
   },
   {
    "id": "yomiuri-online",
@@ -12144,7 +12345,8 @@
    "aliases": [
     "読売"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/yomiuri-online.png"
+   "iconRev": "51bd8afd99",
+   "iconUrl": "https://catalog.uuuu.to/icons/yomiuri-online.png?v=51bd8afd99"
   },
   {
    "id": "address",
@@ -12220,7 +12422,8 @@
     "旅"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/address.png"
+   "iconRev": "87ce743087",
+   "iconUrl": "https://catalog.uuuu.to/icons/address.png?v=87ce743087"
   },
   {
    "id": "jaf",
@@ -12264,7 +12467,8 @@
     "会員優待"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/jaf.png"
+   "iconRev": "0399fb7538",
+   "iconUrl": "https://catalog.uuuu.to/icons/jaf.png?v=0399fb7538"
   },
   {
    "id": "jal-neobank-premium",
@@ -12308,7 +12512,8 @@
     "住信SBI"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/jal-neobank-premium.png"
+   "iconRev": "7e9ee0ed5b",
+   "iconUrl": "https://catalog.uuuu.to/icons/jal-neobank-premium.png?v=7e9ee0ed5b"
   },
   {
    "id": "norel",
@@ -12359,7 +12564,8 @@
     "ガリバー"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/norel.png"
+   "iconRev": "4ba00de669",
+   "iconUrl": "https://catalog.uuuu.to/icons/norel.png?v=4ba00de669"
   },
   {
    "id": "mederi-pill",
@@ -12401,7 +12607,8 @@
     "フェムテック"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/mederi-pill.png"
+   "iconRev": "6198577164",
+   "iconUrl": "https://catalog.uuuu.to/icons/mederi-pill.png?v=6198577164"
   },
   {
    "id": "note-premium",
@@ -12442,7 +12649,8 @@
     "クリエイター"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/note-premium.png"
+   "iconRev": "79275173f4",
+   "iconUrl": "https://catalog.uuuu.to/icons/note-premium.png?v=79275173f4"
   },
   {
    "id": "radiko-premium",
@@ -12504,7 +12712,8 @@
     "音声"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/radiko-premium.png"
+   "iconRev": "b3f4be1cd7",
+   "iconUrl": "https://catalog.uuuu.to/icons/radiko-premium.png?v=b3f4be1cd7"
   },
   {
    "id": "club-off",
@@ -12556,7 +12765,8 @@
     "宿泊割引"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/club-off.png"
+   "iconRev": "0e3ef0acf0",
+   "iconUrl": "https://catalog.uuuu.to/icons/club-off.png?v=0e3ef0acf0"
   },
   {
    "id": "clinicfor-pill",
@@ -12607,7 +12817,8 @@
     "定期配送"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/clinicfor-pill.png"
+   "iconRev": "c944cb03d1",
+   "iconUrl": "https://catalog.uuuu.to/icons/clinicfor-pill.png?v=c944cb03d1"
   },
   {
    "id": "smaluna",
@@ -12659,7 +12870,8 @@
     "フェムテック"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/smaluna.png"
+   "iconRev": "a0666db9fc",
+   "iconUrl": "https://catalog.uuuu.to/icons/smaluna.png?v=a0666db9fc"
   },
   {
    "id": "tiketplus-trade-premium",
@@ -12703,7 +12915,8 @@
     "ライブ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/tiketplus-trade-premium.png"
+   "iconRev": "205f84707a",
+   "iconUrl": "https://catalog.uuuu.to/icons/tiketplus-trade-premium.png?v=205f84707a"
   },
   {
    "id": "amazon-prime",
@@ -12802,7 +13015,8 @@
     "Amazonプライム",
     "アマプラ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/amazon-prime.png"
+   "iconRev": "0b5d3503fa",
+   "iconUrl": "https://catalog.uuuu.to/icons/amazon-prime.png?v=0b5d3503fa"
   },
   {
    "id": "clas",
@@ -12846,7 +13060,8 @@
     "レンタル"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/clas.png"
+   "iconRev": "1a85d912d0",
+   "iconUrl": "https://catalog.uuuu.to/icons/clas.png?v=1a85d912d0"
   },
   {
    "id": "mylittlebox",
@@ -12888,7 +13103,8 @@
     "サブスクボックス"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/mylittlebox.png"
+   "iconRev": "ed7ec00ea0",
+   "iconUrl": "https://catalog.uuuu.to/icons/mylittlebox.png?v=ed7ec00ea0"
   },
   {
    "id": "uber-one",
@@ -12960,7 +13176,8 @@
     "ウーバーワン",
     "ウーバーイーツ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/uber-one.png"
+   "iconRev": "ff488c173c",
+   "iconUrl": "https://catalog.uuuu.to/icons/uber-one.png?v=ff488c173c"
   },
   {
    "id": "aircloset",
@@ -13012,7 +13229,8 @@
     "スタイリスト"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/aircloset.png"
+   "iconRev": "9630dcbea6",
+   "iconUrl": "https://catalog.uuuu.to/icons/aircloset.png?v=9630dcbea6"
   },
   {
    "id": "bloomee",
@@ -13056,7 +13274,8 @@
     "ポスト投函"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/bloomee.png"
+   "iconRev": "96d625d4ad",
+   "iconUrl": "https://catalog.uuuu.to/icons/bloomee.png?v=96d625d4ad"
   },
   {
    "id": "mi-tomonokai",
@@ -13108,7 +13327,8 @@
     "伊勢丹"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/mi-tomonokai.png"
+   "iconRev": "7ba3d5b357",
+   "iconUrl": "https://catalog.uuuu.to/icons/mi-tomonokai.png?v=7ba3d5b357"
   },
   {
    "id": "costco",
@@ -13186,7 +13406,8 @@
    "aliases": [
     "Costco"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/costco.png"
+   "iconRev": "bc9321f765",
+   "iconUrl": "https://catalog.uuuu.to/icons/costco.png?v=bc9321f765"
   },
   {
    "id": "mechakari",
@@ -13245,7 +13466,8 @@
     "洋服サブスク"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/mechakari.png"
+   "iconRev": "7939a3d8ae",
+   "iconUrl": "https://catalog.uuuu.to/icons/mechakari.png?v=7939a3d8ae"
   },
   {
    "id": "discord-nitro",
@@ -13308,7 +13530,8 @@
     "コミュニティ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/discord-nitro.png"
+   "iconRev": "ebb1353f71",
+   "iconUrl": "https://catalog.uuuu.to/icons/discord-nitro.png?v=ebb1353f71"
   },
   {
    "id": "linkedin",
@@ -13386,7 +13609,8 @@
     "転職"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/linkedin.png"
+   "iconRev": "5ff8e1cabc",
+   "iconUrl": "https://catalog.uuuu.to/icons/linkedin.png?v=5ff8e1cabc"
   },
   {
    "id": "meta-one",
@@ -13519,7 +13743,8 @@
     "認証バッジ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/meta-one.png"
+   "iconRev": "72b62f1e57",
+   "iconUrl": "https://catalog.uuuu.to/icons/meta-one.png?v=72b62f1e57"
   },
   {
    "id": "snapchat-plus",
@@ -13560,7 +13785,8 @@
     "プレミアム機能"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/snapchat-plus.png"
+   "iconRev": "2ba7b6cf2f",
+   "iconUrl": "https://catalog.uuuu.to/icons/snapchat-plus.png?v=2ba7b6cf2f"
   },
   {
    "id": "telegram-premium",
@@ -13609,7 +13835,8 @@
     "メッセンジャー"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/telegram-premium.png"
+   "iconRev": "9f4272e62d",
+   "iconUrl": "https://catalog.uuuu.to/icons/telegram-premium.png?v=9f4272e62d"
   },
   {
    "id": "x-premium",
@@ -13681,7 +13908,8 @@
     "Grok"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/x-premium.png"
+   "iconRev": "818f9b0090",
+   "iconUrl": "https://catalog.uuuu.to/icons/x-premium.png?v=818f9b0090"
   },
   {
    "id": "1password",
@@ -13748,7 +13976,8 @@
    "aliases": [
     "ワンパスワード"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/1password.png"
+   "iconRev": "8a9dadcdd0",
+   "iconUrl": "https://catalog.uuuu.to/icons/1password.png?v=8a9dadcdd0"
   },
   {
    "id": "adobe-creative-cloud",
@@ -13896,7 +14125,8 @@
     "アドビ",
     "クリエイティブクラウド"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/adobe-creative-cloud.png"
+   "iconRev": "68d3ab0699",
+   "iconUrl": "https://catalog.uuuu.to/icons/adobe-creative-cloud.png?v=68d3ab0699"
   },
   {
    "id": "lightroom",
@@ -13957,7 +14187,8 @@
     "Adobe"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/lightroom.png"
+   "iconRev": "7a33dc6dca",
+   "iconUrl": "https://catalog.uuuu.to/icons/lightroom.png?v=7a33dc6dca"
   },
   {
    "id": "ahrefs",
@@ -14014,7 +14245,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/ahrefs.png"
+   "iconRev": "d3b83ee4d2",
+   "iconUrl": "https://catalog.uuuu.to/icons/ahrefs.png?v=d3b83ee4d2"
   },
   {
    "id": "airtable",
@@ -14075,7 +14307,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/airtable.png"
+   "iconRev": "1b716645cf",
+   "iconUrl": "https://catalog.uuuu.to/icons/airtable.png?v=1b716645cf"
   },
   {
    "id": "apple-developer-program",
@@ -14120,7 +14353,8 @@
     "年会費"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/apple-developer-program.png"
+   "iconRev": "4cb982f2c5",
+   "iconUrl": "https://catalog.uuuu.to/icons/apple-developer-program.png?v=4cb982f2c5"
   },
   {
    "id": "asana",
@@ -14179,7 +14413,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/asana.png"
+   "iconRev": "31f139ed9d",
+   "iconUrl": "https://catalog.uuuu.to/icons/asana.png?v=31f139ed9d"
   },
   {
    "id": "bear-pro",
@@ -14228,7 +14463,8 @@
     "Markdown"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/bear-pro.png"
+   "iconRev": "e15072fb4e",
+   "iconUrl": "https://catalog.uuuu.to/icons/bear-pro.png?v=e15072fb4e"
   },
   {
    "id": "bitwarden",
@@ -14281,7 +14517,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/bitwarden.png"
+   "iconRev": "6c2a629ac1",
+   "iconUrl": "https://catalog.uuuu.to/icons/bitwarden.png?v=6c2a629ac1"
   },
   {
    "id": "bolt-new",
@@ -14343,7 +14580,8 @@
     "ノーコード"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/bolt-new.png"
+   "iconRev": "b0f2280d17",
+   "iconUrl": "https://catalog.uuuu.to/icons/bolt-new.png?v=b0f2280d17"
   },
   {
    "id": "buffer",
@@ -14406,7 +14644,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/buffer.png"
+   "iconRev": "8f5a0d06f9",
+   "iconUrl": "https://catalog.uuuu.to/icons/buffer.png?v=8f5a0d06f9"
   },
   {
    "id": "calendly",
@@ -14468,7 +14707,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/calendly.png"
+   "iconRev": "7c92fcef00",
+   "iconUrl": "https://catalog.uuuu.to/icons/calendly.png?v=7c92fcef00"
   },
   {
    "id": "canva",
@@ -14536,7 +14776,8 @@
     "Canva Pro / ビジネス",
     "キャンバ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/canva.png"
+   "iconRev": "d402cd74fd",
+   "iconUrl": "https://catalog.uuuu.to/icons/canva.png?v=d402cd74fd"
   },
   {
    "id": "capcut-pro",
@@ -14594,7 +14835,8 @@
     "動画編集"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/capcut-pro.png"
+   "iconRev": "76efd2719b",
+   "iconUrl": "https://catalog.uuuu.to/icons/capcut-pro.png?v=76efd2719b"
   },
   {
    "id": "chatwork",
@@ -14650,7 +14892,8 @@
     "国内"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/chatwork.png"
+   "iconRev": "b6268f71d5",
+   "iconUrl": "https://catalog.uuuu.to/icons/chatwork.png?v=b6268f71d5"
   },
   {
    "id": "foryou-check",
@@ -14700,7 +14943,8 @@
     "forYou inc."
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/foryou-check.png"
+   "iconRev": "479f55b36e",
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-check.png?v=479f55b36e"
   },
   {
    "id": "clickup",
@@ -14762,7 +15006,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/clickup.png"
+   "iconRev": "10a2c0a1fd",
+   "iconUrl": "https://catalog.uuuu.to/icons/clickup.png?v=10a2c0a1fd"
   },
   {
    "id": "craft",
@@ -14821,7 +15066,8 @@
     "ドキュメント"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/craft.png"
+   "iconRev": "eff50c03da",
+   "iconUrl": "https://catalog.uuuu.to/icons/craft.png?v=eff50c03da"
   },
   {
    "id": "dashlane",
@@ -14874,7 +15120,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/dashlane.png"
+   "iconRev": "2414eb4d6f",
+   "iconUrl": "https://catalog.uuuu.to/icons/dashlane.png?v=2414eb4d6f"
   },
   {
    "id": "day-one",
@@ -14932,7 +15179,8 @@
     "ジャーナル"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/day-one.png"
+   "iconRev": "5af7b92ab0",
+   "iconUrl": "https://catalog.uuuu.to/icons/day-one.png?v=5af7b92ab0"
   },
   {
    "id": "deepl-pro",
@@ -15016,7 +15264,8 @@
     "AI"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/deepl-pro.png"
+   "iconRev": "f64fc31d95",
+   "iconUrl": "https://catalog.uuuu.to/icons/deepl-pro.png?v=f64fc31d95"
   },
   {
    "id": "windsurf",
@@ -15069,7 +15318,8 @@
     "IDE"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/windsurf.png"
+   "iconRev": "475d46b82c",
+   "iconUrl": "https://catalog.uuuu.to/icons/windsurf.png?v=475d46b82c"
   },
   {
    "id": "dify",
@@ -15130,7 +15380,8 @@
     "ノーコード"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/dify.png"
+   "iconRev": "589f37ad96",
+   "iconUrl": "https://catalog.uuuu.to/icons/dify.png?v=589f37ad96"
   },
   {
    "id": "docker",
@@ -15191,7 +15442,8 @@
     "ツール"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/docker.png"
+   "iconRev": "622d542a85",
+   "iconUrl": "https://catalog.uuuu.to/icons/docker.png?v=622d542a85"
   },
   {
    "id": "eset",
@@ -15248,7 +15500,8 @@
     "ウイルス対策"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/eset.png"
+   "iconRev": "a216662a5f",
+   "iconUrl": "https://catalog.uuuu.to/icons/eset.png?v=a216662a5f"
   },
   {
    "id": "envato-elements",
@@ -15310,7 +15563,8 @@
     "ストック"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/envato-elements.png"
+   "iconRev": "acb1687bf7",
+   "iconUrl": "https://catalog.uuuu.to/icons/envato-elements.png?v=acb1687bf7"
   },
   {
    "id": "evernote",
@@ -15408,7 +15662,8 @@
    "aliases": [
     "エバーノート"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/evernote.png"
+   "iconRev": "fbf8ee2976",
+   "iconUrl": "https://catalog.uuuu.to/icons/evernote.png?v=fbf8ee2976"
   },
   {
    "id": "excalidraw-plus",
@@ -15459,7 +15714,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/excalidraw-plus.png"
+   "iconRev": "42b3d20ad8",
+   "iconUrl": "https://catalog.uuuu.to/icons/excalidraw-plus.png?v=42b3d20ad8"
   },
   {
    "id": "expressvpn",
@@ -15552,7 +15808,8 @@
    "aliases": [
     "エクスプレスVPN"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/expressvpn.png"
+   "iconRev": "ab4bc3079d",
+   "iconUrl": "https://catalog.uuuu.to/icons/expressvpn.png?v=ab4bc3079d"
   },
   {
    "id": "figma-professional",
@@ -15602,7 +15859,8 @@
     "デザイン"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/figma-professional.png"
+   "iconRev": "dd0027568d",
+   "iconUrl": "https://catalog.uuuu.to/icons/figma-professional.png?v=dd0027568d"
   },
   {
    "id": "font-awesome",
@@ -15755,7 +16013,8 @@
     "デザイン"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/font-awesome.png"
+   "iconRev": "cf77ae1871",
+   "iconUrl": "https://catalog.uuuu.to/icons/font-awesome.png?v=cf77ae1871"
   },
   {
    "id": "frame-io",
@@ -15807,7 +16066,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/frame-io.png"
+   "iconRev": "391fbb2ec9",
+   "iconUrl": "https://catalog.uuuu.to/icons/frame-io.png?v=391fbb2ec9"
   },
   {
    "id": "goodnotes",
@@ -15866,7 +16126,8 @@
     "手書き"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/goodnotes.png"
+   "iconRev": "3c1d60b293",
+   "iconUrl": "https://catalog.uuuu.to/icons/goodnotes.png?v=3c1d60b293"
   },
   {
    "id": "grammarly-pro",
@@ -15945,7 +16206,8 @@
     "AI"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/grammarly-pro.png"
+   "iconRev": "82eef3a3e2",
+   "iconUrl": "https://catalog.uuuu.to/icons/grammarly-pro.png?v=82eef3a3e2"
   },
   {
    "id": "hootsuite",
@@ -16007,7 +16269,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/hootsuite.png"
+   "iconRev": "c506ba66da",
+   "iconUrl": "https://catalog.uuuu.to/icons/hootsuite.png?v=c506ba66da"
   },
   {
    "id": "hotjar",
@@ -16059,7 +16322,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/hotjar.png"
+   "iconRev": "ac94208848",
+   "iconUrl": "https://catalog.uuuu.to/icons/hotjar.png?v=ac94208848"
   },
   {
    "id": "hubspot",
@@ -16108,7 +16372,8 @@
     "ビジネス"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/hubspot.png"
+   "iconRev": "7a8a014016",
+   "iconUrl": "https://catalog.uuuu.to/icons/hubspot.png?v=7a8a014016"
   },
   {
    "id": "intercom",
@@ -16168,7 +16433,8 @@
     "ビジネス"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/intercom.png"
+   "iconRev": "cd2cc0dda7",
+   "iconUrl": "https://catalog.uuuu.to/icons/intercom.png?v=cd2cc0dda7"
   },
   {
    "id": "jetbrains-all-products",
@@ -16221,7 +16487,8 @@
     "IDE"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/jetbrains-all-products.png"
+   "iconRev": "37e5a69986",
+   "iconUrl": "https://catalog.uuuu.to/icons/jetbrains-all-products.png?v=37e5a69986"
   },
   {
    "id": "foryou-kagi",
@@ -16264,7 +16531,8 @@
     "forYou inc."
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/foryou-kagi.png"
+   "iconRev": "d0762d41a7",
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-kagi.png?v=d0762d41a7"
   },
   {
    "id": "kit",
@@ -16326,7 +16594,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/kit.png"
+   "iconRev": "1878115d44",
+   "iconUrl": "https://catalog.uuuu.to/icons/kit.png?v=1878115d44"
   },
   {
    "id": "line-stickers-premium",
@@ -16378,7 +16647,8 @@
    "aliases": [
     "ラインスタンプ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/line-stickers-premium.png"
+   "iconRev": "d1a65cc547",
+   "iconUrl": "https://catalog.uuuu.to/icons/line-stickers-premium.png?v=d1a65cc547"
   },
   {
    "id": "lastpass",
@@ -16431,7 +16701,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/lastpass.png"
+   "iconRev": "c105ad73f1",
+   "iconUrl": "https://catalog.uuuu.to/icons/lastpass.png?v=c105ad73f1"
   },
   {
    "id": "loom",
@@ -16492,7 +16763,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/loom.png"
+   "iconRev": "6724feff5f",
+   "iconUrl": "https://catalog.uuuu.to/icons/loom.png?v=6724feff5f"
   },
   {
    "id": "lottiefiles",
@@ -16543,7 +16815,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/lottiefiles.png"
+   "iconRev": "dd0ef038f9",
+   "iconUrl": "https://catalog.uuuu.to/icons/lottiefiles.png?v=dd0ef038f9"
   },
   {
    "id": "lovable",
@@ -16596,7 +16869,8 @@
     "ノーコード"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/lovable.png"
+   "iconRev": "94cbb471a5",
+   "iconUrl": "https://catalog.uuuu.to/icons/lovable.png?v=94cbb471a5"
   },
   {
    "id": "mailchimp",
@@ -16645,7 +16919,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/mailchimp.png"
+   "iconRev": "0a47ebf994",
+   "iconUrl": "https://catalog.uuuu.to/icons/mailchimp.png?v=0a47ebf994"
   },
   {
    "id": "make",
@@ -16705,7 +16980,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/make.png"
+   "iconRev": "d3e557732d",
+   "iconUrl": "https://catalog.uuuu.to/icons/make.png?v=d3e557732d"
   },
   {
    "id": "foryou-margins",
@@ -16746,7 +17022,8 @@
     "forYou inc."
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/foryou-margins.png"
+   "iconRev": "6719c08be9",
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-margins.png?v=6719c08be9"
   },
   {
    "id": "microsoft-365",
@@ -16884,7 +17161,8 @@
     "オフィス",
     "Office"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/microsoft-365.png"
+   "iconRev": "a476676915",
+   "iconUrl": "https://catalog.uuuu.to/icons/microsoft-365.png?v=a476676915"
   },
   {
    "id": "miro",
@@ -16953,7 +17231,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/miro.png"
+   "iconRev": "ccf793b6b3",
+   "iconUrl": "https://catalog.uuuu.to/icons/miro.png?v=ccf793b6b3"
   },
   {
    "id": "morisawa-fonts",
@@ -17021,7 +17300,8 @@
     "デザイン"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/morisawa-fonts.png"
+   "iconRev": "eeac0b2925",
+   "iconUrl": "https://catalog.uuuu.to/icons/morisawa-fonts.png?v=eeac0b2925"
   },
   {
    "id": "foryou-mosaic",
@@ -17064,7 +17344,8 @@
     "forYou inc."
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/foryou-mosaic.png"
+   "iconRev": "3b5df69e1f",
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-mosaic.png?v=3b5df69e1f"
   },
   {
    "id": "mullvad-vpn",
@@ -17110,7 +17391,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/mullvad-vpn.png"
+   "iconRev": "5e564a78b3",
+   "iconUrl": "https://catalog.uuuu.to/icons/mullvad-vpn.png?v=5e564a78b3"
   },
   {
    "id": "nordvpn",
@@ -17169,7 +17451,8 @@
    "aliases": [
     "ノードVPN"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/nordvpn.png"
+   "iconRev": "9dbb14c9ff",
+   "iconUrl": "https://catalog.uuuu.to/icons/nordvpn.png?v=9dbb14c9ff"
   },
   {
    "id": "notion",
@@ -17237,7 +17520,8 @@
    "aliases": [
     "ノーション"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/notion.png"
+   "iconRev": "4ec995fe42",
+   "iconUrl": "https://catalog.uuuu.to/icons/notion.png?v=4ec995fe42"
   },
   {
    "id": "obsidian-sync",
@@ -17288,7 +17572,8 @@
     "同期"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/obsidian-sync.png"
+   "iconRev": "14a2ee2db0",
+   "iconUrl": "https://catalog.uuuu.to/icons/obsidian-sync.png?v=14a2ee2db0"
   },
   {
    "id": "otter-pro",
@@ -17340,7 +17625,8 @@
     "AI"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/otter-pro.png"
+   "iconRev": "75404530cf",
+   "iconUrl": "https://catalog.uuuu.to/icons/otter-pro.png?v=75404530cf"
   },
   {
    "id": "raycast",
@@ -17410,7 +17696,8 @@
     "AI"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/raycast.png"
+   "iconRev": "97e2ef9e0c",
+   "iconUrl": "https://catalog.uuuu.to/icons/raycast.png?v=97e2ef9e0c"
   },
   {
    "id": "replit",
@@ -17472,7 +17759,8 @@
     "IDE"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/replit.png"
+   "iconRev": "406c213391",
+   "iconUrl": "https://catalog.uuuu.to/icons/replit.png?v=406c213391"
   },
   {
    "id": "foryou-screentimeblocker",
@@ -17522,7 +17810,8 @@
     "forYou inc."
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/foryou-screentimeblocker.png"
+   "iconRev": "1c4182f1db",
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-screentimeblocker.png?v=1c4182f1db"
   },
   {
    "id": "semrush",
@@ -17582,7 +17871,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/semrush.png"
+   "iconRev": "a229b99b76",
+   "iconUrl": "https://catalog.uuuu.to/icons/semrush.png?v=a229b99b76"
   },
   {
    "id": "setapp",
@@ -17643,7 +17933,8 @@
    "aliases": [
     "セットアップ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/setapp.png"
+   "iconRev": "b2602265c3",
+   "iconUrl": "https://catalog.uuuu.to/icons/setapp.png?v=b2602265c3"
   },
   {
    "id": "shutterstock",
@@ -17683,7 +17974,8 @@
     "素材"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/shutterstock.png"
+   "iconRev": "ca2ce6b392",
+   "iconUrl": "https://catalog.uuuu.to/icons/shutterstock.png?v=ca2ce6b392"
   },
   {
    "id": "sketch",
@@ -17743,7 +18035,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/sketch.png"
+   "iconRev": "5d6a4874b5",
+   "iconUrl": "https://catalog.uuuu.to/icons/sketch.png?v=5d6a4874b5"
   },
   {
    "id": "slack",
@@ -17823,7 +18116,8 @@
     "Slack Pro",
     "スラック"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/slack.png"
+   "iconRev": "143c50464e",
+   "iconUrl": "https://catalog.uuuu.to/icons/slack.png?v=143c50464e"
   },
   {
    "id": "spark-mail",
@@ -17882,7 +18176,8 @@
     "メール"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/spark-mail.png"
+   "iconRev": "45171af0ab",
+   "iconUrl": "https://catalog.uuuu.to/icons/spark-mail.png?v=45171af0ab"
   },
   {
    "id": "surfshark",
@@ -17942,7 +18237,8 @@
     "セキュリティ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/surfshark.png"
+   "iconRev": "7f1b6326fc",
+   "iconUrl": "https://catalog.uuuu.to/icons/surfshark.png?v=7f1b6326fc"
   },
   {
    "id": "todoist-pro",
@@ -18000,7 +18296,8 @@
     "タスク管理"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/todoist-pro.png"
+   "iconRev": "e59caae474",
+   "iconUrl": "https://catalog.uuuu.to/icons/todoist-pro.png?v=e59caae474"
   },
   {
    "id": "tradingview",
@@ -18064,7 +18361,8 @@
     "トレード"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/tradingview.png"
+   "iconRev": "8c5bf6bcb3",
+   "iconUrl": "https://catalog.uuuu.to/icons/tradingview.png?v=8c5bf6bcb3"
   },
   {
    "id": "trello",
@@ -18126,7 +18424,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/trello.png"
+   "iconRev": "153fbc2496",
+   "iconUrl": "https://catalog.uuuu.to/icons/trello.png?v=153fbc2496"
   },
   {
    "id": "unity",
@@ -18187,7 +18486,8 @@
     "ツール"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/unity.png"
+   "iconRev": "14b9772f2a",
+   "iconUrl": "https://catalog.uuuu.to/icons/unity.png?v=14b9772f2a"
   },
   {
    "id": "vsco",
@@ -18236,7 +18536,8 @@
     "フィルター"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/vsco.png"
+   "iconRev": "ef89c1d82b",
+   "iconUrl": "https://catalog.uuuu.to/icons/vsco.png?v=ef89c1d82b"
   },
   {
    "id": "vimeo",
@@ -18299,7 +18600,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/vimeo.png"
+   "iconRev": "2cdd23da32",
+   "iconUrl": "https://catalog.uuuu.to/icons/vimeo.png?v=2cdd23da32"
   },
   {
    "id": "zapier",
@@ -18360,7 +18662,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/zapier.png"
+   "iconRev": "2f80381f1e",
+   "iconUrl": "https://catalog.uuuu.to/icons/zapier.png?v=2f80381f1e"
   },
   {
    "id": "zendesk",
@@ -18429,7 +18732,8 @@
     "ビジネス"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/zendesk.png"
+   "iconRev": "554f5f37af",
+   "iconUrl": "https://catalog.uuuu.to/icons/zendesk.png?v=554f5f37af"
   },
   {
    "id": "zoom",
@@ -18482,7 +18786,8 @@
     "Zoom Workplace Pro",
     "ズーム"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/zoom.png"
+   "iconRev": "3941c55118",
+   "iconUrl": "https://catalog.uuuu.to/icons/zoom.png?v=3941c55118"
   },
   {
    "id": "beehiiv",
@@ -18541,7 +18846,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/beehiiv.png"
+   "iconRev": "009eb552f5",
+   "iconUrl": "https://catalog.uuuu.to/icons/beehiiv.png?v=009eb552f5"
   },
   {
    "id": "monday-com",
@@ -18609,7 +18915,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/monday-com.png"
+   "iconRev": "99f34044be",
+   "iconUrl": "https://catalog.uuuu.to/icons/monday-com.png?v=99f34044be"
   },
   {
    "id": "foryou-months",
@@ -18659,7 +18966,8 @@
     "forYou inc."
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/foryou-months.png"
+   "iconRev": "e567a488ca",
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-months.png?v=e567a488ca"
   },
   {
    "id": "v0",
@@ -18712,7 +19020,8 @@
     "ツール"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/v0.png"
+   "iconRev": "93197cb088",
+   "iconUrl": "https://catalog.uuuu.to/icons/v0.png?v=93197cb088"
   },
   {
    "id": "virusbuster-cloud",
@@ -18787,7 +19096,8 @@
    "aliases": [
     "トレンドマイクロ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/virusbuster-cloud.png"
+   "iconRev": "760a019776",
+   "iconUrl": "https://catalog.uuuu.to/icons/virusbuster-cloud.png?v=760a019776"
   },
   {
    "id": "kaspersky",
@@ -18863,7 +19173,8 @@
     "ウイルス対策"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/kaspersky.png"
+   "iconRev": "5e4edd731a",
+   "iconUrl": "https://catalog.uuuu.to/icons/kaspersky.png?v=5e4edd731a"
   },
   {
    "id": "foryou-subsnote",
@@ -18913,7 +19224,8 @@
     "forYou inc."
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/foryou-subsnote.png"
+   "iconRev": "7807ea353a",
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-subsnote.png?v=7807ea353a"
   },
   {
    "id": "norton-360",
@@ -18973,7 +19285,8 @@
    "aliases": [
     "ノートン"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/norton-360.png"
+   "iconRev": "15d1efb29b",
+   "iconUrl": "https://catalog.uuuu.to/icons/norton-360.png?v=15d1efb29b"
   },
   {
    "id": "mcafee",
@@ -19014,7 +19327,8 @@
     "ウイルス対策"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/mcafee.png"
+   "iconRev": "4b03d37eae",
+   "iconUrl": "https://catalog.uuuu.to/icons/mcafee.png?v=4b03d37eae"
   },
   {
    "id": "gmo-tokutoku-wimax",
@@ -19066,7 +19380,8 @@
    "aliases": [
     "とくとくBB"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/gmo-tokutoku-wimax.png"
+   "iconRev": "a986f6975e",
+   "iconUrl": "https://catalog.uuuu.to/icons/gmo-tokutoku-wimax.png?v=a986f6975e"
   },
   {
    "id": "iijmio",
@@ -19157,7 +19472,8 @@
    "aliases": [
     "アイアイジェイミオ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/iijmio.png"
+   "iconRev": "384529345e",
+   "iconUrl": "https://catalog.uuuu.to/icons/iijmio.png?v=384529345e"
   },
   {
    "id": "jal-mobile",
@@ -19209,7 +19525,8 @@
     "JAL"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/jal-mobile.png"
+   "iconRev": "b272a54893",
+   "iconUrl": "https://catalog.uuuu.to/icons/jal-mobile.png?v=b272a54893"
   },
   {
    "id": "linemo",
@@ -19269,7 +19586,8 @@
    "aliases": [
     "ラインモ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/linemo.png"
+   "iconRev": "e748f5dc44",
+   "iconUrl": "https://catalog.uuuu.to/icons/linemo.png?v=e748f5dc44"
   },
   {
    "id": "docomo",
@@ -19375,7 +19693,8 @@
     "ドコモ",
     "docomo"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/docomo.png"
+   "iconRev": "bb05c9f8b3",
+   "iconUrl": "https://catalog.uuuu.to/icons/docomo.png?v=bb05c9f8b3"
   },
   {
    "id": "nuro-hikari",
@@ -19464,7 +19783,8 @@
     "ニューロ光",
     "NURO光"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/nuro-hikari.png"
+   "iconRev": "6f23748b20",
+   "iconUrl": "https://catalog.uuuu.to/icons/nuro-hikari.png?v=6f23748b20"
   },
   {
    "id": "softbank-hikari",
@@ -19531,7 +19851,8 @@
    "aliases": [
     "ソフトバンク光"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/softbank-hikari.png"
+   "iconRev": "4f64a8e9e7",
+   "iconUrl": "https://catalog.uuuu.to/icons/softbank-hikari.png?v=4f64a8e9e7"
   },
   {
    "id": "uq-wimax",
@@ -19579,7 +19900,8 @@
     "ワイマックス",
     "WiMAX"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/uq-wimax.png"
+   "iconRev": "f9aff9cb8d",
+   "iconUrl": "https://catalog.uuuu.to/icons/uq-wimax.png?v=f9aff9cb8d"
   },
   {
    "id": "uq-mobile",
@@ -19640,7 +19962,8 @@
    "aliases": [
     "ユーキューモバイル"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/uq-mobile.png"
+   "iconRev": "bd3e33dcda",
+   "iconUrl": "https://catalog.uuuu.to/icons/uq-mobile.png?v=bd3e33dcda"
   },
   {
    "id": "ymobile",
@@ -19721,7 +20044,8 @@
    "aliases": [
     "ワイモバイル"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/ymobile.png"
+   "iconRev": "70d31bf5bb",
+   "iconUrl": "https://catalog.uuuu.to/icons/ymobile.png?v=70d31bf5bb"
   },
   {
    "id": "ahamo",
@@ -19795,7 +20119,8 @@
    "aliases": [
     "アハモ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/ahamo.png"
+   "iconRev": "a96a6c259a",
+   "iconUrl": "https://catalog.uuuu.to/icons/ahamo.png?v=a96a6c259a"
   },
   {
    "id": "au",
@@ -19875,7 +20200,8 @@
     "エーユー",
     "KDDI"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/au.png"
+   "iconRev": "62a7303c7a",
+   "iconUrl": "https://catalog.uuuu.to/icons/au.png?v=62a7303c7a"
   },
   {
    "id": "au-hikari",
@@ -19927,7 +20253,8 @@
    ],
    "verifiedAt": "2026-10-22",
    "aliases": [],
-   "iconUrl": "https://catalog.uuuu.to/icons/au-hikari.png"
+   "iconRev": "62a7303c7a",
+   "iconUrl": "https://catalog.uuuu.to/icons/au-hikari.png?v=62a7303c7a"
   },
   {
    "id": "mineo",
@@ -20003,7 +20330,8 @@
    "aliases": [
     "マイネオ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/mineo.png"
+   "iconRev": "96883e1aaf",
+   "iconUrl": "https://catalog.uuuu.to/icons/mineo.png?v=96883e1aaf"
   },
   {
    "id": "povo",
@@ -20088,7 +20416,8 @@
     "ポヴォ",
     "ポボ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/povo.png"
+   "iconRev": "c670cf06e7",
+   "iconUrl": "https://catalog.uuuu.to/icons/povo.png?v=c670cf06e7"
   },
   {
    "id": "softbank",
@@ -20200,7 +20529,8 @@
    ],
    "verifiedAt": "2026-10-22",
    "aliases": [],
-   "iconUrl": "https://catalog.uuuu.to/icons/softbank.png"
+   "iconRev": "636b8fabd1",
+   "iconUrl": "https://catalog.uuuu.to/icons/softbank.png?v=636b8fabd1"
   },
   {
    "id": "docomo-hikari",
@@ -20252,7 +20582,8 @@
    ],
    "verifiedAt": "2026-10-22",
    "aliases": [],
-   "iconUrl": "https://catalog.uuuu.to/icons/docomo-hikari.png"
+   "iconRev": "bb05c9f8b3",
+   "iconUrl": "https://catalog.uuuu.to/icons/docomo-hikari.png?v=bb05c9f8b3"
   },
   {
    "id": "flets-hikari",
@@ -20321,7 +20652,8 @@
    "aliases": [
     "フレッツ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/flets-hikari.png"
+   "iconRev": "ba76d021a8",
+   "iconUrl": "https://catalog.uuuu.to/icons/flets-hikari.png?v=ba76d021a8"
   },
   {
    "id": "rakuten-mobile",
@@ -20389,7 +20721,8 @@
    ],
    "verifiedAt": "2026-10-22",
    "aliases": [],
-   "iconUrl": "https://catalog.uuuu.to/icons/rakuten-mobile.png"
+   "iconRev": "fc641b655f",
+   "iconUrl": "https://catalog.uuuu.to/icons/rakuten-mobile.png?v=fc641b655f"
   },
   {
    "id": "applecare-plus",
@@ -20483,7 +20816,8 @@
    "aliases": [
     "アップルケア"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/applecare-plus.png"
+   "iconRev": "6ab9891b31",
+   "iconUrl": "https://catalog.uuuu.to/icons/applecare-plus.png?v=6ab9891b31"
   },
   {
    "id": "conoha-wing",
@@ -20535,7 +20869,8 @@
    "aliases": [
     "コノハ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/conoha-wing.png"
+   "iconRev": "4fcccb2f43",
+   "iconUrl": "https://catalog.uuuu.to/icons/conoha-wing.png?v=4fcccb2f43"
   },
   {
    "id": "google-home-premium",
@@ -20599,7 +20934,8 @@
     "防犯カメラ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/google-home-premium.png"
+   "iconRev": "e7ca2cf265",
+   "iconUrl": "https://catalog.uuuu.to/icons/google-home-premium.png?v=e7ca2cf265"
   },
   {
    "id": "navitime-premium",
@@ -20659,7 +20995,8 @@
     "地図"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/navitime-premium.png"
+   "iconRev": "a43b6cbd7f",
+   "iconUrl": "https://catalog.uuuu.to/icons/navitime-premium.png?v=a43b6cbd7f"
   },
   {
    "id": "nhk",
@@ -20742,7 +21079,8 @@
     "エヌエイチケー",
     "受信料"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/nhk.png"
+   "iconRev": "a99e57d602",
+   "iconUrl": "https://catalog.uuuu.to/icons/nhk.png?v=a99e57d602"
   },
   {
    "id": "ring-home",
@@ -20802,7 +21140,8 @@
     "ドアベル"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/ring-home.png"
+   "iconRev": "fc090ca340",
+   "iconUrl": "https://catalog.uuuu.to/icons/ring-home.png?v=fc090ca340"
   },
   {
    "id": "switchbot-cloud",
@@ -20851,7 +21190,8 @@
     "防犯カメラ"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/switchbot-cloud.png"
+   "iconRev": "b8ce442545",
+   "iconUrl": "https://catalog.uuuu.to/icons/switchbot-cloud.png?v=b8ce442545"
   },
   {
    "id": "d-valuepass",
@@ -20902,7 +21242,8 @@
     "アプリ定額"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/d-valuepass.png"
+   "iconRev": "2767346ce8",
+   "iconUrl": "https://catalog.uuuu.to/icons/d-valuepass.png?v=2767346ce8"
   },
   {
    "id": "onamae",
@@ -20962,7 +21303,8 @@
    "aliases": [
     "おなまえ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/onamae.png"
+   "iconRev": "03c68e14ff",
+   "iconUrl": "https://catalog.uuuu.to/icons/onamae.png?v=03c68e14ff"
   },
   {
    "id": "sakura-internet",
@@ -21014,7 +21356,8 @@
    "aliases": [
     "サクラ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/sakura-internet.png"
+   "iconRev": "6b7e63d1ab",
+   "iconUrl": "https://catalog.uuuu.to/icons/sakura-internet.png?v=6b7e63d1ab"
   },
   {
    "id": "softbank-tokuhodai",
@@ -21066,7 +21409,8 @@
     "クーポン"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/softbank-tokuhodai.png"
+   "iconRev": "4f64a8e9e7",
+   "iconUrl": "https://catalog.uuuu.to/icons/softbank-tokuhodai.png?v=4f64a8e9e7"
   },
   {
    "id": "ekispert-premium",
@@ -21114,7 +21458,8 @@
     "定期券"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/ekispert-premium.png"
+   "iconRev": "522e092020",
+   "iconUrl": "https://catalog.uuuu.to/icons/ekispert-premium.png?v=522e092020"
   },
   {
    "id": "abema",
@@ -21183,7 +21528,8 @@
    "aliases": [
     "アベマ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/abema.png"
+   "iconRev": "805b87dde1",
+   "iconUrl": "https://catalog.uuuu.to/icons/abema.png?v=805b87dde1"
   },
   {
    "id": "apple-tv-plus",
@@ -21249,7 +21595,8 @@
     "アップルティービー",
     "Apple TV+"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/apple-tv-plus.png"
+   "iconRev": "45e04d0c36",
+   "iconUrl": "https://catalog.uuuu.to/icons/apple-tv-plus.png?v=45e04d0c36"
   },
   {
    "id": "star-channel-ex",
@@ -21292,7 +21639,8 @@
     "スターチャンネルEX",
     "スターチャンネル"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/star-channel-ex.png"
+   "iconRev": "0a1da429f3",
+   "iconUrl": "https://catalog.uuuu.to/icons/star-channel-ex.png?v=0a1da429f3"
   },
   {
    "id": "dazn",
@@ -21391,7 +21739,8 @@
    "aliases": [
     "ダゾーン"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/dazn.png"
+   "iconRev": "87a67ceea8",
+   "iconUrl": "https://catalog.uuuu.to/icons/dazn.png?v=87a67ceea8"
   },
   {
    "id": "dmm-tv",
@@ -21461,7 +21810,8 @@
     "ディーエムエム",
     "DMMプレミアム"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/dmm-tv.png"
+   "iconRev": "72f08f32d4",
+   "iconUrl": "https://catalog.uuuu.to/icons/dmm-tv.png?v=72f08f32d4"
   },
   {
    "id": "downtown-plus",
@@ -21514,7 +21864,8 @@
     "吉本興業"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/downtown-plus.png"
+   "iconRev": "05d945aa8b",
+   "iconUrl": "https://catalog.uuuu.to/icons/downtown-plus.png?v=05d945aa8b"
   },
   {
    "id": "disney-plus",
@@ -21612,7 +21963,8 @@
     "ディズニープラス",
     "ディズニー"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/disney-plus.png"
+   "iconRev": "065d46b31b",
+   "iconUrl": "https://catalog.uuuu.to/icons/disney-plus.png?v=065d46b31b"
   },
   {
    "id": "f1-tv",
@@ -21669,7 +22021,8 @@
     "スポーツ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/f1-tv.png"
+   "iconRev": "3a0cc3a0f5",
+   "iconUrl": "https://catalog.uuuu.to/icons/f1-tv.png?v=3a0cc3a0f5"
   },
   {
    "id": "fod",
@@ -21775,7 +22128,8 @@
     "フジテレビオンデマンド",
     "エフオーディー"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/fod.png"
+   "iconRev": "035d5f6b2d",
+   "iconUrl": "https://catalog.uuuu.to/icons/fod.png?v=035d5f6b2d"
   },
   {
    "id": "hulu",
@@ -21879,7 +22233,8 @@
    "aliases": [
     "フールー"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/hulu.png"
+   "iconRev": "51f3a58eda",
+   "iconUrl": "https://catalog.uuuu.to/icons/hulu.png?v=51f3a58eda"
   },
   {
    "id": "j-sports",
@@ -21964,7 +22319,8 @@
    "aliases": [
     "ジェイスポーツ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/j-sports.png"
+   "iconRev": "fbb4d94f13",
+   "iconUrl": "https://catalog.uuuu.to/icons/j-sports.png?v=fbb4d94f13"
   },
   {
    "id": "lemino",
@@ -22033,7 +22389,8 @@
     "レミノ",
     "dTV"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/lemino.png"
+   "iconRev": "bbb7683295",
+   "iconUrl": "https://catalog.uuuu.to/icons/lemino.png?v=bbb7683295"
   },
   {
    "id": "mlb-tv",
@@ -22096,7 +22453,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/mlb-tv.png"
+   "iconRev": "f6ddfc709b",
+   "iconUrl": "https://catalog.uuuu.to/icons/mlb-tv.png?v=f6ddfc709b"
   },
   {
    "id": "nba-docomo",
@@ -22149,7 +22507,8 @@
     "ドコモ"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/nba-docomo.png"
+   "iconRev": "c5d02f9480",
+   "iconUrl": "https://catalog.uuuu.to/icons/nba-docomo.png?v=c5d02f9480"
   },
   {
    "id": "nhk-kodomo-park",
@@ -22192,7 +22551,8 @@
     "未確認"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/nhk-kodomo-park.png"
+   "iconRev": "e696a3e670",
+   "iconUrl": "https://catalog.uuuu.to/icons/nhk-kodomo-park.png?v=e696a3e670"
   },
   {
    "id": "nhk-on-demand",
@@ -22235,7 +22595,8 @@
    "aliases": [
     "エヌエイチケー オンデマンド"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/nhk-on-demand.png"
+   "iconRev": "946b81fec7",
+   "iconUrl": "https://catalog.uuuu.to/icons/nhk-on-demand.png?v=946b81fec7"
   },
   {
    "id": "netflix",
@@ -22317,7 +22678,8 @@
     "ネットフリックス",
     "ネトフリ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/netflix.png"
+   "iconRev": "acb9439f67",
+   "iconUrl": "https://catalog.uuuu.to/icons/netflix.png?v=acb9439f67"
   },
   {
    "id": "plex-pass",
@@ -22368,7 +22730,8 @@
     "動画"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/plex-pass.png"
+   "iconRev": "8ef5db0df6",
+   "iconUrl": "https://catalog.uuuu.to/icons/plex-pass.png?v=8ef5db0df6"
   },
   {
    "id": "ponta-pass",
@@ -22414,7 +22777,8 @@
     "ポンタパス",
     "auスマートパス"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/ponta-pass.png"
+   "iconRev": "7b0a144084",
+   "iconUrl": "https://catalog.uuuu.to/icons/ponta-pass.png?v=7b0a144084"
   },
   {
    "id": "rakuten-tv",
@@ -22467,7 +22831,8 @@
     "楽天TV",
     "楽天ティービー"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/rakuten-tv.png"
+   "iconRev": "1a6603d533",
+   "iconUrl": "https://catalog.uuuu.to/icons/rakuten-tv.png?v=1a6603d533"
   },
   {
    "id": "rakuten-viki",
@@ -22528,7 +22893,8 @@
     "海外"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/rakuten-viki.png"
+   "iconRev": "2913815868",
+   "iconUrl": "https://catalog.uuuu.to/icons/rakuten-viki.png?v=2913815868"
   },
   {
    "id": "spotv-now",
@@ -22609,7 +22975,8 @@
     "サッカー"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/spotv-now.png"
+   "iconRev": "c05d9d29ec",
+   "iconUrl": "https://catalog.uuuu.to/icons/spotv-now.png?v=c05d9d29ec"
   },
   {
    "id": "telasa",
@@ -22664,7 +23031,8 @@
    "aliases": [
     "テラサ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/telasa.png"
+   "iconRev": "c1428f912d",
+   "iconUrl": "https://catalog.uuuu.to/icons/telasa.png?v=c1428f912d"
   },
   {
    "id": "u-next",
@@ -22720,7 +23088,8 @@
    "aliases": [
     "ユーネクスト"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/u-next.png"
+   "iconRev": "45d01a6a0a",
+   "iconUrl": "https://catalog.uuuu.to/icons/u-next.png?v=45d01a6a0a"
   },
   {
    "id": "watcha",
@@ -22776,7 +23145,8 @@
     "映画"
    ],
    "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/watcha.png"
+   "iconRev": "57e5e5e9ff",
+   "iconUrl": "https://catalog.uuuu.to/icons/watcha.png?v=57e5e5e9ff"
   },
   {
    "id": "wowow",
@@ -22846,7 +23216,8 @@
    "aliases": [
     "ワウワウ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/wowow.png"
+   "iconRev": "afefe9288e",
+   "iconUrl": "https://catalog.uuuu.to/icons/wowow.png?v=afefe9288e"
   },
   {
    "id": "wwe-network",
@@ -22890,7 +23261,8 @@
    "aliases": [
     "ダブリューダブリューイー"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/wwe-network.png"
+   "iconRev": "a05fa6f347",
+   "iconUrl": "https://catalog.uuuu.to/icons/wwe-network.png?v=a05fa6f347"
   },
   {
    "id": "youtube",
@@ -23019,7 +23391,8 @@
     "音楽"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/youtube.png"
+   "iconRev": "a8ab6a2705",
+   "iconUrl": "https://catalog.uuuu.to/icons/youtube.png?v=a8ab6a2705"
   },
   {
    "id": "d-anime-store",
@@ -23108,7 +23481,8 @@
     "ディーアニメ",
     "dアニメ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/d-anime-store.png"
+   "iconRev": "cd2fda4369",
+   "iconUrl": "https://catalog.uuuu.to/icons/d-anime-store.png?v=cd2fda4369"
   },
   {
    "id": "hikari-tv",
@@ -23183,7 +23557,8 @@
     "専門チャンネル"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/hikari-tv.png"
+   "iconRev": "8e4317bd40",
+   "iconUrl": "https://catalog.uuuu.to/icons/hikari-tv.png?v=8e4317bd40"
   },
   {
    "id": "anime-times",
@@ -23224,7 +23599,8 @@
    "aliases": [
     "Anime Times"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/anime-times.png"
+   "iconRev": "345804e803",
+   "iconUrl": "https://catalog.uuuu.to/icons/anime-times.png?v=345804e803"
   },
   {
    "id": "skyperfectv",
@@ -23293,7 +23669,8 @@
     "スカパー",
     "SKY PerfecTV"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/skyperfectv.png"
+   "iconRev": "606d308113",
+   "iconUrl": "https://catalog.uuuu.to/icons/skyperfectv.png?v=606d308113"
   },
   {
    "id": "niconico",
@@ -23386,7 +23763,8 @@
     "配信"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/niconico.png"
+   "iconRev": "bcd30bdf26",
+   "iconUrl": "https://catalog.uuuu.to/icons/niconico.png?v=bcd30bdf26"
   },
   {
    "id": "bandai-channel",
@@ -23430,7 +23808,8 @@
    "aliases": [
     "バンダイ"
    ],
-   "iconUrl": "https://catalog.uuuu.to/icons/bandai-channel.png"
+   "iconRev": "1de252c033",
+   "iconUrl": "https://catalog.uuuu.to/icons/bandai-channel.png?v=1de252c033"
   },
   {
    "id": "ttfc",
@@ -23473,7 +23852,8 @@
     "戦隊"
    ],
    "verifiedAt": "2026-10-22",
-   "iconUrl": "https://catalog.uuuu.to/icons/ttfc.png"
+   "iconRev": "56e5098d54",
+   "iconUrl": "https://catalog.uuuu.to/icons/ttfc.png?v=56e5098d54"
   }
  ]
 }
