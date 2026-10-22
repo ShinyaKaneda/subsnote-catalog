@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 8,
  "updatedAt": "2026-10-22",
  "idMigrations": {
   "niconico-premium": {
@@ -2469,6 +2469,1814 @@
    "verifiedAt": "2026-10-21",
    "aliases": [],
    "iconUrl": "https://catalog.uuuu.to/icons/rakuten-magazine.png"
+  },
+  {
+   "id": "backblaze",
+   "name": "Backblaze",
+   "nameJa": "Backblaze",
+   "aliases": [
+    "バックブレイズ"
+   ],
+   "category": "cloud",
+   "brandColor": "#E21E29",
+   "website": "https://www.backblaze.com",
+   "cancelUrl": "https://www.backblaze.com/computer-backup/docs/cancel-or-modify-your-subscription",
+   "accountUrl": "https://secure.backblaze.com/user_signin.htm",
+   "freeTrialDays": 15,
+   "plans": [
+    {
+     "id": "backup-monthly",
+     "name": "Computer Backup",
+     "price": 1350,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 9,
+     "notes": "USD建て、PC/Mac 1台あたり、容量無制限"
+    },
+    {
+     "id": "backup-yearly",
+     "name": "Computer Backup (年払い)",
+     "price": 14850,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 99,
+     "notes": "USD建て、1台あたり年額($8.25/月相当)。2年払いは$189"
+    }
+   ],
+   "cancelSteps": [
+    "Backblazeアカウントにログイン",
+    "My Settings / Overview で対象コンピュータを選択",
+    "「Delete Computer」または Billing で自動更新をオフ",
+    "確認して完了"
+   ],
+   "cancelNotes": "Computer Backup(個人向け)。B2 Cloud Storageは従量課金で別サービス。15日無料トライアル(クレカ不要)",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "バックアップ",
+    "ストレージ"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/backblaze.png"
+  },
+  {
+   "id": "box-personal-pro",
+   "name": "Box Personal Pro",
+   "nameJa": "Box Personal Pro",
+   "aliases": [
+    "ボックス",
+    "Box",
+    "ボックス個人"
+   ],
+   "category": "cloud",
+   "brandColor": "#0061D5",
+   "website": "https://www.box.com/ja-jp/pricing/individual",
+   "cancelUrl": "https://support.box.com/hc/ja",
+   "accountUrl": "https://app.box.com/account",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "personal-pro",
+     "name": "Personal Pro",
+     "price": 2100,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 14,
+     "notes": "未確認。公式料金ページ(日本・米国)は動的表示で金額取得不可。二次情報ではUSD 14/月（100GB）、2022年時点の円建ては1,320円/月（2026-10）"
+    }
+   ],
+   "cancelSteps": [
+    "app.box.com の「アカウント設定」→「アカウント」",
+    "「サブスクリプション」→ダウングレード/キャンセル"
+   ],
+   "cancelNotes": "未確認",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "クラウドストレージ"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/box-personal-pro.png"
+  },
+  {
+   "id": "cloudflare",
+   "name": "Cloudflare",
+   "nameJa": "Cloudflare",
+   "aliases": [
+    "クラウドフレア"
+   ],
+   "category": "cloud",
+   "brandColor": "#F38020",
+   "website": "https://www.cloudflare.com",
+   "cancelUrl": "https://developers.cloudflare.com/fundamentals/subscriptions-and-billing/",
+   "accountUrl": "https://dash.cloudflare.com/?to=/:account/billing",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "pro-monthly",
+     "name": "Pro",
+     "price": 3750,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 25,
+     "notes": "USD建て、ドメイン(ゾーン)1件あたり。年払いは$20/月($240/年)"
+    },
+    {
+     "id": "pro-yearly",
+     "name": "Pro (年払い)",
+     "price": 36000,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 240,
+     "notes": "USD建て、ドメイン1件あたり年額"
+    },
+    {
+     "id": "business-monthly",
+     "name": "Business",
+     "price": 37500,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 250,
+     "notes": "USD建て、ドメイン1件あたり。年払いは$200/月"
+    }
+   ],
+   "cancelSteps": [
+    "Cloudflareダッシュボードにログイン",
+    "対象ドメインを選択 → Overview 右側の Plan 「Change」",
+    "Free を選択してダウングレード",
+    "Workers Paid 等の追加サブスクリプションは Billing → Subscriptions で個別にキャンセル"
+   ],
+   "cancelNotes": "Workers Paid($5/月)、Argo、Load Balancing 等はゾーンプランとは別のサブスクリプション。ダウングレードは次回請求日から適用",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "開発",
+    "CDN",
+    "インフラ"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/cloudflare.png"
+  },
+  {
+   "id": "cloudinary",
+   "name": "Cloudinary",
+   "nameJa": "Cloudinary",
+   "aliases": [
+    "クラウディナリー"
+   ],
+   "category": "cloud",
+   "brandColor": "#3448C5",
+   "website": "https://cloudinary.com",
+   "cancelUrl": "https://support.cloudinary.com/hc/en-us/articles/202520942",
+   "accountUrl": "https://console.cloudinary.com/settings/billing",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "plus-monthly",
+     "name": "Plus",
+     "price": 14850,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 99,
+     "notes": "USD建て、月払い。年払いは$89/月"
+    },
+    {
+     "id": "plus-yearly",
+     "name": "Plus (年払い)",
+     "price": 160200,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 1068,
+     "notes": "USD建て、年額($89×12)"
+    },
+    {
+     "id": "advanced-monthly",
+     "name": "Advanced",
+     "price": 37350,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 249,
+     "notes": "USD建て、月払い。年払いは$224/月"
+    }
+   ],
+   "cancelSteps": [
+    "Cloudinaryコンソールにログイン → Settings → Billing",
+    "「Change plan」→ Free を選択",
+    "または「Cancel subscription」を選択",
+    "確認。期間末に適用"
+   ],
+   "cancelNotes": "クレジット(変換・ストレージ・帯域)超過は追加課金。Freeへ戻す場合はFree枠内に使用量を収める必要あり",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "開発",
+    "メディア",
+    "CDN"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/cloudinary.png"
+  },
+  {
+   "id": "datadog",
+   "name": "Datadog",
+   "nameJa": "Datadog",
+   "aliases": [
+    "データドッグ"
+   ],
+   "category": "cloud",
+   "brandColor": "#632CA6",
+   "website": "https://www.datadoghq.com",
+   "cancelUrl": "https://docs.datadoghq.com/account_management/billing/",
+   "accountUrl": "https://app.datadoghq.com/billing",
+   "freeTrialDays": 14,
+   "plans": [
+    {
+     "id": "infra-pro-monthly",
+     "name": "Infrastructure Pro (月払い)",
+     "price": 2700,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 18,
+     "notes": "USD建て、ホスト1台あたりオンデマンド価格。年契約は$15/ホスト/月"
+    },
+    {
+     "id": "infra-pro-yearly",
+     "name": "Infrastructure Pro (年契約)",
+     "price": 27000,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 180,
+     "notes": "USD建て、ホスト1台あたり年額($15×12)"
+    },
+    {
+     "id": "infra-enterprise-monthly",
+     "name": "Infrastructure Enterprise (月払い)",
+     "price": 4050,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 27,
+     "notes": "USD建て、ホスト1台あたりオンデマンド価格。年契約は$23"
+    }
+   ],
+   "cancelSteps": [
+    "Datadogにログイン → Plan & Usage → Plan",
+    "「Downgrade to Free」または Billing 担当へ連絡",
+    "すべてのAgent/ホストを停止・削除",
+    "請求停止を確認"
+   ],
+   "cancelNotes": "ホスト数・ログ・APM等プロダクトごとの従量課金が加算される。年契約は途中解約不可",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "開発",
+    "監視",
+    "インフラ"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/datadog.png"
+  },
+  {
+   "id": "dropbox",
+   "name": "Dropbox",
+   "nameJa": "Dropbox",
+   "category": "cloud",
+   "brandColor": "#0061FF",
+   "website": "https://www.dropbox.com/ja/plans",
+   "cancelUrl": "https://help.dropbox.com/ja-jp/billing/cancel-subscription",
+   "accountUrl": "https://www.dropbox.com/account/plan",
+   "freeTrialDays": 30,
+   "plans": [
+    {
+     "id": "plus-monthly",
+     "name": "Plus 2TB（月払い）",
+     "price": 1500,
+     "cycle": "monthly",
+     "notes": "",
+     "currency": "JPY"
+    },
+    {
+     "id": "plus-yearly",
+     "name": "Plus 2TB（年払い）",
+     "price": 14400,
+     "cycle": "yearly",
+     "notes": "月額換算1,200円",
+     "currency": "JPY"
+    },
+    {
+     "id": "essentials-monthly",
+     "name": "Essentials / Professional 3TB（月払い）",
+     "price": 2400,
+     "cycle": "monthly",
+     "notes": "日本サイトでは「Professional」表記。30日無料トライアルあり",
+     "currency": "JPY"
+    },
+    {
+     "id": "essentials-yearly",
+     "name": "Essentials / Professional 3TB（年払い）",
+     "price": 24000,
+     "cycle": "yearly",
+     "notes": "月額換算2,000円",
+     "currency": "JPY"
+    },
+    {
+     "id": "family-monthly",
+     "name": "Family 2TB・6人（月払い）",
+     "price": 2800,
+     "cycle": "monthly",
+     "notes": "App Store(日本)のApp内課金「Dropbox Family - Monthly 2,800円」で確認。公式料金ページにFamilyは非表示（申込画面で表示）（2026-10）",
+     "currency": "JPY"
+    },
+    {
+     "id": "family-yearly",
+     "name": "Family 2TB・6人（年払い）",
+     "price": 24000,
+     "cycle": "yearly",
+     "notes": "未確認。公式料金ページ・ヘルプにFamily年払い価格の表示なし。App Storeにも年額項目なし（2026-10）",
+     "currency": "JPY"
+    }
+   ],
+   "cancelSteps": [
+    "dropbox.com にログインし右上のアバター>「設定」",
+    "「プラン」タブを開く",
+    "「プランをキャンセル」をクリック",
+    "理由を選択して「キャンセルを続行」",
+    "確認メールを保存（期間終了までは有料容量を利用可）"
+   ],
+   "cancelNotes": "解約後は無料Basic（2GB）に戻る。容量超過分のファイルは閲覧のみで同期停止。年払いの途中返金なし（EUなど一部地域を除く）。App Store/Google Play経由の課金は各ストアで解約。",
+   "paymentChannels": [
+    "web",
+    "apple",
+    "google"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "クラウドストレージ"
+   ],
+   "verifiedAt": "2026-10-21",
+   "aliases": [
+    "ドロップボックス"
+   ],
+   "iconUrl": "https://catalog.uuuu.to/icons/dropbox.png"
+  },
+  {
+   "id": "framer",
+   "name": "Framer",
+   "nameJa": "Framer",
+   "aliases": [
+    "フレーマー"
+   ],
+   "category": "cloud",
+   "brandColor": "#0055FF",
+   "website": "https://www.framer.com/",
+   "cancelUrl": "https://www.framer.com/projects/",
+   "accountUrl": "https://www.framer.com/projects/",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "basic-monthly",
+     "name": "Basic 月額",
+     "price": 2250,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 15,
+     "notes": "USD建て、1サイトあたり。月払い"
+    },
+    {
+     "id": "basic-yearly",
+     "name": "Basic 年額",
+     "price": 18000,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 120,
+     "notes": "USD建て、1サイトあたり年払い($10/月換算)。独自ドメイン込み"
+    },
+    {
+     "id": "pro-monthly",
+     "name": "Pro 月額",
+     "price": 6750,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 45,
+     "notes": "USD建て、1サイトあたり。月払い"
+    },
+    {
+     "id": "pro-yearly",
+     "name": "Pro 年額",
+     "price": 54000,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 360,
+     "notes": "USD建て、1サイトあたり年払い($30/月換算)"
+    }
+   ],
+   "cancelSteps": [
+    "Framer ダッシュボードで対象サイトの「Settings」>「Plans」を開く",
+    "「Cancel plan」を選択",
+    "追加エディター席がある場合はWorkspace設定からも削除"
+   ],
+   "cancelNotes": "サイト単位課金。解約後は期末に無料プランへ戻り独自ドメインが解除される",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "Webサイト制作",
+    "ノーコード",
+    "海外"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/framer.png"
+  },
+  {
+   "id": "gitlab",
+   "name": "GitLab",
+   "nameJa": "GitLab",
+   "aliases": [
+    "ギットラボ"
+   ],
+   "category": "cloud",
+   "brandColor": "#FC6D26",
+   "website": "https://about.gitlab.com",
+   "cancelUrl": "https://docs.gitlab.com/subscriptions/gitlab_com/",
+   "accountUrl": "https://customers.gitlab.com/",
+   "freeTrialDays": 30,
+   "plans": [
+    {
+     "id": "premium-yearly",
+     "name": "Premium",
+     "price": 52200,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 348,
+     "notes": "USD建て、1ユーザーあたり年額($29/月×12、年払いのみ)。無料トライアルはUltimate 30日"
+    }
+   ],
+   "cancelSteps": [
+    "Customers Portal (customers.gitlab.com) にログイン",
+    "Subscriptions → 対象サブスクリプションを選択",
+    "「Cancel subscription」(自動更新オフ)を選択",
+    "期間末にFreeへ移行"
+   ],
+   "cancelNotes": "年払いのみ(月払いなし)。途中解約は返金なし、期間末まで利用可。Freeは5ユーザー/トップレベルグループ制限あり",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "開発",
+    "Git",
+    "DevOps"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/gitlab.png"
+  },
+  {
+   "id": "google-one",
+   "name": "Google One",
+   "nameJa": "Google One",
+   "category": "cloud",
+   "brandColor": "#4285F4",
+   "website": "https://one.google.com/about/plans?hl=ja",
+   "cancelUrl": "https://support.google.com/googleone/answer/9004016?hl=ja",
+   "accountUrl": "https://one.google.com/settings",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "100gb-monthly",
+     "name": "ベーシック 100GB（月払い）",
+     "price": 290,
+     "cycle": "monthly",
+     "notes": "2025年10月11日改定",
+     "currency": "JPY"
+    },
+    {
+     "id": "100gb-yearly",
+     "name": "ベーシック 100GB（年払い）",
+     "price": 2900,
+     "cycle": "yearly",
+     "notes": "",
+     "currency": "JPY"
+    },
+    {
+     "id": "2tb-monthly",
+     "name": "2TB（月払い）",
+     "price": 1450,
+     "cycle": "monthly",
+     "notes": "現在は「Google AI Plus」として表示される2TBプラン",
+     "currency": "JPY"
+    },
+    {
+     "id": "2tb-yearly",
+     "name": "2TB（年払い）",
+     "price": 14500,
+     "cycle": "yearly",
+     "notes": "",
+     "currency": "JPY"
+    }
+   ],
+   "cancelSteps": [
+    "one.google.com にアクセスし Google アカウントでログイン",
+    "左メニューの「設定」を開く",
+    "「メンバーシップを解約」を選択",
+    "理由を選び確認して完了（Google Play経由の場合はPlayストアの「定期購入」から解約）"
+   ],
+   "cancelNotes": "解約後も支払済み期間の終了まで容量は利用可。無料15GBを超えている場合は保存・同期が停止。iOSアプリ内課金（App Store）で登録した場合はApple側で解約が必要。年払い途中解約の返金なし。",
+   "paymentChannels": [
+    "web",
+    "google",
+    "apple"
+   ],
+   "priceHistory": [
+    {
+     "date": "2025-10-11",
+     "planId": "100gb-monthly",
+     "oldPrice": 250,
+     "newPrice": 290
+    },
+    {
+     "date": "2025-10-11",
+     "planId": "2tb-monthly",
+     "oldPrice": 1300,
+     "newPrice": 1450
+    }
+   ],
+   "tags": [
+    "クラウドストレージ",
+    "Google"
+   ],
+   "verifiedAt": "2026-10-21",
+   "aliases": [
+    "グーグルワン"
+   ],
+   "iconUrl": "https://catalog.uuuu.to/icons/google-one.png"
+  },
+  {
+   "id": "google-workspace-business-starter",
+   "name": "Google Workspace Business Starter",
+   "nameJa": "Google Workspace Business Starter",
+   "aliases": [
+    "グーグルワークスペース",
+    "G Suite",
+    "Workspace",
+    "ビジネススターター"
+   ],
+   "category": "cloud",
+   "brandColor": "#4285F4",
+   "website": "https://workspace.google.com/intl/ja/pricing",
+   "cancelUrl": "https://admin.google.com/",
+   "accountUrl": "https://admin.google.com/",
+   "freeTrialDays": 14,
+   "plans": [
+    {
+     "id": "starter-annual",
+     "name": "Business Starter(年契約)",
+     "price": 880,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "公式 800円/ユーザー/月(税別)→税込880円。1ユーザーあたり"
+    },
+    {
+     "id": "starter-flexible",
+     "name": "Business Starter(フレキシブル)",
+     "price": 1045,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "2026-09-23更新の料金解説記事で確認：フレキシブルプラン950円/ユーザー/月（税抜）＝税込1,045円。公式料金ページは年間契約800円（税抜）のみ表示"
+    }
+   ],
+   "cancelSteps": [
+    "Google 管理コンソール→「お支払い」→「サブスクリプション」",
+    "対象プランの「その他の操作」→「サブスクリプションをキャンセル」"
+   ],
+   "cancelNotes": "年契約は途中解約不可(残期間請求)。独自ドメインが必要。",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [
+    {
+     "date": "2025-01-16",
+     "planId": "starter-annual",
+     "oldPrice": 748,
+     "newPrice": 880
+    }
+   ],
+   "tags": [
+    "ビジネス",
+    "メール",
+    "クラウド"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/google-workspace-business-starter.png"
+  },
+  {
+   "id": "heroku",
+   "name": "Heroku",
+   "nameJa": "Heroku",
+   "aliases": [
+    "ヘロク",
+    "ヘロクー"
+   ],
+   "category": "cloud",
+   "brandColor": "#430098",
+   "website": "https://www.heroku.com",
+   "cancelUrl": "https://help.heroku.com/",
+   "accountUrl": "https://dashboard.heroku.com/account/billing",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "eco-monthly",
+     "name": "Eco Dynos",
+     "price": 750,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 5,
+     "notes": "USD建て、アカウント単位で月1,000 dyno時間のプール。30分アイドルでスリープ"
+    },
+    {
+     "id": "basic-monthly",
+     "name": "Basic Dyno",
+     "price": 1050,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 7,
+     "notes": "USD建て、dyno 1台あたり(秒割り計算)。常時起動"
+    },
+    {
+     "id": "standard1x-monthly",
+     "name": "Standard-1X Dyno",
+     "price": 3750,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 25,
+     "notes": "USD建て、dyno 1台あたり"
+    }
+   ],
+   "cancelSteps": [
+    "Herokuダッシュボードにログイン",
+    "アプリの Resources タブで dyno を Off / 削除、または Account → Billing で Eco Dynos を無効化",
+    "不要なアプリや Postgres アドオンを削除",
+    "Billing で請求が止まっていることを確認"
+   ],
+   "cancelNotes": "dynoは秒割り(prorated)で請求。アドオン(Postgres Essential-0 $5/月など)は別途課金されるので個別に削除が必要",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "開発",
+    "ホスティング",
+    "PaaS"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/heroku.png"
+  },
+  {
+   "id": "namecheap",
+   "name": "Namecheap",
+   "nameJa": "Namecheap",
+   "aliases": [
+    "ネームチープ"
+   ],
+   "category": "cloud",
+   "brandColor": "#DE3723",
+   "website": "https://www.namecheap.com",
+   "cancelUrl": "https://www.namecheap.com/support/knowledgebase/article.aspx/9627/",
+   "accountUrl": "https://ap.www.namecheap.com/",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "com-renewal-yearly",
+     "name": ".com ドメイン更新(代表例)",
+     "price": 2217,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 14.78,
+     "notes": "USD建て、.com 1件あたりの年間更新料(第三者集計による2026年7月時点、未確認)。初年度登録は割引価格"
+    }
+   ],
+   "cancelSteps": [
+    "Namecheapアカウントにログイン",
+    "Domain List → 対象ドメインの Manage",
+    "「Auto-Renew」をオフ",
+    "期限満了で失効(更新しない)。または他社へ移管"
+   ],
+   "cancelNotes": "更新料はTLDにより異なる。WhoisGuard(Domain Privacy)は無料。失効後の復旧(Redemption)は高額",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "ドメイン",
+    "開発"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/namecheap.png"
+  },
+  {
+   "id": "netlify",
+   "name": "Netlify",
+   "nameJa": "Netlify",
+   "aliases": [
+    "ネットリファイ",
+    "ネトリファイ"
+   ],
+   "category": "cloud",
+   "brandColor": "#00C7B7",
+   "website": "https://www.netlify.com",
+   "cancelUrl": "https://docs.netlify.com/accounts-and-billing/billing/manage-billing/",
+   "accountUrl": "https://app.netlify.com/",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "personal-monthly",
+     "name": "Personal",
+     "price": 1350,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 9,
+     "notes": "USD建て、個人向け"
+    },
+    {
+     "id": "pro-monthly",
+     "name": "Pro",
+     "price": 3000,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 20,
+     "notes": "USD建て、チーム単位(メンバー数無制限)。帯域・ビルド分の超過は従量課金"
+    }
+   ],
+   "cancelSteps": [
+    "Netlifyアプリにログイン",
+    "Team settings → Billing → Plan を開く",
+    "「Change plan」から Free (または下位プラン) を選択",
+    "確認してダウングレード"
+   ],
+   "cancelNotes": "ダウングレードは請求期間末に適用。Pro特有の機能(アナリティクス等)は停止する",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "開発",
+    "ホスティング"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/netlify.png"
+  },
+  {
+   "id": "planetscale",
+   "name": "PlanetScale",
+   "nameJa": "PlanetScale",
+   "aliases": [
+    "プラネットスケール"
+   ],
+   "category": "cloud",
+   "brandColor": "#000000",
+   "website": "https://planetscale.com",
+   "cancelUrl": "https://planetscale.com/docs/concepts/billing",
+   "accountUrl": "https://app.planetscale.com/",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "postgres-ps5-monthly",
+     "name": "Postgres PS-5 (単一ノード)",
+     "price": 750,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 5,
+     "notes": "USD建て、クラスターSKUの固定月額(AWS us-east-1)。ストレージ・転送量は別途従量"
+    },
+    {
+     "id": "vitess-ps10-monthly",
+     "name": "Vitess PS-10 (HA)",
+     "price": 5850,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 39,
+     "notes": "USD建て、3ノードHA構成の固定月額。無料プランなし"
+    }
+   ],
+   "cancelSteps": [
+    "PlanetScaleダッシュボードにログイン",
+    "対象データベースの Settings を開く",
+    "「Delete database」で削除(または組織の Billing でプラン変更)",
+    "請求が停止したことを Billing で確認"
+   ],
+   "cancelNotes": "無料プランは廃止済み。データベースを削除しない限り固定SKU料金が継続する。リージョンにより価格が異なる",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "開発",
+    "データベース"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/planetscale.png"
+  },
+  {
+   "id": "proton",
+   "name": "Proton",
+   "nameJa": "Proton",
+   "aliases": [
+    "プロトン",
+    "Proton VPN",
+    "Proton Mail",
+    "Proton Unlimited",
+    "プロトンVPN"
+   ],
+   "category": "cloud",
+   "brandColor": "#6D4AFF",
+   "website": "https://proton.me/ja/pricing",
+   "cancelUrl": "https://proton.me/support/cancel-subscription",
+   "accountUrl": "https://account.proton.me/",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "vpn-plus",
+     "name": "VPN Plus",
+     "price": 750,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 4.99,
+     "notes": "USD建て $4.99/月(年払い)。月払いは$9.99"
+    },
+    {
+     "id": "mail-plus",
+     "name": "Mail Plus",
+     "price": 600,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 3.99,
+     "notes": "USD建て $3.99/月(年払い $47.88)"
+    },
+    {
+     "id": "unlimited",
+     "name": "Proton Unlimited",
+     "price": 1500,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 9.99,
+     "notes": "USD建て $9.99/月(年払い $119.88)。月払いは$12.99"
+    }
+   ],
+   "cancelSteps": [
+    "account.proton.me の「サブスクリプション」を開く",
+    "「プランをキャンセル」または「ダウングレード」",
+    "Apple/Google経由は各ストアから"
+   ],
+   "cancelNotes": "30日返金保証。",
+   "paymentChannels": [
+    "web",
+    "apple",
+    "google"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "VPN",
+    "メール",
+    "セキュリティ"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/proton.png"
+  },
+  {
+   "id": "railway",
+   "name": "Railway",
+   "nameJa": "Railway",
+   "aliases": [
+    "レイルウェイ",
+    "レールウェイ"
+   ],
+   "category": "cloud",
+   "brandColor": "#0B0D0E",
+   "website": "https://railway.com",
+   "cancelUrl": "https://docs.railway.com/reference/pricing/plans",
+   "accountUrl": "https://railway.com/account/billing",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "hobby-monthly",
+     "name": "Hobby",
+     "price": 750,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 5,
+     "notes": "USD建て、$5分の利用枠込み。超過分は従量課金"
+    },
+    {
+     "id": "pro-monthly",
+     "name": "Pro",
+     "price": 3000,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 20,
+     "notes": "USD建て、ワークスペース単位(シート無制限)。$20分の利用枠込み"
+    }
+   ],
+   "cancelSteps": [
+    "Railwayにログイン → Workspace settings → Billing",
+    "「Manage subscription」を開く",
+    "Cancel / Downgrade を選択",
+    "確認して完了"
+   ],
+   "cancelNotes": "解約後は未払いの従量分が最終請求される。プランのクレジットは繰り越し不可",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "開発",
+    "ホスティング",
+    "PaaS"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/railway.png"
+  },
+  {
+   "id": "render",
+   "name": "Render",
+   "nameJa": "Render",
+   "aliases": [
+    "レンダー"
+   ],
+   "category": "cloud",
+   "brandColor": "#46E3B7",
+   "website": "https://render.com",
+   "cancelUrl": "https://render.com/docs/billing",
+   "accountUrl": "https://dashboard.render.com/billing",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "pro-monthly",
+     "name": "Pro",
+     "price": 3750,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 25,
+     "notes": "USD建て、ワークスペース単位の固定月額(メンバー数無制限)。2026年新プラン。コンピュートは別途従量"
+    },
+    {
+     "id": "scale-monthly",
+     "name": "Scale",
+     "price": 74850,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 499,
+     "notes": "USD建て、ワークスペース単位の固定月額"
+    }
+   ],
+   "cancelSteps": [
+    "Renderダッシュボードにログイン",
+    "Workspace settings → Billing を開く",
+    "「Change plan」→ Hobby を選択",
+    "有料インスタンスも Suspend/Delete して課金を止める"
+   ],
+   "cancelNotes": "旧Professional($19/人)・Organization($29/人)は2026年8月1日に新プラン(Pro $25 / Scale $499)へ自動移行。Hobbyは月額無料だがコンピュート利用分は請求",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "開発",
+    "ホスティング",
+    "PaaS"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/render.png"
+  },
+  {
+   "id": "sentry",
+   "name": "Sentry",
+   "nameJa": "Sentry",
+   "aliases": [
+    "セントリー"
+   ],
+   "category": "cloud",
+   "brandColor": "#362D59",
+   "website": "https://sentry.io",
+   "cancelUrl": "https://sentry.io/settings/billing/",
+   "accountUrl": "https://sentry.io/settings/",
+   "freeTrialDays": 14,
+   "plans": [
+    {
+     "id": "team-monthly",
+     "name": "Team",
+     "price": 4350,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 29,
+     "notes": "USD建て、組織単位。年払いは$26/月"
+    },
+    {
+     "id": "business-monthly",
+     "name": "Business",
+     "price": 13350,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 89,
+     "notes": "USD建て、組織単位。年払いは$80/月。14日無料トライアル(Business)"
+    }
+   ],
+   "cancelSteps": [
+    "Sentryにログイン → Settings → Subscription",
+    "「Manage Subscription」を開く",
+    "Developer(無料)プランへダウングレードを選択",
+    "確認。期間末に適用"
+   ],
+   "cancelNotes": "イベント数超過のオンデマンド課金は別途。ダウングレードはクオータの縛りあり",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "開発",
+    "監視",
+    "エラートラッキング"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/sentry.png"
+  },
+  {
+   "id": "shopify",
+   "name": "Shopify",
+   "nameJa": "Shopify",
+   "aliases": [
+    "ショッピファイ",
+    "ショピファイ"
+   ],
+   "category": "cloud",
+   "brandColor": "#96BF48",
+   "website": "https://www.shopify.com/jp",
+   "cancelUrl": "https://admin.shopify.com/",
+   "accountUrl": "https://admin.shopify.com/",
+   "freeTrialDays": 3,
+   "plans": [
+    {
+     "id": "basic-monthly",
+     "name": "ベーシック 月払い",
+     "price": 4850,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "税抜。日本円公式価格"
+    },
+    {
+     "id": "basic-yearly",
+     "name": "ベーシック 年払い",
+     "price": 43800,
+     "cycle": "yearly",
+     "currency": "JPY",
+     "notes": "税抜。年払い時3,650円/月換算"
+    },
+    {
+     "id": "grow-monthly",
+     "name": "Grow 月払い",
+     "price": 13500,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "税抜。旧「Shopify」プラン相当"
+    },
+    {
+     "id": "grow-yearly",
+     "name": "Grow 年払い",
+     "price": 121200,
+     "cycle": "yearly",
+     "currency": "JPY",
+     "notes": "税抜。年払い時10,100円/月換算"
+    },
+    {
+     "id": "advanced-monthly",
+     "name": "アドバンス 月払い",
+     "price": 58500,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "税抜。年払いは44,000円/月換算"
+    }
+   ],
+   "cancelSteps": [
+    "Shopify 管理画面 > 設定 > 「プラン」",
+    "「ストアを無効化」または「プランを変更」を選択",
+    "理由を選び確認(未払い残高があると不可)"
+   ],
+   "cancelNotes": "3日間無料トライアル後、3か月間月額150円の初回特典あり。解約後はストアが非公開化。決済手数料は別途",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "EC",
+    "ネットショップ",
+    "ビジネス"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/shopify.png"
+  },
+  {
+   "id": "squarespace",
+   "name": "Squarespace",
+   "nameJa": "Squarespace",
+   "aliases": [
+    "スクエアスペース"
+   ],
+   "category": "cloud",
+   "brandColor": "#000000",
+   "website": "https://ja.squarespace.com/",
+   "cancelUrl": "https://account.squarespace.com/",
+   "accountUrl": "https://account.squarespace.com/",
+   "freeTrialDays": 14,
+   "plans": [
+    {
+     "id": "basic-monthly",
+     "name": "ベーシック 月払い",
+     "price": 1480,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "日本円公式価格。年払いは1,180円/月換算"
+    },
+    {
+     "id": "basic-yearly",
+     "name": "ベーシック 年払い",
+     "price": 14160,
+     "cycle": "yearly",
+     "currency": "JPY",
+     "notes": "日本円公式価格。1,180円/月換算"
+    },
+    {
+     "id": "core-monthly",
+     "name": "コア 月払い",
+     "price": 2580,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "日本円公式価格。年払いは2,080円/月換算"
+    },
+    {
+     "id": "core-yearly",
+     "name": "コア 年払い",
+     "price": 24960,
+     "cycle": "yearly",
+     "currency": "JPY",
+     "notes": "日本円公式価格。2,080円/月換算"
+    },
+    {
+     "id": "advanced-yearly",
+     "name": "アドバンス 年払い",
+     "price": 36480,
+     "cycle": "yearly",
+     "currency": "JPY",
+     "notes": "日本円公式価格。3,040円/月換算(月払い3,800円)"
+    }
+   ],
+   "cancelSteps": [
+    "Squarespace にログイン > 「設定」>「請求」",
+    "対象サブスクリプションを開き「サブスクリプションをキャンセル」",
+    "ドメインは別途自動更新をオフ"
+   ],
+   "cancelNotes": "14日無料トライアル(カード不要)。年払いは購入後14日以内返金可。解約後は期末まで公開",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "Webサイト制作",
+    "ホームページ",
+    "海外"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/squarespace.png"
+  },
+  {
+   "id": "supabase",
+   "name": "Supabase",
+   "nameJa": "Supabase",
+   "aliases": [
+    "スーパベース",
+    "スパベース"
+   ],
+   "category": "cloud",
+   "brandColor": "#3ECF8E",
+   "website": "https://supabase.com",
+   "cancelUrl": "https://supabase.com/docs/guides/platform/billing-on-supabase",
+   "accountUrl": "https://supabase.com/dashboard/org/_/billing",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "pro-monthly",
+     "name": "Pro",
+     "price": 3750,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 25,
+     "notes": "USD建て、組織(Organization)単位。$10分のコンピュートクレジット込み、超過分は従量課金"
+    },
+    {
+     "id": "team-monthly",
+     "name": "Team",
+     "price": 89850,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 599,
+     "notes": "USD建て、組織単位"
+    }
+   ],
+   "cancelSteps": [
+    "Supabaseダッシュボードにログイン",
+    "Organization settings → Billing を開く",
+    "「Change subscription plan」から Free を選択",
+    "確認してダウングレード"
+   ],
+   "cancelNotes": "Freeプランは2プロジェクトまで。ダウングレード前にプロジェクト数・容量をFree枠内に収める必要あり",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "開発",
+    "データベース",
+    "BaaS"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/supabase.png"
+  },
+  {
+   "id": "sync-com",
+   "name": "Sync.com",
+   "nameJa": "Sync.com",
+   "aliases": [
+    "シンク",
+    "シンクドットコム"
+   ],
+   "category": "cloud",
+   "brandColor": "#1C9CEA",
+   "website": "https://www.sync.com",
+   "cancelUrl": "https://www.sync.com/help/how-do-i-cancel-my-sync-account/",
+   "accountUrl": "https://cp.sync.com/",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "personal-1tb-monthly",
+     "name": "Personal 1TB",
+     "price": 2400,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 16,
+     "notes": "USD建て、通常価格(初年度は25%OFFの$12)"
+    },
+    {
+     "id": "personal-1tb-yearly",
+     "name": "Personal 1TB (年払い)",
+     "price": 21600,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 144,
+     "notes": "USD建て、通常価格$12/月×12(初年度は$108)"
+    },
+    {
+     "id": "solo-5tb-yearly",
+     "name": "Solo 5TB (年払い)",
+     "price": 50400,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 336,
+     "notes": "USD建て、通常価格$28/月×12(初年度は$252)"
+    }
+   ],
+   "cancelSteps": [
+    "cp.sync.com にログイン",
+    "Account → Billing を開く",
+    "「Cancel plan」/ 自動更新オフを選択",
+    "確認して完了"
+   ],
+   "cancelNotes": "初年度割引価格から2年目以降は通常価格に自動更新。Teamsプランは3ユーザー以上($6〜/人)",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "ストレージ",
+    "クラウド"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/sync-com.png"
+  },
+  {
+   "id": "upstash",
+   "name": "Upstash",
+   "nameJa": "Upstash",
+   "aliases": [
+    "アップスタッシュ"
+   ],
+   "category": "cloud",
+   "brandColor": "#00E9A3",
+   "website": "https://upstash.com",
+   "cancelUrl": "https://upstash.com/docs/redis/overall/pricing",
+   "accountUrl": "https://console.upstash.com/",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "redis-fixed-250mb-monthly",
+     "name": "Redis Fixed 250MB",
+     "price": 1500,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 10,
+     "notes": "USD建て、データベース1件あたりの固定月額(コマンド数課金なし)"
+    },
+    {
+     "id": "redis-fixed-1gb-monthly",
+     "name": "Redis Fixed 1GB",
+     "price": 3000,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 20,
+     "notes": "USD建て、データベース1件あたりの固定月額"
+    }
+   ],
+   "cancelSteps": [
+    "Upstashコンソールにログイン",
+    "対象データベースを選択 → Settings/Plan",
+    "Free または Pay-as-you-go に変更、もしくはデータベースを削除",
+    "Billing で確認"
+   ],
+   "cancelNotes": "Pay-as-you-go($0.20/10万コマンド)は従量。Fixedプランは日割りなし、月額固定",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "開発",
+    "データベース",
+    "Redis"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/upstash.png"
+  },
+  {
+   "id": "vercel",
+   "name": "Vercel",
+   "nameJa": "Vercel",
+   "aliases": [
+    "バーセル",
+    "ヴァーセル"
+   ],
+   "category": "cloud",
+   "brandColor": "#000000",
+   "website": "https://vercel.com",
+   "cancelUrl": "https://vercel.com/docs/plans/pro-plan",
+   "accountUrl": "https://vercel.com/dashboard",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "pro-monthly",
+     "name": "Pro",
+     "price": 3000,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 20,
+     "notes": "USD建て、1開発者シートあたり。$20分の利用クレジット込み、超過分は従量課金"
+    }
+   ],
+   "cancelSteps": [
+    "Vercelダッシュボードにログイン",
+    "対象チームの Settings → Billing を開く",
+    "「Downgrade to Hobby」(または Change plan) を選択",
+    "確認してダウングレード完了"
+   ],
+   "cancelNotes": "ダウングレード後は現在の請求期間末までProの機能が利用可能。超過利用分は最終請求で精算される",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "開発",
+    "ホスティング"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/vercel.png"
+  },
+  {
+   "id": "webflow",
+   "name": "Webflow",
+   "nameJa": "Webflow",
+   "aliases": [
+    "ウェブフロー"
+   ],
+   "category": "cloud",
+   "brandColor": "#4353FF",
+   "website": "https://webflow.com/",
+   "cancelUrl": "https://webflow.com/dashboard",
+   "accountUrl": "https://webflow.com/dashboard",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "basic-monthly",
+     "name": "Basic 月額",
+     "price": 3750,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 25,
+     "notes": "USD建て、1サイトあたり月払い。2026年5月改定後の価格。公式ページ未取得のため未確認"
+    },
+    {
+     "id": "basic-yearly",
+     "name": "Basic 年額",
+     "price": 27000,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 180,
+     "notes": "USD建て、1サイトあたり年払い($15/月換算)。CMSなし。未確認"
+    },
+    {
+     "id": "premium-yearly",
+     "name": "Premium 年額",
+     "price": 45000,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 300,
+     "notes": "USD建て、1サイトあたり年払い($25/月換算、月払い$39)。旧CMS/Business統合。未確認"
+    }
+   ],
+   "cancelSteps": [
+    "Webflow ダッシュボード > 対象サイト > Settings > 「Plans」",
+    "「Cancel plan」を選択",
+    "Workspaceプランは別途 Workspace settings > Billing から"
+   ],
+   "cancelNotes": "サイトプランとWorkspaceプランが別課金。解約後は期末に無料Starterへ戻り独自ドメイン解除",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "Webサイト制作",
+    "ノーコード",
+    "海外"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/webflow.png"
+  },
+  {
+   "id": "wix",
+   "name": "Wix",
+   "nameJa": "Wix",
+   "aliases": [
+    "ウィックス"
+   ],
+   "category": "cloud",
+   "brandColor": "#0C6EFC",
+   "website": "https://ja.wix.com/",
+   "cancelUrl": "https://manage.wix.com/account/subscriptions",
+   "accountUrl": "https://manage.wix.com/account/subscriptions",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "personal-monthly",
+     "name": "パーソナル 月払い",
+     "price": 1900,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "税抜。日本向けプラン名(海外版Light相当)。第三者情報のため要確認"
+    },
+    {
+     "id": "personal-yearly",
+     "name": "パーソナル 年払い",
+     "price": 15600,
+     "cycle": "yearly",
+     "currency": "JPY",
+     "notes": "税抜。1,300円/月換算。要確認"
+    },
+    {
+     "id": "small-business-yearly",
+     "name": "スモールビジネス 年払い",
+     "price": 27600,
+     "cycle": "yearly",
+     "currency": "JPY",
+     "notes": "税抜。2,300円/月換算(月払い2,700円)。要確認"
+    },
+    {
+     "id": "business-yearly",
+     "name": "ビジネス 年払い",
+     "price": 32400,
+     "cycle": "yearly",
+     "currency": "JPY",
+     "notes": "税抜。2,700円/月換算(月払い3,100円)。要確認"
+    }
+   ],
+   "cancelSteps": [
+    "Wix アカウント > 「サブスクリプション」を開く",
+    "対象プランの「…」>「自動更新をキャンセル」",
+    "購入後14日以内なら全額返金申請可"
+   ],
+   "cancelNotes": "無料トライアルなし(14日間全額返金保証)。自動更新をオフにすると期末で終了。ドメインは別サブスク",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "Webサイト制作",
+    "ホームページ",
+    "海外"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/wix.png"
+  },
+  {
+   "id": "wordpress-com",
+   "name": "WordPress.com",
+   "nameJa": "WordPress.com",
+   "aliases": [
+    "ワードプレスドットコム",
+    "ワードプレス"
+   ],
+   "category": "cloud",
+   "brandColor": "#3858E9",
+   "website": "https://wordpress.com/ja/",
+   "cancelUrl": "https://wordpress.com/purchases/",
+   "accountUrl": "https://wordpress.com/me/",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "personal-monthly",
+     "name": "パーソナル 月額",
+     "price": 1350,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 9,
+     "notes": "USD建て(公式ja表示)。月払い。地域により円建て(約400円/月年払い)表示の情報もあり要確認"
+    },
+    {
+     "id": "personal-yearly",
+     "name": "パーソナル 年額",
+     "price": 7200,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 48,
+     "notes": "USD建て。年払い($4/月換算)。2年・3年契約でさらに割引"
+    },
+    {
+     "id": "premium-yearly",
+     "name": "プレミアム 年額",
+     "price": 14400,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 96,
+     "notes": "USD建て。年払い($8/月換算、月払い$18)"
+    },
+    {
+     "id": "business-yearly",
+     "name": "ビジネス 年額",
+     "price": 45000,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 300,
+     "notes": "USD建て。年払い($25/月換算、月払い$40)。プラグイン利用可"
+    }
+   ],
+   "cancelSteps": [
+    "WordPress.com > 「購入履歴」(Purchases)を開く",
+    "対象プランの「自動更新を無効化」または「プランをキャンセル」",
+    "ドメインは別途更新設定"
+   ],
+   "cancelNotes": "無料トライアルなし(無料プランあり)。年払いは購入後14日以内、月払いは7日以内の返金保証",
+   "paymentChannels": [
+    "web",
+    "apple",
+    "google"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "ブログ",
+    "Webサイト制作",
+    "海外"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/wordpress-com.png"
+  },
+  {
+   "id": "xserver",
+   "name": "Xserver",
+   "nameJa": "Xserver",
+   "aliases": [
+    "エックスサーバー"
+   ],
+   "category": "cloud",
+   "brandColor": "#0C4DA2",
+   "website": "https://www.xserver.ne.jp",
+   "cancelUrl": "https://www.xserver.ne.jp/manual/man_order_cancel.php",
+   "accountUrl": "https://secure.xserver.ne.jp/xapanel/login/xserver/",
+   "freeTrialDays": 10,
+   "plans": [
+    {
+     "id": "standard-12m",
+     "name": "スタンダード (12ヶ月契約)",
+     "price": 1100,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "税込・月額換算。12ヶ月一括13,200円。3ヶ月1,320円/6ヶ月1,210円/24ヶ月1,045円/36ヶ月990円。キャンペーンで割引・キャッシュバックあり"
+    },
+    {
+     "id": "standard-36m",
+     "name": "スタンダード (36ヶ月契約)",
+     "price": 990,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "税込・月額換算。36ヶ月一括35,640円"
+    },
+    {
+     "id": "premium-12m",
+     "name": "プレミアム (12ヶ月契約)",
+     "price": 2200,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "税込・月額換算(未確認、公式料金表が取得できず)。36ヶ月は1,980円"
+    }
+   ],
+   "cancelSteps": [
+    "Xserverアカウント(xapanel)にログイン",
+    "契約管理 → 対象サーバーの「契約情報」",
+    "「解約する」を選択し、注意事項に同意",
+    "解約申請完了メールを確認(契約期間満了で停止)"
+   ],
+   "cancelNotes": "初期費用無料。解約は契約期間満了日まで利用可能、途中解約の返金なし。自動更新設定をオフにするだけでも更新停止可。10日間無料お試し",
+   "paymentChannels": [
+    "web",
+    "bank",
+    "convenience"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "ホスティング",
+    "レンタルサーバー"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/xserver.png"
+  },
+  {
+   "id": "icloud-plus",
+   "name": "iCloud+",
+   "nameJa": "iCloud+",
+   "category": "cloud",
+   "brandColor": "#3693F3",
+   "website": "https://www.apple.com/jp/icloud/",
+   "cancelUrl": "https://support.apple.com/ja-jp/108047",
+   "accountUrl": "https://account.apple.com/",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "50gb",
+     "name": "50GB",
+     "price": 180,
+     "cycle": "monthly",
+     "notes": "2026年7月17日改定後の税込価格",
+     "currency": "JPY"
+    },
+    {
+     "id": "200gb",
+     "name": "200GB",
+     "price": 540,
+     "cycle": "monthly",
+     "notes": "ファミリー共有可",
+     "currency": "JPY"
+    },
+    {
+     "id": "2tb",
+     "name": "2TB",
+     "price": 1800,
+     "cycle": "monthly",
+     "notes": "ファミリー共有可",
+     "currency": "JPY"
+    },
+    {
+     "id": "6tb",
+     "name": "6TB",
+     "price": 5500,
+     "cycle": "monthly",
+     "notes": "",
+     "currency": "JPY"
+    },
+    {
+     "id": "12tb",
+     "name": "12TB",
+     "price": 11000,
+     "cycle": "monthly",
+     "notes": "",
+     "currency": "JPY"
+    }
+   ],
+   "cancelSteps": [
+    "iPhone/iPadの「設定」>自分の名前>「サブスクリプション」を開く",
+    "「iCloud+」をタップし「ストレージプランをダウングレード」または「無料プランに変更」を選ぶ",
+    "Apple Account のパスワードで認証し確定する",
+    "Macの場合は「システム設定」>Apple Account>「iCloud」>「管理」>「ストレージプランを変更」から操作"
+   ],
+   "cancelNotes": "ダウングレードは次回請求日に反映され、日割り返金はなし。無料5GBを超えるデータは30日以内に減らさないと同期が停止する。Apple Oneに含まれる場合はApple One側で解約。",
+   "paymentChannels": [
+    "apple",
+    "carrier"
+   ],
+   "priceHistory": [
+    {
+     "date": "2026-07-17",
+     "planId": "50gb",
+     "oldPrice": 150,
+     "newPrice": 180
+    },
+    {
+     "date": "2026-07-17",
+     "planId": "200gb",
+     "oldPrice": 450,
+     "newPrice": 540
+    },
+    {
+     "date": "2026-07-17",
+     "planId": "2tb",
+     "oldPrice": 1500,
+     "newPrice": 1800
+    },
+    {
+     "date": "2026-07-17",
+     "planId": "6tb",
+     "oldPrice": 4500,
+     "newPrice": 5500
+    },
+    {
+     "date": "2026-07-17",
+     "planId": "12tb",
+     "oldPrice": 9000,
+     "newPrice": 11000
+    }
+   ],
+   "tags": [
+    "クラウドストレージ",
+    "Apple",
+    "月払いのみ"
+   ],
+   "verifiedAt": "2026-10-21",
+   "aliases": [
+    "アイクラウド"
+   ],
+   "iconUrl": "https://catalog.uuuu.to/icons/icloud-plus.png"
+  },
+  {
+   "id": "pcloud",
+   "name": "pCloud",
+   "nameJa": "pCloud",
+   "aliases": [
+    "ピークラウド",
+    "ピーシークラウド"
+   ],
+   "category": "cloud",
+   "brandColor": "#20BEC6",
+   "website": "https://www.pcloud.com",
+   "cancelUrl": "https://www.pcloud.com/help/general-help-center/how-can-i-cancel-my-subscription",
+   "accountUrl": "https://my.pcloud.com/",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "premium-500gb-yearly",
+     "name": "Premium 500GB (年払い)",
+     "price": 7498,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 49.99,
+     "notes": "USD建て年額。ライフタイム版($219〜)は買い切りでサブスクではない"
+    },
+    {
+     "id": "premium-plus-2tb-yearly",
+     "name": "Premium Plus 2TB (年払い)",
+     "price": 14998,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 99.99,
+     "notes": "USD建て年額。ライフタイム版($499)は買い切り"
+    }
+   ],
+   "cancelSteps": [
+    "my.pcloud.com にログイン",
+    "Settings → Account → Payment / Subscription",
+    "「Cancel subscription」(自動更新オフ)を選択",
+    "確認。期間末まで利用可"
+   ],
+   "cancelNotes": "月払いプランもあるが公式ページで金額を確認できず(未確認)。ライフタイムプランは一回払い(定期課金なし)",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "ストレージ",
+    "クラウド"
+   ],
+   "verifiedAt": "2026-10-21",
+   "iconUrl": "https://catalog.uuuu.to/icons/pcloud.png"
   },
   {
    "id": "fantia",
@@ -12271,57 +14079,6 @@
    "iconUrl": "https://catalog.uuuu.to/icons/asana.png"
   },
   {
-   "id": "backblaze",
-   "name": "Backblaze",
-   "nameJa": "Backblaze",
-   "aliases": [
-    "バックブレイズ"
-   ],
-   "category": "software",
-   "brandColor": "#E21E29",
-   "website": "https://www.backblaze.com",
-   "cancelUrl": "https://www.backblaze.com/computer-backup/docs/cancel-or-modify-your-subscription",
-   "accountUrl": "https://secure.backblaze.com/user_signin.htm",
-   "freeTrialDays": 15,
-   "plans": [
-    {
-     "id": "backup-monthly",
-     "name": "Computer Backup",
-     "price": 1350,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 9,
-     "notes": "USD建て、PC/Mac 1台あたり、容量無制限"
-    },
-    {
-     "id": "backup-yearly",
-     "name": "Computer Backup (年払い)",
-     "price": 14850,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 99,
-     "notes": "USD建て、1台あたり年額($8.25/月相当)。2年払いは$189"
-    }
-   ],
-   "cancelSteps": [
-    "Backblazeアカウントにログイン",
-    "My Settings / Overview で対象コンピュータを選択",
-    "「Delete Computer」または Billing で自動更新をオフ",
-    "確認して完了"
-   ],
-   "cancelNotes": "Computer Backup(個人向け)。B2 Cloud Storageは従量課金で別サービス。15日無料トライアル(クレカ不要)",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "バックアップ",
-    "ストレージ"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/backblaze.png"
-  },
-  {
    "id": "bear-pro",
    "name": "Bear Pro",
    "nameJa": "Bear Pro",
@@ -12484,47 +14241,6 @@
    ],
    "verifiedAt": "2026-10-21",
    "iconUrl": "https://catalog.uuuu.to/icons/bolt-new.png"
-  },
-  {
-   "id": "box-personal-pro",
-   "name": "Box Personal Pro",
-   "nameJa": "Box Personal Pro",
-   "aliases": [
-    "ボックス",
-    "Box",
-    "ボックス個人"
-   ],
-   "category": "software",
-   "brandColor": "#0061D5",
-   "website": "https://www.box.com/ja-jp/pricing/individual",
-   "cancelUrl": "https://support.box.com/hc/ja",
-   "accountUrl": "https://app.box.com/account",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "personal-pro",
-     "name": "Personal Pro",
-     "price": 2100,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 14,
-     "notes": "未確認。公式料金ページ(日本・米国)は動的表示で金額取得不可。二次情報ではUSD 14/月（100GB）、2022年時点の円建ては1,320円/月（2026-10）"
-    }
-   ],
-   "cancelSteps": [
-    "app.box.com の「アカウント設定」→「アカウント」",
-    "「サブスクリプション」→ダウングレード/キャンセル"
-   ],
-   "cancelNotes": "未確認",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "クラウドストレージ"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/box-personal-pro.png"
   },
   {
    "id": "buffer",
@@ -12946,128 +14662,6 @@
    "iconUrl": "https://catalog.uuuu.to/icons/clickup.png"
   },
   {
-   "id": "cloudflare",
-   "name": "Cloudflare",
-   "nameJa": "Cloudflare",
-   "aliases": [
-    "クラウドフレア"
-   ],
-   "category": "software",
-   "brandColor": "#F38020",
-   "website": "https://www.cloudflare.com",
-   "cancelUrl": "https://developers.cloudflare.com/fundamentals/subscriptions-and-billing/",
-   "accountUrl": "https://dash.cloudflare.com/?to=/:account/billing",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "pro-monthly",
-     "name": "Pro",
-     "price": 3750,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 25,
-     "notes": "USD建て、ドメイン(ゾーン)1件あたり。年払いは$20/月($240/年)"
-    },
-    {
-     "id": "pro-yearly",
-     "name": "Pro (年払い)",
-     "price": 36000,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 240,
-     "notes": "USD建て、ドメイン1件あたり年額"
-    },
-    {
-     "id": "business-monthly",
-     "name": "Business",
-     "price": 37500,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 250,
-     "notes": "USD建て、ドメイン1件あたり。年払いは$200/月"
-    }
-   ],
-   "cancelSteps": [
-    "Cloudflareダッシュボードにログイン",
-    "対象ドメインを選択 → Overview 右側の Plan 「Change」",
-    "Free を選択してダウングレード",
-    "Workers Paid 等の追加サブスクリプションは Billing → Subscriptions で個別にキャンセル"
-   ],
-   "cancelNotes": "Workers Paid($5/月)、Argo、Load Balancing 等はゾーンプランとは別のサブスクリプション。ダウングレードは次回請求日から適用",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "開発",
-    "CDN",
-    "インフラ"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/cloudflare.png"
-  },
-  {
-   "id": "cloudinary",
-   "name": "Cloudinary",
-   "nameJa": "Cloudinary",
-   "aliases": [
-    "クラウディナリー"
-   ],
-   "category": "software",
-   "brandColor": "#3448C5",
-   "website": "https://cloudinary.com",
-   "cancelUrl": "https://support.cloudinary.com/hc/en-us/articles/202520942",
-   "accountUrl": "https://console.cloudinary.com/settings/billing",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "plus-monthly",
-     "name": "Plus",
-     "price": 14850,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 99,
-     "notes": "USD建て、月払い。年払いは$89/月"
-    },
-    {
-     "id": "plus-yearly",
-     "name": "Plus (年払い)",
-     "price": 160200,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 1068,
-     "notes": "USD建て、年額($89×12)"
-    },
-    {
-     "id": "advanced-monthly",
-     "name": "Advanced",
-     "price": 37350,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 249,
-     "notes": "USD建て、月払い。年払いは$224/月"
-    }
-   ],
-   "cancelSteps": [
-    "Cloudinaryコンソールにログイン → Settings → Billing",
-    "「Change plan」→ Free を選択",
-    "または「Cancel subscription」を選択",
-    "確認。期間末に適用"
-   ],
-   "cancelNotes": "クレジット(変換・ストレージ・帯域)超過は追加課金。Freeへ戻す場合はFree枠内に使用量を収める必要あり",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "開発",
-    "メディア",
-    "CDN"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/cloudinary.png"
-  },
-  {
    "id": "craft",
    "name": "Craft",
    "nameJa": "Craft",
@@ -13178,67 +14772,6 @@
    ],
    "verifiedAt": "2026-10-21",
    "iconUrl": "https://catalog.uuuu.to/icons/dashlane.png"
-  },
-  {
-   "id": "datadog",
-   "name": "Datadog",
-   "nameJa": "Datadog",
-   "aliases": [
-    "データドッグ"
-   ],
-   "category": "software",
-   "brandColor": "#632CA6",
-   "website": "https://www.datadoghq.com",
-   "cancelUrl": "https://docs.datadoghq.com/account_management/billing/",
-   "accountUrl": "https://app.datadoghq.com/billing",
-   "freeTrialDays": 14,
-   "plans": [
-    {
-     "id": "infra-pro-monthly",
-     "name": "Infrastructure Pro (月払い)",
-     "price": 2700,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 18,
-     "notes": "USD建て、ホスト1台あたりオンデマンド価格。年契約は$15/ホスト/月"
-    },
-    {
-     "id": "infra-pro-yearly",
-     "name": "Infrastructure Pro (年契約)",
-     "price": 27000,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 180,
-     "notes": "USD建て、ホスト1台あたり年額($15×12)"
-    },
-    {
-     "id": "infra-enterprise-monthly",
-     "name": "Infrastructure Enterprise (月払い)",
-     "price": 4050,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 27,
-     "notes": "USD建て、ホスト1台あたりオンデマンド価格。年契約は$23"
-    }
-   ],
-   "cancelSteps": [
-    "Datadogにログイン → Plan & Usage → Plan",
-    "「Downgrade to Free」または Billing 担当へ連絡",
-    "すべてのAgent/ホストを停止・削除",
-    "請求停止を確認"
-   ],
-   "cancelNotes": "ホスト数・ログ・APM等プロダクトごとの従量課金が加算される。年契約は途中解約不可",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "開発",
-    "監視",
-    "インフラ"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/datadog.png"
   },
   {
    "id": "day-one",
@@ -13479,89 +15012,6 @@
    ],
    "verifiedAt": "2026-10-21",
    "iconUrl": "https://catalog.uuuu.to/icons/docker.png"
-  },
-  {
-   "id": "dropbox",
-   "name": "Dropbox",
-   "nameJa": "Dropbox",
-   "category": "software",
-   "brandColor": "#0061FF",
-   "website": "https://www.dropbox.com/ja/plans",
-   "cancelUrl": "https://help.dropbox.com/ja-jp/billing/cancel-subscription",
-   "accountUrl": "https://www.dropbox.com/account/plan",
-   "freeTrialDays": 30,
-   "plans": [
-    {
-     "id": "plus-monthly",
-     "name": "Plus 2TB（月払い）",
-     "price": 1500,
-     "cycle": "monthly",
-     "notes": "",
-     "currency": "JPY"
-    },
-    {
-     "id": "plus-yearly",
-     "name": "Plus 2TB（年払い）",
-     "price": 14400,
-     "cycle": "yearly",
-     "notes": "月額換算1,200円",
-     "currency": "JPY"
-    },
-    {
-     "id": "essentials-monthly",
-     "name": "Essentials / Professional 3TB（月払い）",
-     "price": 2400,
-     "cycle": "monthly",
-     "notes": "日本サイトでは「Professional」表記。30日無料トライアルあり",
-     "currency": "JPY"
-    },
-    {
-     "id": "essentials-yearly",
-     "name": "Essentials / Professional 3TB（年払い）",
-     "price": 24000,
-     "cycle": "yearly",
-     "notes": "月額換算2,000円",
-     "currency": "JPY"
-    },
-    {
-     "id": "family-monthly",
-     "name": "Family 2TB・6人（月払い）",
-     "price": 2800,
-     "cycle": "monthly",
-     "notes": "App Store(日本)のApp内課金「Dropbox Family - Monthly 2,800円」で確認。公式料金ページにFamilyは非表示（申込画面で表示）（2026-10）",
-     "currency": "JPY"
-    },
-    {
-     "id": "family-yearly",
-     "name": "Family 2TB・6人（年払い）",
-     "price": 24000,
-     "cycle": "yearly",
-     "notes": "未確認。公式料金ページ・ヘルプにFamily年払い価格の表示なし。App Storeにも年額項目なし（2026-10）",
-     "currency": "JPY"
-    }
-   ],
-   "cancelSteps": [
-    "dropbox.com にログインし右上のアバター>「設定」",
-    "「プラン」タブを開く",
-    "「プランをキャンセル」をクリック",
-    "理由を選択して「キャンセルを続行」",
-    "確認メールを保存（期間終了までは有料容量を利用可）"
-   ],
-   "cancelNotes": "解約後は無料Basic（2GB）に戻る。容量超過分のファイルは閲覧のみで同期停止。年払いの途中返金なし（EUなど一部地域を除く）。App Store/Google Play経由の課金は各ストアで解約。",
-   "paymentChannels": [
-    "web",
-    "apple",
-    "google"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "クラウドストレージ"
-   ],
-   "verifiedAt": "2026-10-21",
-   "aliases": [
-    "ドロップボックス"
-   ],
-   "iconUrl": "https://catalog.uuuu.to/icons/dropbox.png"
   },
   {
    "id": "eset",
@@ -14126,118 +15576,6 @@
    "iconUrl": "https://catalog.uuuu.to/icons/frame-io.png"
   },
   {
-   "id": "framer",
-   "name": "Framer",
-   "nameJa": "Framer",
-   "aliases": [
-    "フレーマー"
-   ],
-   "category": "software",
-   "brandColor": "#0055FF",
-   "website": "https://www.framer.com/",
-   "cancelUrl": "https://www.framer.com/projects/",
-   "accountUrl": "https://www.framer.com/projects/",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "basic-monthly",
-     "name": "Basic 月額",
-     "price": 2250,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 15,
-     "notes": "USD建て、1サイトあたり。月払い"
-    },
-    {
-     "id": "basic-yearly",
-     "name": "Basic 年額",
-     "price": 18000,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 120,
-     "notes": "USD建て、1サイトあたり年払い($10/月換算)。独自ドメイン込み"
-    },
-    {
-     "id": "pro-monthly",
-     "name": "Pro 月額",
-     "price": 6750,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 45,
-     "notes": "USD建て、1サイトあたり。月払い"
-    },
-    {
-     "id": "pro-yearly",
-     "name": "Pro 年額",
-     "price": 54000,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 360,
-     "notes": "USD建て、1サイトあたり年払い($30/月換算)"
-    }
-   ],
-   "cancelSteps": [
-    "Framer ダッシュボードで対象サイトの「Settings」>「Plans」を開く",
-    "「Cancel plan」を選択",
-    "追加エディター席がある場合はWorkspace設定からも削除"
-   ],
-   "cancelNotes": "サイト単位課金。解約後は期末に無料プランへ戻り独自ドメインが解除される",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "Webサイト制作",
-    "ノーコード",
-    "海外"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/framer.png"
-  },
-  {
-   "id": "gitlab",
-   "name": "GitLab",
-   "nameJa": "GitLab",
-   "aliases": [
-    "ギットラボ"
-   ],
-   "category": "software",
-   "brandColor": "#FC6D26",
-   "website": "https://about.gitlab.com",
-   "cancelUrl": "https://docs.gitlab.com/subscriptions/gitlab_com/",
-   "accountUrl": "https://customers.gitlab.com/",
-   "freeTrialDays": 30,
-   "plans": [
-    {
-     "id": "premium-yearly",
-     "name": "Premium",
-     "price": 52200,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 348,
-     "notes": "USD建て、1ユーザーあたり年額($29/月×12、年払いのみ)。無料トライアルはUltimate 30日"
-    }
-   ],
-   "cancelSteps": [
-    "Customers Portal (customers.gitlab.com) にログイン",
-    "Subscriptions → 対象サブスクリプションを選択",
-    "「Cancel subscription」(自動更新オフ)を選択",
-    "期間末にFreeへ移行"
-   ],
-   "cancelNotes": "年払いのみ(月払いなし)。途中解約は返金なし、期間末まで利用可。Freeは5ユーザー/トップレベルグループ制限あり",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "開発",
-    "Git",
-    "DevOps"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/gitlab.png"
-  },
-  {
    "id": "goodnotes",
    "name": "Goodnotes",
    "nameJa": "Goodnotes",
@@ -14295,144 +15633,6 @@
    ],
    "verifiedAt": "2026-10-21",
    "iconUrl": "https://catalog.uuuu.to/icons/goodnotes.png"
-  },
-  {
-   "id": "google-one",
-   "name": "Google One",
-   "nameJa": "Google One",
-   "category": "software",
-   "brandColor": "#4285F4",
-   "website": "https://one.google.com/about/plans?hl=ja",
-   "cancelUrl": "https://support.google.com/googleone/answer/9004016?hl=ja",
-   "accountUrl": "https://one.google.com/settings",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "100gb-monthly",
-     "name": "ベーシック 100GB（月払い）",
-     "price": 290,
-     "cycle": "monthly",
-     "notes": "2025年10月11日改定",
-     "currency": "JPY"
-    },
-    {
-     "id": "100gb-yearly",
-     "name": "ベーシック 100GB（年払い）",
-     "price": 2900,
-     "cycle": "yearly",
-     "notes": "",
-     "currency": "JPY"
-    },
-    {
-     "id": "2tb-monthly",
-     "name": "2TB（月払い）",
-     "price": 1450,
-     "cycle": "monthly",
-     "notes": "現在は「Google AI Plus」として表示される2TBプラン",
-     "currency": "JPY"
-    },
-    {
-     "id": "2tb-yearly",
-     "name": "2TB（年払い）",
-     "price": 14500,
-     "cycle": "yearly",
-     "notes": "",
-     "currency": "JPY"
-    }
-   ],
-   "cancelSteps": [
-    "one.google.com にアクセスし Google アカウントでログイン",
-    "左メニューの「設定」を開く",
-    "「メンバーシップを解約」を選択",
-    "理由を選び確認して完了（Google Play経由の場合はPlayストアの「定期購入」から解約）"
-   ],
-   "cancelNotes": "解約後も支払済み期間の終了まで容量は利用可。無料15GBを超えている場合は保存・同期が停止。iOSアプリ内課金（App Store）で登録した場合はApple側で解約が必要。年払い途中解約の返金なし。",
-   "paymentChannels": [
-    "web",
-    "google",
-    "apple"
-   ],
-   "priceHistory": [
-    {
-     "date": "2025-10-11",
-     "planId": "100gb-monthly",
-     "oldPrice": 250,
-     "newPrice": 290
-    },
-    {
-     "date": "2025-10-11",
-     "planId": "2tb-monthly",
-     "oldPrice": 1300,
-     "newPrice": 1450
-    }
-   ],
-   "tags": [
-    "クラウドストレージ",
-    "Google"
-   ],
-   "verifiedAt": "2026-10-21",
-   "aliases": [
-    "グーグルワン"
-   ],
-   "iconUrl": "https://catalog.uuuu.to/icons/google-one.png"
-  },
-  {
-   "id": "google-workspace-business-starter",
-   "name": "Google Workspace Business Starter",
-   "nameJa": "Google Workspace Business Starter",
-   "aliases": [
-    "グーグルワークスペース",
-    "G Suite",
-    "Workspace",
-    "ビジネススターター"
-   ],
-   "category": "software",
-   "brandColor": "#4285F4",
-   "website": "https://workspace.google.com/intl/ja/pricing",
-   "cancelUrl": "https://admin.google.com/",
-   "accountUrl": "https://admin.google.com/",
-   "freeTrialDays": 14,
-   "plans": [
-    {
-     "id": "starter-annual",
-     "name": "Business Starter(年契約)",
-     "price": 880,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "公式 800円/ユーザー/月(税別)→税込880円。1ユーザーあたり"
-    },
-    {
-     "id": "starter-flexible",
-     "name": "Business Starter(フレキシブル)",
-     "price": 1045,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "2026-09-23更新の料金解説記事で確認：フレキシブルプラン950円/ユーザー/月（税抜）＝税込1,045円。公式料金ページは年間契約800円（税抜）のみ表示"
-    }
-   ],
-   "cancelSteps": [
-    "Google 管理コンソール→「お支払い」→「サブスクリプション」",
-    "対象プランの「その他の操作」→「サブスクリプションをキャンセル」"
-   ],
-   "cancelNotes": "年契約は途中解約不可(残期間請求)。独自ドメインが必要。",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [
-    {
-     "date": "2025-01-16",
-     "planId": "starter-annual",
-     "oldPrice": 748,
-     "newPrice": 880
-    }
-   ],
-   "tags": [
-    "ビジネス",
-    "メール",
-    "クラウド"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/google-workspace-business-starter.png"
   },
   {
    "id": "grammarly-pro",
@@ -14493,68 +15693,6 @@
    ],
    "verifiedAt": "2026-10-21",
    "iconUrl": "https://catalog.uuuu.to/icons/grammarly-pro.png"
-  },
-  {
-   "id": "heroku",
-   "name": "Heroku",
-   "nameJa": "Heroku",
-   "aliases": [
-    "ヘロク",
-    "ヘロクー"
-   ],
-   "category": "software",
-   "brandColor": "#430098",
-   "website": "https://www.heroku.com",
-   "cancelUrl": "https://help.heroku.com/",
-   "accountUrl": "https://dashboard.heroku.com/account/billing",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "eco-monthly",
-     "name": "Eco Dynos",
-     "price": 750,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 5,
-     "notes": "USD建て、アカウント単位で月1,000 dyno時間のプール。30分アイドルでスリープ"
-    },
-    {
-     "id": "basic-monthly",
-     "name": "Basic Dyno",
-     "price": 1050,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 7,
-     "notes": "USD建て、dyno 1台あたり(秒割り計算)。常時起動"
-    },
-    {
-     "id": "standard1x-monthly",
-     "name": "Standard-1X Dyno",
-     "price": 3750,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 25,
-     "notes": "USD建て、dyno 1台あたり"
-    }
-   ],
-   "cancelSteps": [
-    "Herokuダッシュボードにログイン",
-    "アプリの Resources タブで dyno を Off / 削除、または Account → Billing で Eco Dynos を無効化",
-    "不要なアプリや Postgres アドオンを削除",
-    "Billing で請求が止まっていることを確認"
-   ],
-   "cancelNotes": "dynoは秒割り(prorated)で請求。アドオン(Postgres Essential-0 $5/月など)は別途課金されるので個別に削除が必要",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "開発",
-    "ホスティング",
-    "PaaS"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/heroku.png"
   },
   {
    "id": "hootsuite",
@@ -15706,100 +16844,6 @@
    "iconUrl": "https://catalog.uuuu.to/icons/mullvad-vpn.png"
   },
   {
-   "id": "namecheap",
-   "name": "Namecheap",
-   "nameJa": "Namecheap",
-   "aliases": [
-    "ネームチープ"
-   ],
-   "category": "software",
-   "brandColor": "#DE3723",
-   "website": "https://www.namecheap.com",
-   "cancelUrl": "https://www.namecheap.com/support/knowledgebase/article.aspx/9627/",
-   "accountUrl": "https://ap.www.namecheap.com/",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "com-renewal-yearly",
-     "name": ".com ドメイン更新(代表例)",
-     "price": 2217,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 14.78,
-     "notes": "USD建て、.com 1件あたりの年間更新料(第三者集計による2026年7月時点、未確認)。初年度登録は割引価格"
-    }
-   ],
-   "cancelSteps": [
-    "Namecheapアカウントにログイン",
-    "Domain List → 対象ドメインの Manage",
-    "「Auto-Renew」をオフ",
-    "期限満了で失効(更新しない)。または他社へ移管"
-   ],
-   "cancelNotes": "更新料はTLDにより異なる。WhoisGuard(Domain Privacy)は無料。失効後の復旧(Redemption)は高額",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "ドメイン",
-    "開発"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/namecheap.png"
-  },
-  {
-   "id": "netlify",
-   "name": "Netlify",
-   "nameJa": "Netlify",
-   "aliases": [
-    "ネットリファイ",
-    "ネトリファイ"
-   ],
-   "category": "software",
-   "brandColor": "#00C7B7",
-   "website": "https://www.netlify.com",
-   "cancelUrl": "https://docs.netlify.com/accounts-and-billing/billing/manage-billing/",
-   "accountUrl": "https://app.netlify.com/",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "personal-monthly",
-     "name": "Personal",
-     "price": 1350,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 9,
-     "notes": "USD建て、個人向け"
-    },
-    {
-     "id": "pro-monthly",
-     "name": "Pro",
-     "price": 3000,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 20,
-     "notes": "USD建て、チーム単位(メンバー数無制限)。帯域・ビルド分の超過は従量課金"
-    }
-   ],
-   "cancelSteps": [
-    "Netlifyアプリにログイン",
-    "Team settings → Billing → Plan を開く",
-    "「Change plan」から Free (または下位プラン) を選択",
-    "確認してダウングレード"
-   ],
-   "cancelNotes": "ダウングレードは請求期間末に適用。Pro特有の機能(アナリティクス等)は停止する",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "開発",
-    "ホスティング"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/netlify.png"
-  },
-  {
    "id": "nordvpn",
    "name": "NordVPN",
    "nameJa": "NordVPN",
@@ -16030,176 +17074,6 @@
    "iconUrl": "https://catalog.uuuu.to/icons/otter-pro.png"
   },
   {
-   "id": "planetscale",
-   "name": "PlanetScale",
-   "nameJa": "PlanetScale",
-   "aliases": [
-    "プラネットスケール"
-   ],
-   "category": "software",
-   "brandColor": "#000000",
-   "website": "https://planetscale.com",
-   "cancelUrl": "https://planetscale.com/docs/concepts/billing",
-   "accountUrl": "https://app.planetscale.com/",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "postgres-ps5-monthly",
-     "name": "Postgres PS-5 (単一ノード)",
-     "price": 750,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 5,
-     "notes": "USD建て、クラスターSKUの固定月額(AWS us-east-1)。ストレージ・転送量は別途従量"
-    },
-    {
-     "id": "vitess-ps10-monthly",
-     "name": "Vitess PS-10 (HA)",
-     "price": 5850,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 39,
-     "notes": "USD建て、3ノードHA構成の固定月額。無料プランなし"
-    }
-   ],
-   "cancelSteps": [
-    "PlanetScaleダッシュボードにログイン",
-    "対象データベースの Settings を開く",
-    "「Delete database」で削除(または組織の Billing でプラン変更)",
-    "請求が停止したことを Billing で確認"
-   ],
-   "cancelNotes": "無料プランは廃止済み。データベースを削除しない限り固定SKU料金が継続する。リージョンにより価格が異なる",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "開発",
-    "データベース"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/planetscale.png"
-  },
-  {
-   "id": "proton",
-   "name": "Proton",
-   "nameJa": "Proton",
-   "aliases": [
-    "プロトン",
-    "Proton VPN",
-    "Proton Mail",
-    "Proton Unlimited",
-    "プロトンVPN"
-   ],
-   "category": "software",
-   "brandColor": "#6D4AFF",
-   "website": "https://proton.me/ja/pricing",
-   "cancelUrl": "https://proton.me/support/cancel-subscription",
-   "accountUrl": "https://account.proton.me/",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "vpn-plus",
-     "name": "VPN Plus",
-     "price": 750,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 4.99,
-     "notes": "USD建て $4.99/月(年払い)。月払いは$9.99"
-    },
-    {
-     "id": "mail-plus",
-     "name": "Mail Plus",
-     "price": 600,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 3.99,
-     "notes": "USD建て $3.99/月(年払い $47.88)"
-    },
-    {
-     "id": "unlimited",
-     "name": "Proton Unlimited",
-     "price": 1500,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 9.99,
-     "notes": "USD建て $9.99/月(年払い $119.88)。月払いは$12.99"
-    }
-   ],
-   "cancelSteps": [
-    "account.proton.me の「サブスクリプション」を開く",
-    "「プランをキャンセル」または「ダウングレード」",
-    "Apple/Google経由は各ストアから"
-   ],
-   "cancelNotes": "30日返金保証。",
-   "paymentChannels": [
-    "web",
-    "apple",
-    "google"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "VPN",
-    "メール",
-    "セキュリティ"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/proton.png"
-  },
-  {
-   "id": "railway",
-   "name": "Railway",
-   "nameJa": "Railway",
-   "aliases": [
-    "レイルウェイ",
-    "レールウェイ"
-   ],
-   "category": "software",
-   "brandColor": "#0B0D0E",
-   "website": "https://railway.com",
-   "cancelUrl": "https://docs.railway.com/reference/pricing/plans",
-   "accountUrl": "https://railway.com/account/billing",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "hobby-monthly",
-     "name": "Hobby",
-     "price": 750,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 5,
-     "notes": "USD建て、$5分の利用枠込み。超過分は従量課金"
-    },
-    {
-     "id": "pro-monthly",
-     "name": "Pro",
-     "price": 3000,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 20,
-     "notes": "USD建て、ワークスペース単位(シート無制限)。$20分の利用枠込み"
-    }
-   ],
-   "cancelSteps": [
-    "Railwayにログイン → Workspace settings → Billing",
-    "「Manage subscription」を開く",
-    "Cancel / Downgrade を選択",
-    "確認して完了"
-   ],
-   "cancelNotes": "解約後は未払いの従量分が最終請求される。プランのクレジットは繰り越し不可",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "開発",
-    "ホスティング",
-    "PaaS"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/railway.png"
-  },
-  {
    "id": "raycast",
    "name": "Raycast",
    "nameJa": "Raycast",
@@ -16259,58 +17133,6 @@
    ],
    "verifiedAt": "2026-10-21",
    "iconUrl": "https://catalog.uuuu.to/icons/raycast.png"
-  },
-  {
-   "id": "render",
-   "name": "Render",
-   "nameJa": "Render",
-   "aliases": [
-    "レンダー"
-   ],
-   "category": "software",
-   "brandColor": "#46E3B7",
-   "website": "https://render.com",
-   "cancelUrl": "https://render.com/docs/billing",
-   "accountUrl": "https://dashboard.render.com/billing",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "pro-monthly",
-     "name": "Pro",
-     "price": 3750,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 25,
-     "notes": "USD建て、ワークスペース単位の固定月額(メンバー数無制限)。2026年新プラン。コンピュートは別途従量"
-    },
-    {
-     "id": "scale-monthly",
-     "name": "Scale",
-     "price": 74850,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 499,
-     "notes": "USD建て、ワークスペース単位の固定月額"
-    }
-   ],
-   "cancelSteps": [
-    "Renderダッシュボードにログイン",
-    "Workspace settings → Billing を開く",
-    "「Change plan」→ Hobby を選択",
-    "有料インスタンスも Suspend/Delete して課金を止める"
-   ],
-   "cancelNotes": "旧Professional($19/人)・Organization($29/人)は2026年8月1日に新プラン(Pro $25 / Scale $499)へ自動移行。Hobbyは月額無料だがコンピュート利用分は請求",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "開発",
-    "ホスティング",
-    "PaaS"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/render.png"
   },
   {
    "id": "replit",
@@ -16485,58 +17307,6 @@
    "iconUrl": "https://catalog.uuuu.to/icons/semrush.png"
   },
   {
-   "id": "sentry",
-   "name": "Sentry",
-   "nameJa": "Sentry",
-   "aliases": [
-    "セントリー"
-   ],
-   "category": "software",
-   "brandColor": "#362D59",
-   "website": "https://sentry.io",
-   "cancelUrl": "https://sentry.io/settings/billing/",
-   "accountUrl": "https://sentry.io/settings/",
-   "freeTrialDays": 14,
-   "plans": [
-    {
-     "id": "team-monthly",
-     "name": "Team",
-     "price": 4350,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 29,
-     "notes": "USD建て、組織単位。年払いは$26/月"
-    },
-    {
-     "id": "business-monthly",
-     "name": "Business",
-     "price": 13350,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 89,
-     "notes": "USD建て、組織単位。年払いは$80/月。14日無料トライアル(Business)"
-    }
-   ],
-   "cancelSteps": [
-    "Sentryにログイン → Settings → Subscription",
-    "「Manage Subscription」を開く",
-    "Developer(無料)プランへダウングレードを選択",
-    "確認。期間末に適用"
-   ],
-   "cancelNotes": "イベント数超過のオンデマンド課金は別途。ダウングレードはクオータの縛りあり",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "開発",
-    "監視",
-    "エラートラッキング"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/sentry.png"
-  },
-  {
    "id": "setapp",
    "name": "Setapp",
    "nameJa": "Setapp",
@@ -16596,80 +17366,6 @@
     "セットアップ"
    ],
    "iconUrl": "https://catalog.uuuu.to/icons/setapp.png"
-  },
-  {
-   "id": "shopify",
-   "name": "Shopify",
-   "nameJa": "Shopify",
-   "aliases": [
-    "ショッピファイ",
-    "ショピファイ"
-   ],
-   "category": "software",
-   "brandColor": "#96BF48",
-   "website": "https://www.shopify.com/jp",
-   "cancelUrl": "https://admin.shopify.com/",
-   "accountUrl": "https://admin.shopify.com/",
-   "freeTrialDays": 3,
-   "plans": [
-    {
-     "id": "basic-monthly",
-     "name": "ベーシック 月払い",
-     "price": 4850,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "税抜。日本円公式価格"
-    },
-    {
-     "id": "basic-yearly",
-     "name": "ベーシック 年払い",
-     "price": 43800,
-     "cycle": "yearly",
-     "currency": "JPY",
-     "notes": "税抜。年払い時3,650円/月換算"
-    },
-    {
-     "id": "grow-monthly",
-     "name": "Grow 月払い",
-     "price": 13500,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "税抜。旧「Shopify」プラン相当"
-    },
-    {
-     "id": "grow-yearly",
-     "name": "Grow 年払い",
-     "price": 121200,
-     "cycle": "yearly",
-     "currency": "JPY",
-     "notes": "税抜。年払い時10,100円/月換算"
-    },
-    {
-     "id": "advanced-monthly",
-     "name": "アドバンス 月払い",
-     "price": 58500,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "税抜。年払いは44,000円/月換算"
-    }
-   ],
-   "cancelSteps": [
-    "Shopify 管理画面 > 設定 > 「プラン」",
-    "「ストアを無効化」または「プランを変更」を選択",
-    "理由を選び確認(未払い残高があると不可)"
-   ],
-   "cancelNotes": "3日間無料トライアル後、3か月間月額150円の初回特典あり。解約後はストアが非公開化。決済手数料は別途",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "EC",
-    "ネットショップ",
-    "ビジネス"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/shopify.png"
   },
   {
    "id": "shutterstock",
@@ -16911,132 +17607,6 @@
    "iconUrl": "https://catalog.uuuu.to/icons/spark-mail.png"
   },
   {
-   "id": "squarespace",
-   "name": "Squarespace",
-   "nameJa": "Squarespace",
-   "aliases": [
-    "スクエアスペース"
-   ],
-   "category": "software",
-   "brandColor": "#000000",
-   "website": "https://ja.squarespace.com/",
-   "cancelUrl": "https://account.squarespace.com/",
-   "accountUrl": "https://account.squarespace.com/",
-   "freeTrialDays": 14,
-   "plans": [
-    {
-     "id": "basic-monthly",
-     "name": "ベーシック 月払い",
-     "price": 1480,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "日本円公式価格。年払いは1,180円/月換算"
-    },
-    {
-     "id": "basic-yearly",
-     "name": "ベーシック 年払い",
-     "price": 14160,
-     "cycle": "yearly",
-     "currency": "JPY",
-     "notes": "日本円公式価格。1,180円/月換算"
-    },
-    {
-     "id": "core-monthly",
-     "name": "コア 月払い",
-     "price": 2580,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "日本円公式価格。年払いは2,080円/月換算"
-    },
-    {
-     "id": "core-yearly",
-     "name": "コア 年払い",
-     "price": 24960,
-     "cycle": "yearly",
-     "currency": "JPY",
-     "notes": "日本円公式価格。2,080円/月換算"
-    },
-    {
-     "id": "advanced-yearly",
-     "name": "アドバンス 年払い",
-     "price": 36480,
-     "cycle": "yearly",
-     "currency": "JPY",
-     "notes": "日本円公式価格。3,040円/月換算(月払い3,800円)"
-    }
-   ],
-   "cancelSteps": [
-    "Squarespace にログイン > 「設定」>「請求」",
-    "対象サブスクリプションを開き「サブスクリプションをキャンセル」",
-    "ドメインは別途自動更新をオフ"
-   ],
-   "cancelNotes": "14日無料トライアル(カード不要)。年払いは購入後14日以内返金可。解約後は期末まで公開",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "Webサイト制作",
-    "ホームページ",
-    "海外"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/squarespace.png"
-  },
-  {
-   "id": "supabase",
-   "name": "Supabase",
-   "nameJa": "Supabase",
-   "aliases": [
-    "スーパベース",
-    "スパベース"
-   ],
-   "category": "software",
-   "brandColor": "#3ECF8E",
-   "website": "https://supabase.com",
-   "cancelUrl": "https://supabase.com/docs/guides/platform/billing-on-supabase",
-   "accountUrl": "https://supabase.com/dashboard/org/_/billing",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "pro-monthly",
-     "name": "Pro",
-     "price": 3750,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 25,
-     "notes": "USD建て、組織(Organization)単位。$10分のコンピュートクレジット込み、超過分は従量課金"
-    },
-    {
-     "id": "team-monthly",
-     "name": "Team",
-     "price": 89850,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 599,
-     "notes": "USD建て、組織単位"
-    }
-   ],
-   "cancelSteps": [
-    "Supabaseダッシュボードにログイン",
-    "Organization settings → Billing を開く",
-    "「Change subscription plan」から Free を選択",
-    "確認してダウングレード"
-   ],
-   "cancelNotes": "Freeプランは2プロジェクトまで。ダウングレード前にプロジェクト数・容量をFree枠内に収める必要あり",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "開発",
-    "データベース",
-    "BaaS"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/supabase.png"
-  },
-  {
    "id": "surfshark",
    "name": "Surfshark",
    "nameJa": "Surfshark",
@@ -17095,67 +17665,6 @@
    ],
    "verifiedAt": "2026-10-21",
    "iconUrl": "https://catalog.uuuu.to/icons/surfshark.png"
-  },
-  {
-   "id": "sync-com",
-   "name": "Sync.com",
-   "nameJa": "Sync.com",
-   "aliases": [
-    "シンク",
-    "シンクドットコム"
-   ],
-   "category": "software",
-   "brandColor": "#1C9CEA",
-   "website": "https://www.sync.com",
-   "cancelUrl": "https://www.sync.com/help/how-do-i-cancel-my-sync-account/",
-   "accountUrl": "https://cp.sync.com/",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "personal-1tb-monthly",
-     "name": "Personal 1TB",
-     "price": 2400,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 16,
-     "notes": "USD建て、通常価格(初年度は25%OFFの$12)"
-    },
-    {
-     "id": "personal-1tb-yearly",
-     "name": "Personal 1TB (年払い)",
-     "price": 21600,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 144,
-     "notes": "USD建て、通常価格$12/月×12(初年度は$108)"
-    },
-    {
-     "id": "solo-5tb-yearly",
-     "name": "Solo 5TB (年払い)",
-     "price": 50400,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 336,
-     "notes": "USD建て、通常価格$28/月×12(初年度は$252)"
-    }
-   ],
-   "cancelSteps": [
-    "cp.sync.com にログイン",
-    "Account → Billing を開く",
-    "「Cancel plan」/ 自動更新オフを選択",
-    "確認して完了"
-   ],
-   "cancelNotes": "初年度割引価格から2年目以降は通常価格に自動更新。Teamsプランは3ユーザー以上($6〜/人)",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "ストレージ",
-    "クラウド"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/sync-com.png"
   },
   {
    "id": "todoist-pro",
@@ -17403,58 +17912,6 @@
    "iconUrl": "https://catalog.uuuu.to/icons/unity.png"
   },
   {
-   "id": "upstash",
-   "name": "Upstash",
-   "nameJa": "Upstash",
-   "aliases": [
-    "アップスタッシュ"
-   ],
-   "category": "software",
-   "brandColor": "#00E9A3",
-   "website": "https://upstash.com",
-   "cancelUrl": "https://upstash.com/docs/redis/overall/pricing",
-   "accountUrl": "https://console.upstash.com/",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "redis-fixed-250mb-monthly",
-     "name": "Redis Fixed 250MB",
-     "price": 1500,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 10,
-     "notes": "USD建て、データベース1件あたりの固定月額(コマンド数課金なし)"
-    },
-    {
-     "id": "redis-fixed-1gb-monthly",
-     "name": "Redis Fixed 1GB",
-     "price": 3000,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 20,
-     "notes": "USD建て、データベース1件あたりの固定月額"
-    }
-   ],
-   "cancelSteps": [
-    "Upstashコンソールにログイン",
-    "対象データベースを選択 → Settings/Plan",
-    "Free または Pay-as-you-go に変更、もしくはデータベースを削除",
-    "Billing で確認"
-   ],
-   "cancelNotes": "Pay-as-you-go($0.20/10万コマンド)は従量。Fixedプランは日割りなし、月額固定",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "開発",
-    "データベース",
-    "Redis"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/upstash.png"
-  },
-  {
    "id": "vsco",
    "name": "VSCO",
    "nameJa": "VSCO",
@@ -17502,49 +17959,6 @@
    ],
    "verifiedAt": "2026-10-21",
    "iconUrl": "https://catalog.uuuu.to/icons/vsco.png"
-  },
-  {
-   "id": "vercel",
-   "name": "Vercel",
-   "nameJa": "Vercel",
-   "aliases": [
-    "バーセル",
-    "ヴァーセル"
-   ],
-   "category": "software",
-   "brandColor": "#000000",
-   "website": "https://vercel.com",
-   "cancelUrl": "https://vercel.com/docs/plans/pro-plan",
-   "accountUrl": "https://vercel.com/dashboard",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "pro-monthly",
-     "name": "Pro",
-     "price": 3000,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 20,
-     "notes": "USD建て、1開発者シートあたり。$20分の利用クレジット込み、超過分は従量課金"
-    }
-   ],
-   "cancelSteps": [
-    "Vercelダッシュボードにログイン",
-    "対象チームの Settings → Billing を開く",
-    "「Downgrade to Hobby」(または Change plan) を選択",
-    "確認してダウングレード完了"
-   ],
-   "cancelNotes": "ダウングレード後は現在の請求期間末までProの機能が利用可能。超過利用分は最終請求で精算される",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "開発",
-    "ホスティング"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/vercel.png"
   },
   {
    "id": "vimeo",
@@ -17610,66 +18024,6 @@
    "iconUrl": "https://catalog.uuuu.to/icons/vimeo.png"
   },
   {
-   "id": "webflow",
-   "name": "Webflow",
-   "nameJa": "Webflow",
-   "aliases": [
-    "ウェブフロー"
-   ],
-   "category": "software",
-   "brandColor": "#4353FF",
-   "website": "https://webflow.com/",
-   "cancelUrl": "https://webflow.com/dashboard",
-   "accountUrl": "https://webflow.com/dashboard",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "basic-monthly",
-     "name": "Basic 月額",
-     "price": 3750,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 25,
-     "notes": "USD建て、1サイトあたり月払い。2026年5月改定後の価格。公式ページ未取得のため未確認"
-    },
-    {
-     "id": "basic-yearly",
-     "name": "Basic 年額",
-     "price": 27000,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 180,
-     "notes": "USD建て、1サイトあたり年払い($15/月換算)。CMSなし。未確認"
-    },
-    {
-     "id": "premium-yearly",
-     "name": "Premium 年額",
-     "price": 45000,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 300,
-     "notes": "USD建て、1サイトあたり年払い($25/月換算、月払い$39)。旧CMS/Business統合。未確認"
-    }
-   ],
-   "cancelSteps": [
-    "Webflow ダッシュボード > 対象サイト > Settings > 「Plans」",
-    "「Cancel plan」を選択",
-    "Workspaceプランは別途 Workspace settings > Billing から"
-   ],
-   "cancelNotes": "サイトプランとWorkspaceプランが別課金。解約後は期末に無料Starterへ戻り独自ドメイン解除",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "Webサイト制作",
-    "ノーコード",
-    "海外"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/webflow.png"
-  },
-  {
    "id": "windsurf",
    "name": "Windsurf",
    "nameJa": "Windsurf",
@@ -17720,202 +18074,6 @@
    ],
    "verifiedAt": "2026-10-21",
    "iconUrl": "https://catalog.uuuu.to/icons/windsurf.png"
-  },
-  {
-   "id": "wix",
-   "name": "Wix",
-   "nameJa": "Wix",
-   "aliases": [
-    "ウィックス"
-   ],
-   "category": "software",
-   "brandColor": "#0C6EFC",
-   "website": "https://ja.wix.com/",
-   "cancelUrl": "https://manage.wix.com/account/subscriptions",
-   "accountUrl": "https://manage.wix.com/account/subscriptions",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "personal-monthly",
-     "name": "パーソナル 月払い",
-     "price": 1900,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "税抜。日本向けプラン名(海外版Light相当)。第三者情報のため要確認"
-    },
-    {
-     "id": "personal-yearly",
-     "name": "パーソナル 年払い",
-     "price": 15600,
-     "cycle": "yearly",
-     "currency": "JPY",
-     "notes": "税抜。1,300円/月換算。要確認"
-    },
-    {
-     "id": "small-business-yearly",
-     "name": "スモールビジネス 年払い",
-     "price": 27600,
-     "cycle": "yearly",
-     "currency": "JPY",
-     "notes": "税抜。2,300円/月換算(月払い2,700円)。要確認"
-    },
-    {
-     "id": "business-yearly",
-     "name": "ビジネス 年払い",
-     "price": 32400,
-     "cycle": "yearly",
-     "currency": "JPY",
-     "notes": "税抜。2,700円/月換算(月払い3,100円)。要確認"
-    }
-   ],
-   "cancelSteps": [
-    "Wix アカウント > 「サブスクリプション」を開く",
-    "対象プランの「…」>「自動更新をキャンセル」",
-    "購入後14日以内なら全額返金申請可"
-   ],
-   "cancelNotes": "無料トライアルなし(14日間全額返金保証)。自動更新をオフにすると期末で終了。ドメインは別サブスク",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "Webサイト制作",
-    "ホームページ",
-    "海外"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/wix.png"
-  },
-  {
-   "id": "wordpress-com",
-   "name": "WordPress.com",
-   "nameJa": "WordPress.com",
-   "aliases": [
-    "ワードプレスドットコム",
-    "ワードプレス"
-   ],
-   "category": "software",
-   "brandColor": "#3858E9",
-   "website": "https://wordpress.com/ja/",
-   "cancelUrl": "https://wordpress.com/purchases/",
-   "accountUrl": "https://wordpress.com/me/",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "personal-monthly",
-     "name": "パーソナル 月額",
-     "price": 1350,
-     "cycle": "monthly",
-     "currency": "USD",
-     "usdPrice": 9,
-     "notes": "USD建て(公式ja表示)。月払い。地域により円建て(約400円/月年払い)表示の情報もあり要確認"
-    },
-    {
-     "id": "personal-yearly",
-     "name": "パーソナル 年額",
-     "price": 7200,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 48,
-     "notes": "USD建て。年払い($4/月換算)。2年・3年契約でさらに割引"
-    },
-    {
-     "id": "premium-yearly",
-     "name": "プレミアム 年額",
-     "price": 14400,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 96,
-     "notes": "USD建て。年払い($8/月換算、月払い$18)"
-    },
-    {
-     "id": "business-yearly",
-     "name": "ビジネス 年額",
-     "price": 45000,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 300,
-     "notes": "USD建て。年払い($25/月換算、月払い$40)。プラグイン利用可"
-    }
-   ],
-   "cancelSteps": [
-    "WordPress.com > 「購入履歴」(Purchases)を開く",
-    "対象プランの「自動更新を無効化」または「プランをキャンセル」",
-    "ドメインは別途更新設定"
-   ],
-   "cancelNotes": "無料トライアルなし(無料プランあり)。年払いは購入後14日以内、月払いは7日以内の返金保証",
-   "paymentChannels": [
-    "web",
-    "apple",
-    "google"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "ブログ",
-    "Webサイト制作",
-    "海外"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/wordpress-com.png"
-  },
-  {
-   "id": "xserver",
-   "name": "Xserver",
-   "nameJa": "Xserver",
-   "aliases": [
-    "エックスサーバー"
-   ],
-   "category": "software",
-   "brandColor": "#0C4DA2",
-   "website": "https://www.xserver.ne.jp",
-   "cancelUrl": "https://www.xserver.ne.jp/manual/man_order_cancel.php",
-   "accountUrl": "https://secure.xserver.ne.jp/xapanel/login/xserver/",
-   "freeTrialDays": 10,
-   "plans": [
-    {
-     "id": "standard-12m",
-     "name": "スタンダード (12ヶ月契約)",
-     "price": 1100,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "税込・月額換算。12ヶ月一括13,200円。3ヶ月1,320円/6ヶ月1,210円/24ヶ月1,045円/36ヶ月990円。キャンペーンで割引・キャッシュバックあり"
-    },
-    {
-     "id": "standard-36m",
-     "name": "スタンダード (36ヶ月契約)",
-     "price": 990,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "税込・月額換算。36ヶ月一括35,640円"
-    },
-    {
-     "id": "premium-12m",
-     "name": "プレミアム (12ヶ月契約)",
-     "price": 2200,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "税込・月額換算(未確認、公式料金表が取得できず)。36ヶ月は1,980円"
-    }
-   ],
-   "cancelSteps": [
-    "Xserverアカウント(xapanel)にログイン",
-    "契約管理 → 対象サーバーの「契約情報」",
-    "「解約する」を選択し、注意事項に同意",
-    "解約申請完了メールを確認(契約期間満了で停止)"
-   ],
-   "cancelNotes": "初期費用無料。解約は契約期間満了日まで利用可能、途中解約の返金なし。自動更新設定をオフにするだけでも更新停止可。10日間無料お試し",
-   "paymentChannels": [
-    "web",
-    "bank",
-    "convenience"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "ホスティング",
-    "レンタルサーバー"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/xserver.png"
   },
   {
    "id": "zapier",
@@ -18160,112 +18318,6 @@
    "iconUrl": "https://catalog.uuuu.to/icons/beehiiv.png"
   },
   {
-   "id": "icloud-plus",
-   "name": "iCloud+",
-   "nameJa": "iCloud+",
-   "category": "software",
-   "brandColor": "#3693F3",
-   "website": "https://www.apple.com/jp/icloud/",
-   "cancelUrl": "https://support.apple.com/ja-jp/108047",
-   "accountUrl": "https://account.apple.com/",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "50gb",
-     "name": "50GB",
-     "price": 180,
-     "cycle": "monthly",
-     "notes": "2026年7月17日改定後の税込価格",
-     "currency": "JPY"
-    },
-    {
-     "id": "200gb",
-     "name": "200GB",
-     "price": 540,
-     "cycle": "monthly",
-     "notes": "ファミリー共有可",
-     "currency": "JPY"
-    },
-    {
-     "id": "2tb",
-     "name": "2TB",
-     "price": 1800,
-     "cycle": "monthly",
-     "notes": "ファミリー共有可",
-     "currency": "JPY"
-    },
-    {
-     "id": "6tb",
-     "name": "6TB",
-     "price": 5500,
-     "cycle": "monthly",
-     "notes": "",
-     "currency": "JPY"
-    },
-    {
-     "id": "12tb",
-     "name": "12TB",
-     "price": 11000,
-     "cycle": "monthly",
-     "notes": "",
-     "currency": "JPY"
-    }
-   ],
-   "cancelSteps": [
-    "iPhone/iPadの「設定」>自分の名前>「サブスクリプション」を開く",
-    "「iCloud+」をタップし「ストレージプランをダウングレード」または「無料プランに変更」を選ぶ",
-    "Apple Account のパスワードで認証し確定する",
-    "Macの場合は「システム設定」>Apple Account>「iCloud」>「管理」>「ストレージプランを変更」から操作"
-   ],
-   "cancelNotes": "ダウングレードは次回請求日に反映され、日割り返金はなし。無料5GBを超えるデータは30日以内に減らさないと同期が停止する。Apple Oneに含まれる場合はApple One側で解約。",
-   "paymentChannels": [
-    "apple",
-    "carrier"
-   ],
-   "priceHistory": [
-    {
-     "date": "2026-07-17",
-     "planId": "50gb",
-     "oldPrice": 150,
-     "newPrice": 180
-    },
-    {
-     "date": "2026-07-17",
-     "planId": "200gb",
-     "oldPrice": 450,
-     "newPrice": 540
-    },
-    {
-     "date": "2026-07-17",
-     "planId": "2tb",
-     "oldPrice": 1500,
-     "newPrice": 1800
-    },
-    {
-     "date": "2026-07-17",
-     "planId": "6tb",
-     "oldPrice": 4500,
-     "newPrice": 5500
-    },
-    {
-     "date": "2026-07-17",
-     "planId": "12tb",
-     "oldPrice": 9000,
-     "newPrice": 11000
-    }
-   ],
-   "tags": [
-    "クラウドストレージ",
-    "Apple",
-    "月払いのみ"
-   ],
-   "verifiedAt": "2026-10-21",
-   "aliases": [
-    "アイクラウド"
-   ],
-   "iconUrl": "https://catalog.uuuu.to/icons/icloud-plus.png"
-  },
-  {
    "id": "monday-com",
    "name": "monday.com",
    "nameJa": "monday.com",
@@ -18382,58 +18434,6 @@
    ],
    "verifiedAt": "2026-10-21",
    "iconUrl": "https://catalog.uuuu.to/icons/foryou-months.png"
-  },
-  {
-   "id": "pcloud",
-   "name": "pCloud",
-   "nameJa": "pCloud",
-   "aliases": [
-    "ピークラウド",
-    "ピーシークラウド"
-   ],
-   "category": "software",
-   "brandColor": "#20BEC6",
-   "website": "https://www.pcloud.com",
-   "cancelUrl": "https://www.pcloud.com/help/general-help-center/how-can-i-cancel-my-subscription",
-   "accountUrl": "https://my.pcloud.com/",
-   "freeTrialDays": 0,
-   "plans": [
-    {
-     "id": "premium-500gb-yearly",
-     "name": "Premium 500GB (年払い)",
-     "price": 7498,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 49.99,
-     "notes": "USD建て年額。ライフタイム版($219〜)は買い切りでサブスクではない"
-    },
-    {
-     "id": "premium-plus-2tb-yearly",
-     "name": "Premium Plus 2TB (年払い)",
-     "price": 14998,
-     "cycle": "yearly",
-     "currency": "USD",
-     "usdPrice": 99.99,
-     "notes": "USD建て年額。ライフタイム版($499)は買い切り"
-    }
-   ],
-   "cancelSteps": [
-    "my.pcloud.com にログイン",
-    "Settings → Account → Payment / Subscription",
-    "「Cancel subscription」(自動更新オフ)を選択",
-    "確認。期間末まで利用可"
-   ],
-   "cancelNotes": "月払いプランもあるが公式ページで金額を確認できず(未確認)。ライフタイムプランは一回払い(定期課金なし)",
-   "paymentChannels": [
-    "web"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "ストレージ",
-    "クラウド"
-   ],
-   "verifiedAt": "2026-10-21",
-   "iconUrl": "https://catalog.uuuu.to/icons/pcloud.png"
   },
   {
    "id": "v0",
