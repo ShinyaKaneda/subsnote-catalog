@@ -1,5 +1,5 @@
 {
- "version": 8,
+ "version": 9,
  "updatedAt": "2026-10-22",
  "idMigrations": {
   "niconico-premium": {
@@ -13362,6 +13362,124 @@
    ],
    "verifiedAt": "2026-10-21",
    "iconUrl": "https://catalog.uuuu.to/icons/linkedin.png"
+  },
+  {
+   "id": "meta-one",
+   "name": "Meta One",
+   "nameJa": "Meta One",
+   "aliases": [
+    "Meta",
+    "メタワン",
+    "メタ ワン",
+    "Instagram Plus",
+    "Facebook Plus",
+    "WhatsApp Plus",
+    "インスタ 有料",
+    "Meta One Core",
+    "Meta One Premium"
+   ],
+   "category": "sns",
+   "brandColor": "#0866FF",
+   "website": "https://about.meta.com/",
+   "cancelUrl": "https://accountscenter.instagram.com/",
+   "accountUrl": "https://accountscenter.instagram.com/",
+   "freeTrialDays": 7,
+   "plans": [
+    {
+     "id": "instagram-plus",
+     "name": "Instagram Plus",
+     "price": 319,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "単体プラン。2026-09 時点で日本のアプリ内に表示される税込価格（Impress Watch・ITmedia・neworder 等の報道で確認）。地域・アカウントにより異なる場合あり"
+    },
+    {
+     "id": "facebook-plus",
+     "name": "Facebook Plus",
+     "price": 319,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "単体プラン。2026-09 時点で日本のアプリ内に表示される税込価格（Impress Watch・ITmedia・neworder 等の報道で確認）。地域・アカウントにより異なる場合あり"
+    },
+    {
+     "id": "whatsapp-plus",
+     "name": "WhatsApp Plus",
+     "price": 239,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "単体プラン。2026-09 時点で日本のアプリ内に表示される税込価格（Impress Watch・ITmedia・neworder 等の報道で確認）。地域・アカウントにより異なる場合あり"
+    },
+    {
+     "id": "core",
+     "name": "Core",
+     "price": 949,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "個人向けバンドル（Instagram・Facebook・WhatsApp・Meta AI の拡張）。2026-09 時点で日本のアプリ内に表示される税込価格（Impress Watch・ITmedia・neworder 等の報道で確認）。地域・アカウントにより異なる場合あり"
+    },
+    {
+     "id": "premium",
+     "name": "Premium",
+     "price": 2900,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "個人向けバンドル。Meta AI のヘビーユーザー向け。2026-09 時点で日本のアプリ内に表示される税込価格（Impress Watch・ITmedia・neworder 等の報道で確認）。地域・アカウントにより異なる場合あり"
+    },
+    {
+     "id": "business-essential",
+     "name": "ビジネス Essential",
+     "price": 2000,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "クリエイター・ビジネス向け。認証バッジ・なりすまし対策。1アカウントごと・1週間無料体験。2026-09 時点で日本のアプリ内に表示される税込価格（Impress Watch・ITmedia・neworder 等の報道で確認）。地域・アカウントにより異なる場合あり"
+    },
+    {
+     "id": "business-advanced",
+     "name": "ビジネス Advanced",
+     "price": 5200,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "クリエイター・ビジネス向け。投稿・リールのリンクなど。2026-09 時点で日本のアプリ内に表示される税込価格（Impress Watch・ITmedia・neworder 等の報道で確認）。地域・アカウントにより異なる場合あり"
+    },
+    {
+     "id": "business-expert",
+     "name": "ビジネス Expert",
+     "price": 15800,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "クリエイター・ビジネス向け。2026-09 時点で日本のアプリ内に表示される税込価格（Impress Watch・ITmedia・neworder 等の報道で確認）。地域・アカウントにより異なる場合あり"
+    },
+    {
+     "id": "business-max",
+     "name": "ビジネス Max",
+     "price": 52000,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "クリエイター・ビジネス向け。2026-09 時点で日本のアプリ内に表示される税込価格（Impress Watch・ITmedia・neworder 等の報道で確認）。地域・アカウントにより異なる場合あり"
+    }
+   ],
+   "cancelSteps": [
+    "Instagram（または Facebook）アプリでプロフィール右上のメニューを開く",
+    "「設定とアクティビティ」→「サブスクリプション」で Meta One を選ぶ",
+    "「サブスクリプションを管理」→キャンセル",
+    "Apple/Google 経由で契約した場合は各ストアのサブスクリプション管理から解約"
+   ],
+   "cancelNotes": "いつでも解約でき、請求期間の末日まで特典を使える。ビジネスプランを解約すると認証バッジとなりすまし対策が外れる場合がある。加入しても広告は非表示にならない。",
+   "paymentChannels": [
+    "apple",
+    "google",
+    "web"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "Instagram",
+    "Facebook",
+    "WhatsApp",
+    "Meta AI",
+    "認証バッジ"
+   ],
+   "verifiedAt": "2026-10-22",
+   "iconUrl": "https://catalog.uuuu.to/icons/meta-one.png"
   },
   {
    "id": "meta-verified",
