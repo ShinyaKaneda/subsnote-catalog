@@ -1,6 +1,6 @@
 {
- "version": 18,
- "updatedAt": "2026-10-23",
+ "version": 19,
+ "updatedAt": "2026-10-24",
  "idMigrations": {
   "niconico-premium": {
    "id": "niconico",
@@ -18180,6 +18180,59 @@
    "iconUrl": "https://catalog.uuuu.to/icons/spark-mail.png?v=45171af0ab"
   },
   {
+   "id": "foryou-subsnote",
+   "name": "SubS",
+   "nameJa": "SubS",
+   "aliases": [
+    "サブスク手帳",
+    "SubsNote",
+    "サブスクてちょう",
+    "サブスク管理",
+    "forYou"
+   ],
+   "category": "software",
+   "brandColor": "#2F9E5B",
+   "website": "https://apps.apple.com/jp/app/id6825201600",
+   "cancelUrl": "https://apps.apple.com/account/subscriptions",
+   "accountUrl": "https://apps.apple.com/account/subscriptions",
+   "freeTrialDays": 7,
+   "plans": [
+    {
+     "id": "monthly",
+     "name": "Pro 月額",
+     "price": 100,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "notes": "7日間の無料トライアルあり。ファミリー共有可。"
+    },
+    {
+     "id": "yearly",
+     "name": "Pro 年額",
+     "price": 1000,
+     "cycle": "yearly",
+     "currency": "JPY",
+     "notes": "7日間の無料トライアルあり。ファミリー共有可。"
+    }
+   ],
+   "cancelSteps": [
+    "iPhone の「設定」→ 自分の名前 → 「サブスクリプション」を開く",
+    "対象アプリを選ぶ",
+    "「サブスクリプションをキャンセル」をタップ"
+   ],
+   "cancelNotes": "App Store 経由の契約のため、アプリ内ではなく iPhone の設定から解約します。解約後も請求期間の終了日まで利用できます。",
+   "paymentChannels": [
+    "apple"
+   ],
+   "priceHistory": [],
+   "tags": [
+    "サブスク管理",
+    "forYou inc."
+   ],
+   "verifiedAt": "2026-10-23",
+   "iconRev": "d569f5b566",
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-subsnote.png?v=d569f5b566"
+  },
+  {
    "id": "surfshark",
    "name": "Surfshark",
    "nameJa": "Surfshark",
@@ -19175,57 +19228,6 @@
    "verifiedAt": "2026-10-22",
    "iconRev": "5e4edd731a",
    "iconUrl": "https://catalog.uuuu.to/icons/kaspersky.png?v=5e4edd731a"
-  },
-  {
-   "id": "foryou-subsnote",
-   "name": "SubsNote",
-   "nameJa": "サブスク手帳",
-   "aliases": [
-    "サブスクてちょう",
-    "サブスク管理",
-    "forYou"
-   ],
-   "category": "software",
-   "brandColor": "#2F9E5B",
-   "website": "https://apps.apple.com/jp/app/id6825201600",
-   "cancelUrl": "https://apps.apple.com/account/subscriptions",
-   "accountUrl": "https://apps.apple.com/account/subscriptions",
-   "freeTrialDays": 7,
-   "plans": [
-    {
-     "id": "monthly",
-     "name": "Pro 月額",
-     "price": 100,
-     "cycle": "monthly",
-     "currency": "JPY",
-     "notes": "7日間の無料トライアルあり。ファミリー共有可。"
-    },
-    {
-     "id": "yearly",
-     "name": "Pro 年額",
-     "price": 1000,
-     "cycle": "yearly",
-     "currency": "JPY",
-     "notes": "7日間の無料トライアルあり。ファミリー共有可。"
-    }
-   ],
-   "cancelSteps": [
-    "iPhone の「設定」→ 自分の名前 → 「サブスクリプション」を開く",
-    "対象アプリを選ぶ",
-    "「サブスクリプションをキャンセル」をタップ"
-   ],
-   "cancelNotes": "App Store 経由の契約のため、アプリ内ではなく iPhone の設定から解約します。解約後も請求期間の終了日まで利用できます。",
-   "paymentChannels": [
-    "apple"
-   ],
-   "priceHistory": [],
-   "tags": [
-    "サブスク管理",
-    "forYou inc."
-   ],
-   "verifiedAt": "2026-10-23",
-   "iconRev": "d569f5b566",
-   "iconUrl": "https://catalog.uuuu.to/icons/foryou-subsnote.png?v=d569f5b566"
   },
   {
    "id": "norton-360",
