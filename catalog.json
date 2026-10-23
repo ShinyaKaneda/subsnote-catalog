@@ -1,6 +1,6 @@
 {
- "version": 13,
- "updatedAt": "2026-10-22",
+ "version": 14,
+ "updatedAt": "2026-10-23",
  "idMigrations": {
   "niconico-premium": {
    "id": "niconico",
@@ -19195,7 +19195,7 @@
     {
      "id": "monthly",
      "name": "Pro 月額",
-     "price": 150,
+     "price": 100,
      "cycle": "monthly",
      "currency": "JPY",
      "notes": "7日間の無料トライアルあり。ファミリー共有可。"
@@ -19203,7 +19203,7 @@
     {
      "id": "yearly",
      "name": "Pro 年額",
-     "price": 980,
+     "price": 1000,
      "cycle": "yearly",
      "currency": "JPY",
      "notes": "7日間の無料トライアルあり。ファミリー共有可。"
@@ -19223,7 +19223,7 @@
     "サブスク管理",
     "forYou inc."
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-10-23",
    "iconRev": "7807ea353a",
    "iconUrl": "https://catalog.uuuu.to/icons/foryou-subsnote.png?v=7807ea353a"
   },
