@@ -1,5 +1,5 @@
 {
- "version": 17,
+ "version": 18,
  "updatedAt": "2026-10-23",
  "idMigrations": {
   "niconico-premium": {
@@ -19224,8 +19224,8 @@
     "forYou inc."
    ],
    "verifiedAt": "2026-10-23",
-   "iconRev": "d8cc74cd87",
-   "iconUrl": "https://catalog.uuuu.to/icons/foryou-subsnote.png?v=d8cc74cd87"
+   "iconRev": "d569f5b566",
+   "iconUrl": "https://catalog.uuuu.to/icons/foryou-subsnote.png?v=d569f5b566"
   },
   {
    "id": "norton-360",
