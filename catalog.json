@@ -1,6 +1,6 @@
 {
- "version": 19,
- "updatedAt": "2026-10-24",
+ "version": 20,
+ "updatedAt": "2026-10-27",
  "idMigrations": {
   "niconico-premium": {
    "id": "niconico",
@@ -10970,8 +10970,8 @@
    "aliases": [
     "アップルミュージック"
    ],
-   "iconRev": "61ee2d942c",
-   "iconUrl": "https://catalog.uuuu.to/icons/apple-music.png?v=61ee2d942c"
+   "iconRev": "b844095a95",
+   "iconUrl": "https://catalog.uuuu.to/icons/apple-music.png?v=b844095a95"
   },
   {
    "id": "apple-one",
