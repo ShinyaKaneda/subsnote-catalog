@@ -1,6 +1,6 @@
 {
- "version": 21,
- "updatedAt": "2026-10-27",
+ "version": 22,
+ "updatedAt": "2026-11-08",
  "idMigrations": {
   "niconico-premium": {
    "id": "niconico",
@@ -11662,6 +11662,48 @@
    ],
    "iconRev": "2ea601daeb",
    "iconUrl": "https://catalog.uuuu.to/icons/d-hits.png?v=2ea601daeb"
+  },
+  {
+   "id": "itunes-match",
+   "name": "iTunes Match",
+   "nameJa": "アイチューンズマッチ",
+   "category": "music",
+   "brandColor": "#000000",
+   "website": "https://support.apple.com/ja-jp/108935",
+   "cancelUrl": "https://support.apple.com/ja-jp/118428",
+   "accountUrl": "https://account.apple.com/",
+   "plans": [
+    {
+     "id": "yearly",
+     "name": "iTunes Match（年額）",
+     "price": 3980,
+     "cycle": "yearly",
+     "notes": "CD から取り込んだ曲なども iCloud に保存し、iPhone・iPad・Mac・Windows で聴ける。1年ごとに自動更新",
+     "currency": "JPY"
+    }
+   ],
+   "cancelSteps": [
+    "iPhoneの「設定」>自分の名前>「サブスクリプション」を開く",
+    "「iTunes Match」を選び「サブスクリプションをキャンセルする」をタップ",
+    "確認して完了（Mac はミュージック App >「アカウント」>「アカウント設定」>「サブスクリプション」の「管理」から）"
+   ],
+   "cancelNotes": "期間満了まで利用可、日割りなし。Apple Music に加入していれば iTunes Match がなくてもライブラリの同期は使える。",
+   "paymentChannels": [
+    "apple"
+   ],
+   "priceHistory": [],
+   "aliases": [
+    "iTunesマッチ"
+   ],
+   "tags": [
+    "音楽",
+    "iCloud",
+    "ライブラリ同期"
+   ],
+   "verifiedAt": "2026-11-08",
+   "freeTrialDays": 0,
+   "iconRev": "c34567887d",
+   "iconUrl": "https://catalog.uuuu.to/icons/itunes-match.png?v=c34567887d"
   },
   {
    "id": "pokekara-vip",
