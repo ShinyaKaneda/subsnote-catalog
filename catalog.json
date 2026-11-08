@@ -1,5 +1,5 @@
 {
- "version": 24,
+ "version": 25,
  "updatedAt": "2026-11-08",
  "idMigrations": {
   "niconico-premium": {
@@ -11730,7 +11730,7 @@
   {
    "id": "itunes-match",
    "name": "iTunes Match",
-   "nameJa": "アイチューンズマッチ",
+   "nameJa": "iTunes Match",
    "category": "music",
    "brandColor": "#000000",
    "website": "https://support.apple.com/ja-jp/108935",
@@ -11757,6 +11757,7 @@
    ],
    "priceHistory": [],
    "aliases": [
+    "アイチューンズマッチ",
     "iTunesマッチ"
    ],
    "tags": [
