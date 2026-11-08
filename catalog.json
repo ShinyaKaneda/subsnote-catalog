@@ -119,6 +119,13 @@
      "cycle": "monthly",
      "currency": "JPY",
      "notes": "日本App Store App内課金。Web決済は$30/月（USD建て）"
+    },
+    {
+     "id": "max-yearly-apple",
+     "name": "Max（年額）",
+     "price": 60000,
+     "cycle": "yearly",
+     "currency": "JPY"
     }
    ],
    "cancelSteps": [
@@ -135,7 +142,7 @@
     "AI音声入力",
     "ディクテーション"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "8316f6facb",
    "iconUrl": "https://catalog.uuuu.to/icons/aqua-voice.png?v=8316f6facb"
   },
@@ -260,7 +267,7 @@
     },
     {
      "id": "max-5x",
-     "name": "Max 5x",
+     "name": "Max",
      "price": 15000,
      "cycle": "monthly",
      "notes": "USD建て $100/月。円換算はアプリ起動時の為替レート",
@@ -269,7 +276,7 @@
     },
     {
      "id": "max-20x",
-     "name": "Max 20x",
+     "name": "Ultra",
      "price": 30000,
      "cycle": "monthly",
      "notes": "USD建て $200/月。円換算はアプリ起動時の為替レート",
@@ -296,7 +303,7 @@
     "Anthropic",
     "USD建て"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "Claude Pro / Max",
     "クロード",
@@ -353,7 +360,7 @@
    "tags": [
     "AIライティング"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "d3f38ba45a",
    "iconUrl": "https://catalog.uuuu.to/icons/copy-ai.png?v=d3f38ba45a"
   },
@@ -448,7 +455,7 @@
     "開発",
     "エディタ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "bfc425a1ba",
    "iconUrl": "https://catalog.uuuu.to/icons/cursor.png?v=bfc425a1ba"
   },
@@ -509,7 +516,7 @@
     "生成AI",
     "音声合成"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "c79db6a43e",
    "iconUrl": "https://catalog.uuuu.to/icons/elevenlabs.png?v=c79db6a43e"
   },
@@ -699,7 +706,7 @@
     "コーディング",
     "USD建て"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "GitHub Copilot Pro / Pro+",
     "ギットハブ",
@@ -769,7 +776,7 @@
     "Gemini",
     "Google"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "Google AI Pro（旧 Gemini Advanced）",
     "ジェミニ",
@@ -833,7 +840,7 @@
     "AIアバター動画",
     "AI動画生成"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "af8545bd9e",
    "iconUrl": "https://catalog.uuuu.to/icons/heygen.png?v=af8545bd9e"
   },
@@ -946,7 +953,7 @@
     "AIライティング",
     "マーケティング"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "d8622b86bf",
    "iconUrl": "https://catalog.uuuu.to/icons/jasper.png?v=d8622b86bf"
   },
@@ -1006,7 +1013,7 @@
     "AI画像生成",
     "クレジット制"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "325fa4dcd9",
    "iconUrl": "https://catalog.uuuu.to/icons/kling-ai.png?v=325fa4dcd9"
   },
@@ -1065,7 +1072,7 @@
     "AI画像生成",
     "AI動画生成"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "bf0450e014",
    "iconUrl": "https://catalog.uuuu.to/icons/leonardo-ai.png?v=bf0450e014"
   },
@@ -1197,7 +1204,7 @@
     "生成AI",
     "検索"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "6868a59a67",
    "iconUrl": "https://catalog.uuuu.to/icons/perplexity-pro.png?v=6868a59a67"
   },
@@ -1260,7 +1267,7 @@
    "tags": [
     "AI動画生成"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "2e68c1648b",
    "iconUrl": "https://catalog.uuuu.to/icons/pika.png?v=2e68c1648b"
   },
@@ -1321,7 +1328,7 @@
     "生成AI",
     "動画生成"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "162b5ae798",
    "iconUrl": "https://catalog.uuuu.to/icons/runway.png?v=162b5ae798"
   },
@@ -1375,7 +1382,7 @@
     "生成AI",
     "音楽生成"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "13d31f6107",
    "iconUrl": "https://catalog.uuuu.to/icons/suno.png?v=13d31f6107"
   },
@@ -1437,7 +1444,7 @@
    "tags": [
     "生成AI"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "iconRev": "4591b27e11",
    "iconUrl": "https://catalog.uuuu.to/icons/supergrok.png?v=4591b27e11"
   },
@@ -1461,7 +1468,7 @@
      "price": 4350,
      "cycle": "monthly",
      "currency": "USD",
-     "usdPrice": 29,
+     "usdPrice": 19,
      "notes": "USD建て（公式料金ページで確認）。年払いは$18/月相当"
     },
     {
@@ -1470,7 +1477,7 @@
      "price": 32400,
      "cycle": "yearly",
      "currency": "USD",
-     "usdPrice": 216,
+     "usdPrice": 168,
      "notes": "USD建て。$18/月相当"
     },
     {
@@ -1497,7 +1504,7 @@
     "AIアバター動画",
     "AI動画生成"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "45d733a754",
    "iconUrl": "https://catalog.uuuu.to/icons/synthesia.png?v=45d733a754"
   },
@@ -1556,9 +1563,53 @@
     "AI音声入力",
     "ディクテーション"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "873912234c",
    "iconUrl": "https://catalog.uuuu.to/icons/typeless.png?v=873912234c"
+  },
+  {
+   "id": "alexa-plus",
+   "name": "Alexa+",
+   "nameJa": "アレクサプラス",
+   "category": "ai",
+   "brandColor": "#1A98D5",
+   "website": "https://www.amazon.co.jp/dp/B0H4ND7ZTS",
+   "cancelUrl": "https://www.amazon.co.jp/mc",
+   "accountUrl": "https://www.amazon.co.jp/mc",
+   "freeTrialDays": 0,
+   "plans": [
+    {
+     "id": "monthly",
+     "name": "Alexa+（月額）",
+     "price": 3000,
+     "cycle": "monthly",
+     "notes": "Amazon プライム会員は追加料金なし。2026-10-29 から日本で早期アクセス（無料）。早期アクセス終了後もプライム会員以外が自動で有料になることはない",
+     "currency": "JPY"
+    }
+   ],
+   "cancelSteps": [
+    "Amazon の「アカウントサービス」>「メンバーシップおよび購読」を開く",
+    "「Alexa+」を選んで登録をキャンセルする",
+    "プライム会員として使っている場合は、プライム会員を続ける限り追加料金はかからない"
+   ],
+   "cancelNotes": "早期アクセス中は無料。正式提供後はプライム会員以外が月額3,000円。",
+   "paymentChannels": [
+    "web"
+   ],
+   "priceHistory": [],
+   "aliases": [
+    "アレクサ プラス",
+    "Alexa Plus",
+    "アレクサ"
+   ],
+   "tags": [
+    "AI",
+    "音声アシスタント",
+    "Echo"
+   ],
+   "verifiedAt": "2026-11-08",
+   "iconRev": "44bde3a3e7",
+   "iconUrl": "https://catalog.uuuu.to/icons/alexa-plus.png?v=44bde3a3e7"
   },
   {
    "id": "amazon-kids-plus",
@@ -1694,7 +1745,7 @@
     "雑誌",
     "KADOKAWA"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ブックウォーカー"
    ],
@@ -1859,7 +1910,7 @@
     "Yahoo!",
     "LINE"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ワイプレ",
     "Yahoo!プレミアム",
@@ -1913,7 +1964,7 @@
     "読み放題",
     "ドコモ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ディーマガジン"
    ],
@@ -1968,7 +2019,7 @@
     "本の要約",
     "ビジネス書"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "ee349f72f9",
    "iconUrl": "https://catalog.uuuu.to/icons/flier.png?v=ee349f72f9"
   },
@@ -2120,7 +2171,7 @@
     "マンガ",
     "ポイント制"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "f676964f6d",
    "iconUrl": "https://catalog.uuuu.to/icons/mechacomic.png?v=f676964f6d"
   },
@@ -2172,7 +2223,7 @@
     "マンガ",
     "雑誌読み放題"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "9d530a5f8d",
    "iconUrl": "https://catalog.uuuu.to/icons/comic-days.png?v=9d530a5f8d"
   },
@@ -2340,7 +2391,7 @@
     "au",
     "KDDI"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "edb516508c",
    "iconUrl": "https://catalog.uuuu.to/icons/bookpass.png?v=edb516508c"
   },
@@ -2384,7 +2435,7 @@
     "読み放題",
     "ソフトバンク"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ブックホウダイ"
    ],
@@ -2441,7 +2492,7 @@
     "講談社",
     "雑誌"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "d8341a38e7",
    "iconUrl": "https://catalog.uuuu.to/icons/magapoke.png?v=d8341a38e7"
   },
@@ -2511,7 +2562,7 @@
     "週刊少年ジャンプ",
     "集英社"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ジャンププラス",
     "ジャンプ+"
@@ -2587,7 +2638,7 @@
     "読み放題",
     "楽天"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [],
    "iconRev": "77a8a55914",
    "iconUrl": "https://catalog.uuuu.to/icons/rakuten-magazine.png?v=77a8a55914"
@@ -2640,7 +2691,7 @@
     "バックアップ",
     "ストレージ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "dd0ad8d37e",
    "iconUrl": "https://catalog.uuuu.to/icons/backblaze.png?v=dd0ad8d37e"
   },
@@ -2744,7 +2795,7 @@
     "CDN",
     "インフラ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "d35dd60f0f",
    "iconUrl": "https://catalog.uuuu.to/icons/cloudflare.png?v=d35dd60f0f"
   },
@@ -2806,7 +2857,7 @@
     "メディア",
     "CDN"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "5ed59f6e7d",
    "iconUrl": "https://catalog.uuuu.to/icons/cloudinary.png?v=5ed59f6e7d"
   },
@@ -2868,7 +2919,7 @@
     "監視",
     "インフラ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "f0d5c4221c",
    "iconUrl": "https://catalog.uuuu.to/icons/datadog.png?v=f0d5c4221c"
   },
@@ -2949,7 +3000,7 @@
    "tags": [
     "クラウドストレージ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ドロップボックス"
    ],
@@ -3022,7 +3073,7 @@
     "ノーコード",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "9a1a725b75",
    "iconUrl": "https://catalog.uuuu.to/icons/framer.png?v=9a1a725b75"
   },
@@ -3066,7 +3117,7 @@
     "Git",
     "DevOps"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "7c991a82c8",
    "iconUrl": "https://catalog.uuuu.to/icons/gitlab.png?v=7c991a82c8"
   },
@@ -3269,7 +3320,7 @@
     "ホスティング",
     "PaaS"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "05a1eefeaf",
    "iconUrl": "https://catalog.uuuu.to/icons/heroku.png?v=05a1eefeaf"
   },
@@ -3293,7 +3344,7 @@
      "price": 2217,
      "cycle": "yearly",
      "currency": "USD",
-     "usdPrice": 14.78,
+     "usdPrice": 19.98,
      "notes": "USD建て、.com 1件あたりの年間更新料(第三者集計による2026年7月時点、未確認)。初年度登録は割引価格"
     }
    ],
@@ -3312,7 +3363,7 @@
     "ドメイン",
     "開発"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "iconRev": "5ff58f6aef",
    "iconUrl": "https://catalog.uuuu.to/icons/namecheap.png?v=5ff58f6aef"
   },
@@ -3365,7 +3416,7 @@
     "開発",
     "ホスティング"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "5f17ca6d13",
    "iconUrl": "https://catalog.uuuu.to/icons/netlify.png?v=5f17ca6d13"
   },
@@ -3417,7 +3468,7 @@
     "開発",
     "データベース"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "0a3333adcf",
    "iconUrl": "https://catalog.uuuu.to/icons/planetscale.png?v=0a3333adcf"
   },
@@ -3484,7 +3535,7 @@
     "メール",
     "セキュリティ"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "iconRev": "8237e64ede",
    "iconUrl": "https://catalog.uuuu.to/icons/proton.png?v=8237e64ede"
   },
@@ -3538,7 +3589,7 @@
     "ホスティング",
     "PaaS"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "281c9a4d2d",
    "iconUrl": "https://catalog.uuuu.to/icons/railway.png?v=281c9a4d2d"
   },
@@ -3591,7 +3642,7 @@
     "ホスティング",
     "PaaS"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "e155c83a13",
    "iconUrl": "https://catalog.uuuu.to/icons/render.png?v=e155c83a13"
   },
@@ -3644,7 +3695,7 @@
     "監視",
     "エラートラッキング"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "9ba7174def",
    "iconUrl": "https://catalog.uuuu.to/icons/sentry.png?v=9ba7174def"
   },
@@ -3719,7 +3770,7 @@
     "ネットショップ",
     "ビジネス"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "a657e5786e",
    "iconUrl": "https://catalog.uuuu.to/icons/shopify.png?v=a657e5786e"
   },
@@ -3793,7 +3844,7 @@
     "ホームページ",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "84f9a7fb41",
    "iconUrl": "https://catalog.uuuu.to/icons/squarespace.png?v=84f9a7fb41"
   },
@@ -3847,7 +3898,7 @@
     "データベース",
     "BaaS"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "2ba671d792",
    "iconUrl": "https://catalog.uuuu.to/icons/supabase.png?v=2ba671d792"
   },
@@ -3962,7 +4013,7 @@
     "データベース",
     "Redis"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "3800fb0fde",
    "iconUrl": "https://catalog.uuuu.to/icons/upstash.png?v=3800fb0fde"
   },
@@ -4006,7 +4057,7 @@
     "開発",
     "ホスティング"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "4fe1872254",
    "iconUrl": "https://catalog.uuuu.to/icons/vercel.png?v=4fe1872254"
   },
@@ -4206,7 +4257,7 @@
     "Webサイト制作",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "4dacf3b24c",
    "iconUrl": "https://catalog.uuuu.to/icons/wordpress-com.png?v=4dacf3b24c"
   },
@@ -4266,7 +4317,7 @@
     "ホスティング",
     "レンタルサーバー"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "iconRev": "d4fb2be7f9",
    "iconUrl": "https://catalog.uuuu.to/icons/xserver.png?v=d4fb2be7f9"
   },
@@ -4370,7 +4421,7 @@
     "Apple",
     "月払いのみ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "アイクラウド"
    ],
@@ -4478,7 +4529,7 @@
     "ファンクラブ",
     "同人"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "52fdc2a8d0",
    "iconUrl": "https://catalog.uuuu.to/icons/fantia.png?v=52fdc2a8d0"
   },
@@ -4908,7 +4959,7 @@
     "イラスト",
     "クリエイター"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "54b2da01d6",
    "iconUrl": "https://catalog.uuuu.to/icons/pixiv-premium.png?v=54b2da01d6"
   },
@@ -4959,7 +5010,7 @@
    "tags": [
     "マッチングアプリ"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "iconRev": "e34e3a3711",
    "iconUrl": "https://catalog.uuuu.to/icons/bumble.png?v=e34e3a3711"
   },
@@ -5138,7 +5189,7 @@
    "tags": [
     "マッチングアプリ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "e48bdc8b4e",
    "iconUrl": "https://catalog.uuuu.to/icons/pairs.png?v=e48bdc8b4e"
   },
@@ -5198,7 +5249,7 @@
    "tags": [
     "マッチングアプリ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "91fb27f929",
    "iconUrl": "https://catalog.uuuu.to/icons/tinder.png?v=91fb27f929"
   },
@@ -5240,7 +5291,7 @@
    "tags": [
     "マッチングアプリ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "8412213cf5",
    "iconUrl": "https://catalog.uuuu.to/icons/with.png?v=8412213cf5"
   },
@@ -5346,7 +5397,7 @@
     "ビジネス英会話",
     "オンライン英会話"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "35dd075181",
    "iconUrl": "https://catalog.uuuu.to/icons/bizmates.png?v=35dd075181"
   },
@@ -5399,7 +5450,7 @@
     "科学",
     "インタラクティブ学習"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "2edd9cf727",
    "iconUrl": "https://catalog.uuuu.to/icons/brilliant.png?v=2edd9cf727"
   },
@@ -5444,7 +5495,7 @@
     "オンライン英会話",
     "未確認"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "1a64ff0def",
    "iconUrl": "https://catalog.uuuu.to/icons/cambly.png?v=1a64ff0def"
   },
@@ -5505,7 +5556,7 @@
    "tags": [
     "プログラミング学習"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "6f0bdfc1dd",
    "iconUrl": "https://catalog.uuuu.to/icons/codecademy.png?v=6f0bdfc1dd"
   },
@@ -5527,7 +5578,7 @@
     {
      "id": "monthly",
      "name": "Coursera Plus 月額",
-     "price": 9219,
+     "price": 9303,
      "cycle": "monthly",
      "currency": "JPY",
      "notes": "公式ページ日本向け表示（2026-10）¥9,219/月。7日間無料体験"
@@ -5535,7 +5586,7 @@
     {
      "id": "yearly",
      "name": "Coursera Plus 年額",
-     "price": 62349,
+     "price": 62916,
      "cycle": "yearly",
      "currency": "JPY",
      "notes": "¥62,349/年。無料体験なし・14日間返金保証。セール時は大幅割引あり"
@@ -5552,13 +5603,26 @@
     "apple",
     "google"
    ],
-   "priceHistory": [],
+   "priceHistory": [
+    {
+     "date": "2026-11-08",
+     "planId": "monthly",
+     "oldPrice": 9219,
+     "newPrice": 9303
+    },
+    {
+     "date": "2026-11-08",
+     "planId": "yearly",
+     "oldPrice": 62349,
+     "newPrice": 62916
+    }
+   ],
    "tags": [
     "MOOC",
     "オンライン講座",
     "大学"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "ef63624294",
    "iconUrl": "https://catalog.uuuu.to/icons/coursera-plus.png?v=ef63624294"
   },
@@ -5576,7 +5640,7 @@
    "website": "https://eikaiwa.dmm.com/",
    "cancelUrl": "https://eikaiwa.dmm.com/plan/",
    "accountUrl": "https://eikaiwa.dmm.com/",
-   "freeTrialDays": 0,
+   "freeTrialDays": 7,
    "plans": [
     {
      "id": "std-8",
@@ -5629,7 +5693,7 @@
     "英語",
     "オンライン英会話"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "b39f81033a",
    "iconUrl": "https://catalog.uuuu.to/icons/dmm-eikaiwa.png?v=b39f81033a"
   },
@@ -5765,7 +5829,7 @@
     "英会話",
     "オンラインレッスン"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "ff29fc9b5a",
    "iconUrl": "https://catalog.uuuu.to/icons/ecc-online.png?v=ff29fc9b5a"
   },
@@ -5878,7 +5942,7 @@
     "ビジネススキル",
     "動画学習"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "8dc3057f5e",
    "iconUrl": "https://catalog.uuuu.to/icons/globis-manabihodai.png?v=8dc3057f5e"
   },
@@ -5937,7 +6001,7 @@
     "オンライン英会話",
     "学研"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "11e8d29e4d",
    "iconUrl": "https://catalog.uuuu.to/icons/kimini.png?v=11e8d29e4d"
   },
@@ -6058,7 +6122,7 @@
     "オンライン英会話",
     "NOVA"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "e195adf6f0",
    "iconUrl": "https://catalog.uuuu.to/icons/nova-ochanoma.png?v=e195adf6f0"
   },
@@ -6236,7 +6300,7 @@
     "小学生",
     "タブレット"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "3be657836b",
    "iconUrl": "https://catalog.uuuu.to/icons/risu-sansu.png?v=3be657836b"
   },
@@ -6294,7 +6358,7 @@
     "生放送学習",
     "7日間無料"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "スクー"
    ],
@@ -6417,7 +6481,7 @@
     "英語",
     "AI英会話"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "c8612e29e2",
    "iconUrl": "https://catalog.uuuu.to/icons/speak.png?v=c8612e29e2"
   },
@@ -6467,7 +6531,7 @@
     "7日間無料",
     "未確認"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ユーデミー"
    ],
@@ -6574,7 +6638,7 @@
     "TOEIC",
     "英検"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "e43de53c1e",
    "iconUrl": "https://catalog.uuuu.to/icons/abceed.png?v=e43de53c1e"
   },
@@ -6618,7 +6682,7 @@
     "通信教育",
     "未確認"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "695ff72691",
    "iconUrl": "https://catalog.uuuu.to/icons/kodomo-challenge.png?v=695ff72691"
   },
@@ -6693,7 +6757,7 @@
     "14日間無料",
     "TOEIC"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "スタサプ"
    ],
@@ -6748,7 +6812,7 @@
     "英語",
     "AI英会話"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "18c9d6381b",
    "iconUrl": "https://catalog.uuuu.to/icons/speakbuddy.png?v=18c9d6381b"
   },
@@ -6888,7 +6952,7 @@
     "オンライン英会話",
     "受け放題"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "aaf57eb027",
    "iconUrl": "https://catalog.uuuu.to/icons/nativecamp.png?v=aaf57eb027"
   },
@@ -6988,7 +7052,7 @@
     "小学生",
     "紙教材"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "ac3e03f57d",
    "iconUrl": "https://catalog.uuuu.to/icons/popy-shogaku.png?v=ac3e03f57d"
   },
@@ -7116,7 +7180,7 @@
     "家計簿",
     "資産管理"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "6755d4d24d",
    "iconUrl": "https://catalog.uuuu.to/icons/moneytree-grow.png?v=6755d4d24d"
   },
@@ -7179,7 +7243,7 @@
     "夫婦",
     "共有"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "0a8b0d8866",
    "iconUrl": "https://catalog.uuuu.to/icons/osidori-premium.png?v=0a8b0d8866"
   },
@@ -7247,7 +7311,7 @@
     "海外送金",
     "デビットカード"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "7784baff74",
    "iconUrl": "https://catalog.uuuu.to/icons/revolut.png?v=7784baff74"
   },
@@ -7297,7 +7361,7 @@
    "tags": [
     "家計簿"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "5be11e2f68",
    "iconUrl": "https://catalog.uuuu.to/icons/zaim-premium.png?v=5be11e2f68"
   },
@@ -7372,7 +7436,7 @@
     "確定申告",
     "個人事業主"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "3e7ca76c06",
    "iconUrl": "https://catalog.uuuu.to/icons/freee-kaikei-personal.png?v=3e7ca76c06"
   },
@@ -7437,7 +7501,7 @@
     "確定申告",
     "個人事業主"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "64ba3f4231",
    "iconUrl": "https://catalog.uuuu.to/icons/yayoi-aoiro-online.png?v=64ba3f4231"
   },
@@ -7532,7 +7596,7 @@
     "家計簿",
     "資産管理"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "ac8f0eb050",
    "iconUrl": "https://catalog.uuuu.to/icons/moneyforward-me.png?v=ac8f0eb050"
   },
@@ -7588,7 +7652,7 @@
     "法人",
     "バックオフィス"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "7db020057c",
    "iconUrl": "https://catalog.uuuu.to/icons/moneyforward-cloud.png?v=7db020057c"
   },
@@ -7637,7 +7701,7 @@
     "Apple",
     "1か月無料"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "アップルフィットネス"
    ],
@@ -7711,7 +7775,7 @@
     "AI",
     "日記"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "4e4947a1e5",
    "iconUrl": "https://catalog.uuuu.to/icons/awarefy.png?v=4e4947a1e5"
   },
@@ -7764,7 +7828,7 @@
     "睡眠",
     "メンタル"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "1b29aac6d8",
    "iconUrl": "https://catalog.uuuu.to/icons/calm.png?v=1b29aac6d8"
   },
@@ -7805,7 +7869,7 @@
     "ストア課金",
     "未確認"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "フィンク"
    ],
@@ -7860,7 +7924,7 @@
     "AI",
     "ランニング"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "bf9526cf23",
    "iconUrl": "https://catalog.uuuu.to/icons/garmin-connect-plus.png?v=bf9526cf23"
   },
@@ -7920,7 +7984,7 @@
     "健康",
     "睡眠"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "iconRev": "496348ec63",
    "iconUrl": "https://catalog.uuuu.to/icons/google-health-premium.png?v=496348ec63"
   },
@@ -7973,7 +8037,7 @@
     "メンタル",
     "未確認"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "344fe80f62",
    "iconUrl": "https://catalog.uuuu.to/icons/headspace.png?v=344fe80f62"
   },
@@ -8194,7 +8258,7 @@
     "フィットネス",
     "食事記録"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "2ea3d90959",
    "iconUrl": "https://catalog.uuuu.to/icons/myfitnesspal.png?v=2ea3d90959"
   },
@@ -8247,7 +8311,7 @@
     "睡眠",
     "ウェアラブル"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "4c48215a82",
    "iconUrl": "https://catalog.uuuu.to/icons/oura-membership.png?v=4c48215a82"
   },
@@ -8299,7 +8363,7 @@
     "オンラインヨガ",
     "フィットネス"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "d9c611220b",
    "iconUrl": "https://catalog.uuuu.to/icons/soelu.png?v=d9c611220b"
   },
@@ -8366,7 +8430,7 @@
     "サイクリング",
     "GPS"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "1346c1905a",
    "iconUrl": "https://catalog.uuuu.to/icons/strava.png?v=1346c1905a"
   },
@@ -8487,7 +8551,7 @@
     "ランニング",
     "トレーニング"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "2aa9b35d6a",
    "iconUrl": "https://catalog.uuuu.to/icons/zwift.png?v=2aa9b35d6a"
   },
@@ -8537,7 +8601,7 @@
     "10日締め",
     "入会金0円"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "チョコザップ",
     "ちょこざっぷ"
@@ -8592,7 +8656,7 @@
     "7日間無料",
     "ストア課金"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "アスケン"
    ],
@@ -8707,7 +8771,7 @@
     "翌月末退会",
     "継続コース違約金"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [],
    "iconRev": "abc8db007f",
    "iconUrl": "https://catalog.uuuu.to/icons/curves.png?v=abc8db007f"
@@ -8934,7 +8998,7 @@
     "レシピ",
     "料理動画"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "053791d8e6",
    "iconUrl": "https://catalog.uuuu.to/icons/delish-kitchen-premium.png?v=053791d8e6"
   },
@@ -9172,7 +9236,7 @@
     "定期便",
     "スペシャルティコーヒー"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "9af1d88b0f",
    "iconUrl": "https://catalog.uuuu.to/icons/postcoffee.png?v=9af1d88b0f"
   },
@@ -9357,7 +9421,7 @@
     "レシピ",
     "料理"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "edec75ac55",
    "iconUrl": "https://catalog.uuuu.to/icons/cookpad-premium.png?v=edec75ac55"
   },
@@ -9626,7 +9690,7 @@
     "ランキング",
     "クーポン"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "eb0d3eff32",
    "iconUrl": "https://catalog.uuuu.to/icons/tabelog-premium.png?v=eb0d3eff32"
   },
@@ -9681,7 +9745,7 @@
     "モバイル",
     "広告なし"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "アップルアーケード"
    ],
@@ -9756,7 +9820,7 @@
     "ゲーム",
     "サブスク"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "dd5805b03e",
    "iconUrl": "https://catalog.uuuu.to/icons/ea-play.png?v=dd5805b03e"
   },
@@ -9927,7 +9991,7 @@
     "ゲーム",
     "マルチプレイ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "d42449caa1",
    "iconUrl": "https://catalog.uuuu.to/icons/minecraft-realms.png?v=d42449caa1"
   },
@@ -10047,7 +10111,7 @@
     "レトロゲーム",
     "任天堂"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ニンテンドースイッチオンライン",
     "スイッチオンライン",
@@ -10233,7 +10297,7 @@
     "ゲーム",
     "睡眠"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "bbbdb8a1ef",
    "iconUrl": "https://catalog.uuuu.to/icons/pokemon-sleep-premium.png?v=bbbdb8a1ef"
   },
@@ -10296,7 +10360,7 @@
     "ゲーム",
     "子ども"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "dc99256e78",
    "iconUrl": "https://catalog.uuuu.to/icons/roblox-premium.png?v=dc99256e78"
   },
@@ -10647,7 +10711,7 @@
     "電動自転車",
     "ドコモ"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "iconRev": "d286e9b7a4",
    "iconUrl": "https://catalog.uuuu.to/icons/docomo-bikeshare.png?v=d286e9b7a4"
   },
@@ -10760,7 +10824,7 @@
     "歌詞",
     "ラウンジ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "アワ"
    ],
@@ -10870,7 +10934,7 @@
     "ポッドキャスト",
     "オーディオブック"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "アマゾン ミュージック アンリミテッド",
     "アマゾンミュージック",
@@ -10966,7 +11030,7 @@
     "ロスレス",
     "空間オーディオ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "アップルミュージック"
    ],
@@ -11032,7 +11096,7 @@
     "ゲーム",
     "クラウド"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "アップルワン"
    ],
@@ -11085,7 +11149,7 @@
     "Amazon",
     "ポッドキャスト"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "オーディブル"
    ],
@@ -11147,7 +11211,7 @@
     "音楽ストリーミング",
     "ハイレゾ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "7c0753b8f2",
    "iconUrl": "https://catalog.uuuu.to/icons/deezer.png?v=7c0753b8f2"
   },
@@ -11188,7 +11252,7 @@
     "アジア音楽",
     "K-POP"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ケーケーボックス"
    ],
@@ -11327,7 +11391,7 @@
    "tags": [
     "音楽ストリーミング"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "411b09df1c",
    "iconUrl": "https://catalog.uuuu.to/icons/soundcloud-go-plus.png?v=411b09df1c"
   },
@@ -11419,7 +11483,7 @@
     "音楽",
     "ポッドキャスト"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "スポティファイ",
     "スポティファイ プレミアム"
@@ -11526,7 +11590,7 @@
     "オーディオブック",
     "ビジネス書"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "オーディオブック・ドットジェイピー",
     "オーディオブック"
@@ -11595,7 +11659,7 @@
     "au",
     "J-POP"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "うたパス",
     "ウタパス"
@@ -11656,7 +11720,7 @@
     "ドコモ",
     "レコチョク"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ディーヒッツ"
    ],
@@ -11835,7 +11899,7 @@
     "音楽",
     "楽天ポイント"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [],
    "iconRev": "e24e67c124",
    "iconUrl": "https://catalog.uuuu.to/icons/rakuten-music.png?v=e24e67c124"
@@ -11946,7 +12010,7 @@
     "ビジネス",
     "動画"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ニューズピックス"
    ],
@@ -12102,7 +12166,7 @@
     "読み放題",
     "クーポン"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "ca316b2e4e",
    "iconUrl": "https://catalog.uuuu.to/icons/smartnews-plus.png?v=ca316b2e4e"
   },
@@ -12153,7 +12217,7 @@
     "経済",
     "ビジネス"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "日経",
     "ニッケイ"
@@ -12463,7 +12527,7 @@
     "コリビング",
     "旅"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "87ce743087",
    "iconUrl": "https://catalog.uuuu.to/icons/address.png?v=87ce743087"
   },
@@ -12605,7 +12669,7 @@
     "カーリース",
     "ガリバー"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "4ba00de669",
    "iconUrl": "https://catalog.uuuu.to/icons/norel.png?v=4ba00de669"
   },
@@ -12648,7 +12712,7 @@
     "ピル",
     "フェムテック"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "iconRev": "6198577164",
    "iconUrl": "https://catalog.uuuu.to/icons/mederi-pill.png?v=6198577164"
   },
@@ -12753,7 +12817,7 @@
     "ラジオ",
     "音声"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "b3f4be1cd7",
    "iconUrl": "https://catalog.uuuu.to/icons/radiko-premium.png?v=b3f4be1cd7"
   },
@@ -12858,7 +12922,7 @@
     "ピル",
     "定期配送"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "c944cb03d1",
    "iconUrl": "https://catalog.uuuu.to/icons/clinicfor-pill.png?v=c944cb03d1"
   },
@@ -12911,7 +12975,7 @@
     "ピル",
     "フェムテック"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "a0666db9fc",
    "iconUrl": "https://catalog.uuuu.to/icons/smaluna.png?v=a0666db9fc"
   },
@@ -12956,7 +13020,7 @@
     "リセール",
     "ライブ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "205f84707a",
    "iconUrl": "https://catalog.uuuu.to/icons/tiketplus-trade-premium.png?v=205f84707a"
   },
@@ -13047,7 +13111,7 @@
     "電子書籍",
     "音楽"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "Prime Video",
     "アマゾンプライム",
@@ -13144,7 +13208,7 @@
     "ビューティーボックス",
     "サブスクボックス"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "ed7ec00ea0",
    "iconUrl": "https://catalog.uuuu.to/icons/mylittlebox.png?v=ed7ec00ea0"
   },
@@ -13213,7 +13277,7 @@
     "配達手数料無料",
     "2026年値上げ(改定日は未確認・4月以降)"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ウーバーワン",
     "ウーバーイーツ"
@@ -13270,7 +13334,7 @@
     "レンタル",
     "スタイリスト"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "9630dcbea6",
    "iconUrl": "https://catalog.uuuu.to/icons/aircloset.png?v=9630dcbea6"
   },
@@ -13368,7 +13432,7 @@
     "三越",
     "伊勢丹"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "7ba3d5b357",
    "iconUrl": "https://catalog.uuuu.to/icons/mi-tomonokai.png?v=7ba3d5b357"
   },
@@ -13507,7 +13571,7 @@
     "ファッションレンタル",
     "洋服サブスク"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "7939a3d8ae",
    "iconUrl": "https://catalog.uuuu.to/icons/mechakari.png?v=7939a3d8ae"
   },
@@ -13571,7 +13635,7 @@
     "ゲーム",
     "コミュニティ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "ebb1353f71",
    "iconUrl": "https://catalog.uuuu.to/icons/discord-nitro.png?v=ebb1353f71"
   },
@@ -13650,7 +13714,7 @@
     "動画講座",
     "転職"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "iconRev": "5ff8e1cabc",
    "iconUrl": "https://catalog.uuuu.to/icons/linkedin.png?v=5ff8e1cabc"
   },
@@ -13784,7 +13848,7 @@
     "Meta AI",
     "認証バッジ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "72b62f1e57",
    "iconUrl": "https://catalog.uuuu.to/icons/meta-one.png?v=72b62f1e57"
   },
@@ -13826,7 +13890,7 @@
     "SNS",
     "プレミアム機能"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "2ba7b6cf2f",
    "iconUrl": "https://catalog.uuuu.to/icons/snapchat-plus.png?v=2ba7b6cf2f"
   },
@@ -13876,7 +13940,7 @@
    "tags": [
     "メッセンジャー"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "9f4272e62d",
    "iconUrl": "https://catalog.uuuu.to/icons/telegram-premium.png?v=9f4272e62d"
   },
@@ -14014,7 +14078,7 @@
     "セキュリティ",
     "USD建て"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ワンパスワード"
    ],
@@ -14228,7 +14292,7 @@
     "クラウドストレージ",
     "Adobe"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "7a33dc6dca",
    "iconUrl": "https://catalog.uuuu.to/icons/lightroom.png?v=7a33dc6dca"
   },
@@ -14286,7 +14350,7 @@
     "マーケティング",
     "海外"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "iconRev": "d3b83ee4d2",
    "iconUrl": "https://catalog.uuuu.to/icons/ahrefs.png?v=d3b83ee4d2"
   },
@@ -14348,7 +14412,7 @@
     "業務管理",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "1b716645cf",
    "iconUrl": "https://catalog.uuuu.to/icons/airtable.png?v=1b716645cf"
   },
@@ -14394,7 +14458,7 @@
     "Apple",
     "年会費"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "4cb982f2c5",
    "iconUrl": "https://catalog.uuuu.to/icons/apple-developer-program.png?v=4cb982f2c5"
   },
@@ -14454,7 +14518,7 @@
     "プロジェクト管理",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "31f139ed9d",
    "iconUrl": "https://catalog.uuuu.to/icons/asana.png?v=31f139ed9d"
   },
@@ -14504,7 +14568,7 @@
     "ノート",
     "Markdown"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "iconRev": "e15072fb4e",
    "iconUrl": "https://catalog.uuuu.to/icons/bear-pro.png?v=e15072fb4e"
   },
@@ -14558,7 +14622,7 @@
     "セキュリティ",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "6c2a629ac1",
    "iconUrl": "https://catalog.uuuu.to/icons/bitwarden.png?v=6c2a629ac1"
   },
@@ -14685,7 +14749,7 @@
     "マーケティング",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "8f5a0d06f9",
    "iconUrl": "https://catalog.uuuu.to/icons/buffer.png?v=8f5a0d06f9"
   },
@@ -14748,7 +14812,7 @@
     "スケジュール",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "7c92fcef00",
    "iconUrl": "https://catalog.uuuu.to/icons/calendly.png?v=7c92fcef00"
   },
@@ -14813,7 +14877,7 @@
     "デザイン",
     "画像編集"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "Canva Pro / ビジネス",
     "キャンバ"
@@ -14933,7 +14997,7 @@
     "ビジネスチャット",
     "国内"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "b6268f71d5",
    "iconUrl": "https://catalog.uuuu.to/icons/chatwork.png?v=b6268f71d5"
   },
@@ -14984,7 +15048,7 @@
     "ToDo",
     "forYou inc."
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "479f55b36e",
    "iconUrl": "https://catalog.uuuu.to/icons/foryou-check.png?v=479f55b36e"
   },
@@ -15009,7 +15073,7 @@
      "cycle": "monthly",
      "currency": "USD",
      "usdPrice": 10,
-     "notes": "USD建て、1ユーザーあたり月払い"
+     "notes": "新規受付終了。USD建て、1ユーザーあたり月払い"
     },
     {
      "id": "unlimited-yearly",
@@ -15018,16 +15082,42 @@
      "cycle": "yearly",
      "currency": "USD",
      "usdPrice": 84,
-     "notes": "USD建て、1ユーザーあたり年払い($7/月換算)"
+     "notes": "新規受付終了。USD建て、1ユーザーあたり年払い($7/月換算)"
     },
     {
      "id": "business-monthly",
      "name": "Business 月額",
-     "price": 2850,
+     "price": 3750,
      "cycle": "monthly",
      "currency": "USD",
-     "usdPrice": 19,
+     "usdPrice": 25,
      "notes": "USD建て、1ユーザーあたり月払い。年払いは$12/月換算。新プラン体系(Core $9/Business $17/Max $100 年払い)へ移行テスト中の可能性あり"
+    },
+    {
+     "id": "core-monthly",
+     "name": "Core 月額",
+     "price": 1800,
+     "cycle": "monthly",
+     "currency": "USD",
+     "usdPrice": 12
+    },
+    {
+     "id": "core-yearly",
+     "name": "Core 年額",
+     "price": 16200,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 108,
+     "notes": "年払い $9/月相当"
+    },
+    {
+     "id": "business-yearly",
+     "name": "Business 年額",
+     "price": 30600,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 204,
+     "notes": "年払い $17/月相当"
     }
    ],
    "cancelSteps": [
@@ -15041,13 +15131,20 @@
     "apple",
     "google"
    ],
-   "priceHistory": [],
+   "priceHistory": [
+    {
+     "date": "2026-11-08",
+     "planId": "business-monthly",
+     "oldPrice": 2850,
+     "newPrice": 3750
+    }
+   ],
    "tags": [
     "タスク管理",
     "プロジェクト管理",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "10a2c0a1fd",
    "iconUrl": "https://catalog.uuuu.to/icons/clickup.png?v=10a2c0a1fd"
   },
@@ -15107,7 +15204,7 @@
     "ノート",
     "ドキュメント"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "eff50c03da",
    "iconUrl": "https://catalog.uuuu.to/icons/craft.png?v=eff50c03da"
   },
@@ -15220,7 +15317,7 @@
     "日記",
     "ジャーナル"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "5af7b92ab0",
    "iconUrl": "https://catalog.uuuu.to/icons/day-one.png?v=5af7b92ab0"
   },
@@ -15305,7 +15402,7 @@
     "翻訳",
     "AI"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "f64fc31d95",
    "iconUrl": "https://catalog.uuuu.to/icons/deepl-pro.png?v=f64fc31d95"
   },
@@ -15359,7 +15456,7 @@
     "AI",
     "IDE"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "475d46b82c",
    "iconUrl": "https://catalog.uuuu.to/icons/windsurf.png?v=475d46b82c"
   },
@@ -15421,7 +15518,7 @@
     "AI",
     "ノーコード"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "589f37ad96",
    "iconUrl": "https://catalog.uuuu.to/icons/dify.png?v=589f37ad96"
   },
@@ -15483,7 +15580,7 @@
     "コンテナ",
     "ツール"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "622d542a85",
    "iconUrl": "https://catalog.uuuu.to/icons/docker.png?v=622d542a85"
   },
@@ -15604,7 +15701,7 @@
     "テンプレート",
     "ストック"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "acb1687bf7",
    "iconUrl": "https://catalog.uuuu.to/icons/envato-elements.png?v=acb1687bf7"
   },
@@ -15755,7 +15852,7 @@
     "作図",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "42b3d20ad8",
    "iconUrl": "https://catalog.uuuu.to/icons/excalidraw-plus.png?v=42b3d20ad8"
   },
@@ -15846,7 +15943,7 @@
     "VPN",
     "セキュリティ"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "エクスプレスVPN"
    ],
@@ -15900,7 +15997,7 @@
    "tags": [
     "デザイン"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "dd0027568d",
    "iconUrl": "https://catalog.uuuu.to/icons/figma-professional.png?v=dd0027568d"
   },
@@ -16107,7 +16204,7 @@
     "レビュー",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "391fbb2ec9",
    "iconUrl": "https://catalog.uuuu.to/icons/frame-io.png?v=391fbb2ec9"
   },
@@ -16167,7 +16264,7 @@
     "ノート",
     "手書き"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "3c1d60b293",
    "iconUrl": "https://catalog.uuuu.to/icons/goodnotes.png?v=3c1d60b293"
   },
@@ -16310,7 +16407,7 @@
     "マーケティング",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "c506ba66da",
    "iconUrl": "https://catalog.uuuu.to/icons/hootsuite.png?v=c506ba66da"
   },
@@ -16363,7 +16460,7 @@
     "ヒートマップ",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "ac94208848",
    "iconUrl": "https://catalog.uuuu.to/icons/hotjar.png?v=ac94208848"
   },
@@ -16437,7 +16534,7 @@
      "price": 5850,
      "cycle": "monthly",
      "currency": "USD",
-     "usdPrice": 39,
+     "usdPrice": 29,
      "notes": "USD建て、1シートあたり月払い。Fin AIは$0.99/解決の従量課金別"
     },
     {
@@ -16446,7 +16543,7 @@
      "price": 52200,
      "cycle": "yearly",
      "currency": "USD",
-     "usdPrice": 348,
+     "usdPrice": 228,
      "notes": "USD建て、1シートあたり年払い($29/月換算)"
     },
     {
@@ -16474,7 +16571,7 @@
     "チャット",
     "ビジネス"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "cd2cc0dda7",
    "iconUrl": "https://catalog.uuuu.to/icons/intercom.png?v=cd2cc0dda7"
   },
@@ -16528,7 +16625,7 @@
     "開発",
     "IDE"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "iconRev": "37e5a69986",
    "iconUrl": "https://catalog.uuuu.to/icons/jetbrains-all-products.png?v=37e5a69986"
   },
@@ -16572,7 +16669,7 @@
     "パスワード管理",
     "forYou inc."
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "d0762d41a7",
    "iconUrl": "https://catalog.uuuu.to/icons/foryou-kagi.png?v=d0762d41a7"
   },
@@ -16635,7 +16732,7 @@
     "クリエイター",
     "海外"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "iconRev": "1878115d44",
    "iconUrl": "https://catalog.uuuu.to/icons/kit.png?v=1878115d44"
   },
@@ -16685,7 +16782,7 @@
     "LINE",
     "新規受付終了"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ラインスタンプ"
    ],
@@ -16804,7 +16901,7 @@
     "動画",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "6724feff5f",
    "iconUrl": "https://catalog.uuuu.to/icons/loom.png?v=6724feff5f"
   },
@@ -16856,7 +16953,7 @@
     "デザイン",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "dd0ef038f9",
    "iconUrl": "https://catalog.uuuu.to/icons/lottiefiles.png?v=dd0ef038f9"
   },
@@ -16960,7 +17057,7 @@
     "マーケティング",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "0a47ebf994",
    "iconUrl": "https://catalog.uuuu.to/icons/mailchimp.png?v=0a47ebf994"
   },
@@ -17063,7 +17160,7 @@
     "Mac",
     "forYou inc."
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "6719c08be9",
    "iconUrl": "https://catalog.uuuu.to/icons/foryou-margins.png?v=6719c08be9"
   },
@@ -17188,7 +17285,7 @@
     "OneDrive",
     "生成AI"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "Copilot Pro",
     "Microsoft 365 Family",
@@ -17272,7 +17369,7 @@
     "コラボレーション",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "ccf793b6b3",
    "iconUrl": "https://catalog.uuuu.to/icons/miro.png?v=ccf793b6b3"
   },
@@ -17368,6 +17465,13 @@
      "cycle": "monthly",
      "currency": "JPY",
      "notes": "7日間の無料トライアルあり。"
+    },
+    {
+     "id": "yearly",
+     "name": "Mosaic Pro（年額）",
+     "price": 800,
+     "cycle": "yearly",
+     "currency": "JPY"
     }
    ],
    "cancelSteps": [
@@ -17385,7 +17489,7 @@
     "動画",
     "forYou inc."
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "3b5df69e1f",
    "iconUrl": "https://catalog.uuuu.to/icons/foryou-mosaic.png?v=3b5df69e1f"
   },
@@ -17432,7 +17536,7 @@
     "セキュリティ",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "5e564a78b3",
    "iconUrl": "https://catalog.uuuu.to/icons/mullvad-vpn.png?v=5e564a78b3"
   },
@@ -17558,7 +17662,7 @@
     "ドキュメント",
     "チーム"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ノーション"
    ],
@@ -17584,20 +17688,38 @@
     {
      "id": "standard",
      "name": "Standard",
-     "price": 600,
+     "price": 750,
      "cycle": "monthly",
      "currency": "USD",
-     "usdPrice": 4,
+     "usdPrice": 5,
      "notes": "USD建て $4/月(年払い)。月払いは$5"
     },
     {
      "id": "plus",
      "name": "Plus",
-     "price": 1200,
+     "price": 1500,
      "cycle": "monthly",
      "currency": "USD",
-     "usdPrice": 8,
+     "usdPrice": 10,
      "notes": "USD建て $8/月(年払い)。月払いは$10"
+    },
+    {
+     "id": "standard-yearly",
+     "name": "Standard(年払い)",
+     "price": 7200,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 48,
+     "notes": "年払い $4/月相当。USD建て"
+    },
+    {
+     "id": "plus-yearly",
+     "name": "Plus(年払い)",
+     "price": 14400,
+     "cycle": "yearly",
+     "currency": "USD",
+     "usdPrice": 96,
+     "notes": "年払い $8/月相当。USD建て"
     }
    ],
    "cancelSteps": [
@@ -17613,7 +17735,7 @@
     "ノート",
     "同期"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "14a2ee2db0",
    "iconUrl": "https://catalog.uuuu.to/icons/obsidian-sync.png?v=14a2ee2db0"
   },
@@ -17666,7 +17788,7 @@
     "文字起こし",
     "AI"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "75404530cf",
    "iconUrl": "https://catalog.uuuu.to/icons/otter-pro.png?v=75404530cf"
   },
@@ -17737,7 +17859,7 @@
     "生産性",
     "AI"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "97e2ef9e0c",
    "iconUrl": "https://catalog.uuuu.to/icons/raycast.png?v=97e2ef9e0c"
   },
@@ -17800,7 +17922,7 @@
     "AI",
     "IDE"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "406c213391",
    "iconUrl": "https://catalog.uuuu.to/icons/replit.png?v=406c213391"
   },
@@ -17851,7 +17973,7 @@
     "スクリーンタイム",
     "forYou inc."
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "1c4182f1db",
    "iconUrl": "https://catalog.uuuu.to/icons/foryou-screentimeblocker.png?v=1c4182f1db"
   },
@@ -17912,7 +18034,7 @@
     "マーケティング",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "a229b99b76",
    "iconUrl": "https://catalog.uuuu.to/icons/semrush.png?v=a229b99b76"
   },
@@ -17971,7 +18093,7 @@
     "サブスク",
     "USD建て"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "セットアップ"
    ],
@@ -18076,7 +18198,7 @@
     "UI",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "5d6a4874b5",
    "iconUrl": "https://catalog.uuuu.to/icons/sketch.png?v=5d6a4874b5"
   },
@@ -18153,7 +18275,7 @@
     "ビジネス",
     "チーム"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "Slack Pro",
     "スラック"
@@ -18217,7 +18339,7 @@
    "tags": [
     "メール"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "45171af0ab",
    "iconUrl": "https://catalog.uuuu.to/icons/spark-mail.png?v=45171af0ab"
   },
@@ -18270,7 +18392,7 @@
     "サブスク管理",
     "forYou inc."
    ],
-   "verifiedAt": "2026-10-23",
+   "verifiedAt": "2026-11-08",
    "iconRev": "d569f5b566",
    "iconUrl": "https://catalog.uuuu.to/icons/foryou-subsnote.png?v=d569f5b566"
   },
@@ -18331,7 +18453,7 @@
     "VPN",
     "セキュリティ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "7f1b6326fc",
    "iconUrl": "https://catalog.uuuu.to/icons/surfshark.png?v=7f1b6326fc"
   },
@@ -18354,7 +18476,7 @@
     {
      "id": "monthly",
      "name": "Pro 月額",
-     "price": 894,
+     "price": 890,
      "cycle": "monthly",
      "currency": "JPY",
      "notes": "公式ヘルプ記載(2025年12月改定後)"
@@ -18362,7 +18484,7 @@
     {
      "id": "yearly",
      "name": "Pro 年額",
-     "price": 8064,
+     "price": 8080,
      "cycle": "yearly",
      "currency": "JPY",
      "notes": "公式ヘルプ記載(月換算672円)"
@@ -18390,7 +18512,7 @@
    "tags": [
     "タスク管理"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "e59caae474",
    "iconUrl": "https://catalog.uuuu.to/icons/todoist-pro.png?v=e59caae474"
   },
@@ -18455,7 +18577,7 @@
     "投資",
     "トレード"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "8c5bf6bcb3",
    "iconUrl": "https://catalog.uuuu.to/icons/tradingview.png?v=8c5bf6bcb3"
   },
@@ -18518,7 +18640,7 @@
     "カンバン",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "153fbc2496",
    "iconUrl": "https://catalog.uuuu.to/icons/trello.png?v=153fbc2496"
   },
@@ -18580,7 +18702,7 @@
     "ゲーム",
     "ツール"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "14b9772f2a",
    "iconUrl": "https://catalog.uuuu.to/icons/unity.png?v=14b9772f2a"
   },
@@ -18630,7 +18752,7 @@
     "写真編集",
     "フィルター"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "ef89c1d82b",
    "iconUrl": "https://catalog.uuuu.to/icons/vsco.png?v=ef89c1d82b"
   },
@@ -18694,7 +18816,7 @@
     "動画配信",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "2cdd23da32",
    "iconUrl": "https://catalog.uuuu.to/icons/vimeo.png?v=2cdd23da32"
   },
@@ -18756,7 +18878,7 @@
     "ノーコード",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "2f80381f1e",
    "iconUrl": "https://catalog.uuuu.to/icons/zapier.png?v=2f80381f1e"
   },
@@ -18826,7 +18948,7 @@
     "ヘルプデスク",
     "ビジネス"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "554f5f37af",
    "iconUrl": "https://catalog.uuuu.to/icons/zendesk.png?v=554f5f37af"
   },
@@ -18876,7 +18998,7 @@
     "ビデオ会議",
     "ビジネス"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "Zoom Workplace Pro",
     "ズーム"
@@ -18940,7 +19062,7 @@
     "クリエイター",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "009eb552f5",
    "iconUrl": "https://catalog.uuuu.to/icons/beehiiv.png?v=009eb552f5"
   },
@@ -19009,7 +19131,7 @@
     "業務管理",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "99f34044be",
    "iconUrl": "https://catalog.uuuu.to/icons/monday-com.png?v=99f34044be"
   },
@@ -19060,7 +19182,7 @@
     "カレンダー",
     "forYou inc."
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "e567a488ca",
    "iconUrl": "https://catalog.uuuu.to/icons/foryou-months.png?v=e567a488ca"
   },
@@ -19114,7 +19236,7 @@
     "AI",
     "ツール"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "93197cb088",
    "iconUrl": "https://catalog.uuuu.to/icons/v0.png?v=93197cb088"
   },
@@ -19187,7 +19309,7 @@
     "セキュリティ",
     "ウイルス対策"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "トレンドマイクロ"
    ],
@@ -19325,7 +19447,7 @@
     "ウイルス対策",
     "VPN付き"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ノートン"
    ],
@@ -19822,7 +19944,7 @@
     "2ギガ",
     "2026年9月改定"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ニューロ光",
     "NURO光"
@@ -19891,7 +20013,7 @@
     "おうち割 光セット",
     "2026年12月改定"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ソフトバンク光"
    ],
@@ -19939,7 +20061,7 @@
     "WiMAX +5G",
     "契約期間なし"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ワイマックス",
     "WiMAX"
@@ -20084,7 +20206,7 @@
     "契約解除料あり",
     "2026年6月改定"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ワイモバイル"
    ],
@@ -20159,7 +20281,7 @@
     "5分通話無料",
     "2026年12月改定"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "アハモ"
    ],
@@ -20295,7 +20417,7 @@
     "独自回線",
     "3年自動更新"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [],
    "iconRev": "62a7303c7a",
    "iconUrl": "https://catalog.uuuu.to/icons/au-hikari.png?v=62a7303c7a"
@@ -20370,7 +20492,7 @@
     "マイピタ",
     "トリプルキャリア"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "マイネオ"
    ],
@@ -20435,6 +20557,14 @@
      "cycle": "yearly",
      "notes": "2026年6月19日追加（月110GB・3,270円相当）。60GB(90日)/150GB(180日)/300GB(90日)は2026年7月31日販売終了",
      "currency": "JPY"
+    },
+    {
+     "id": "data-12gb-365d",
+     "name": "データ追加12GB（365日間）",
+     "price": 6240,
+     "cycle": "yearly",
+     "notes": "2026-11-05 提供開始（povo ニュース）",
+     "currency": "JPY"
     }
    ],
    "cancelSteps": [
@@ -20455,7 +20585,7 @@
     "トッピング",
     "基本料0円"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ポヴォ",
     "ポボ"
@@ -20571,7 +20701,7 @@
     "無制限",
     "2026年7月改定"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [],
    "iconRev": "636b8fabd1",
    "iconUrl": "https://catalog.uuuu.to/icons/softbank.png?v=636b8fabd1"
@@ -20624,7 +20754,7 @@
     "ドコモ光セット割",
     "2年定期契約"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [],
    "iconRev": "bb05c9f8b3",
    "iconUrl": "https://catalog.uuuu.to/icons/docomo-hikari.png?v=bb05c9f8b3"
@@ -20692,7 +20822,7 @@
     "プロバイダ別",
     "にねん割"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "フレッツ"
    ],
@@ -20763,7 +20893,7 @@
     "Rakuten Link",
     "値上げなし"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [],
    "iconRev": "fc641b655f",
    "iconUrl": "https://catalog.uuuu.to/icons/rakuten-mobile.png?v=fc641b655f"
@@ -20885,7 +21015,7 @@
     {
      "id": "basic-wing-12m",
      "name": "ベーシック WINGパック 12か月",
-     "price": 937,
+     "price": 1089,
      "cycle": "monthly",
      "notes": "12か月一括11,244円（2026年10月22日16:00までのキャンペーン価格、定価1,089円/月）。24か月885円、36か月678円。独自ドメイン2つ永久無料。一括前払い・途中解約不可",
      "currency": "JPY"
@@ -20902,14 +21032,21 @@
    "paymentChannels": [
     "web"
    ],
-   "priceHistory": [],
+   "priceHistory": [
+    {
+     "date": "2026-11-08",
+     "planId": "basic-wing-12m",
+     "oldPrice": 937,
+     "newPrice": 1089
+    }
+   ],
    "tags": [
     "レンタルサーバー",
     "GMO",
     "WordPress",
     "一括前払い"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "コノハ"
    ],
@@ -20977,7 +21114,7 @@
     "スマートホーム",
     "防犯カメラ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "e7ca2cf265",
    "iconUrl": "https://catalog.uuuu.to/icons/google-home-premium.png?v=e7ca2cf265"
   },
@@ -21183,7 +21320,7 @@
     "防犯カメラ",
     "ドアベル"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "fc090ca340",
    "iconUrl": "https://catalog.uuuu.to/icons/ring-home.png?v=fc090ca340"
   },
@@ -21285,7 +21422,7 @@
     "クーポン",
     "アプリ定額"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "2767346ce8",
    "iconUrl": "https://catalog.uuuu.to/icons/d-valuepass.png?v=2767346ce8"
   },
@@ -21343,7 +21480,7 @@
     "GMO",
     "自動更新"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "おなまえ"
    ],
@@ -21501,7 +21638,7 @@
     "乗換案内",
     "定期券"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "522e092020",
    "iconUrl": "https://catalog.uuuu.to/icons/ekispert-premium.png?v=522e092020"
   },
@@ -21568,7 +21705,7 @@
     "将棋",
     "ニュース"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "アベマ"
    ],
@@ -21632,7 +21769,7 @@
     "ドラマ",
     "オリジナル作品"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "Apple TV（旧Apple TV+）",
     "アップルTV",
@@ -21779,7 +21916,7 @@
     "プロ野球",
     "F1"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ダゾーン"
    ],
@@ -22064,7 +22201,7 @@
     "モータースポーツ",
     "スポーツ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "3a0cc3a0f5",
    "iconUrl": "https://catalog.uuuu.to/icons/f1-tv.png?v=3a0cc3a0f5"
   },
@@ -22273,7 +22410,7 @@
     "海外ドラマ",
     "アニメ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "フールー"
    ],
@@ -22428,7 +22565,7 @@
     "音楽ライブ",
     "ドコモ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "レミノ",
     "dTV"
@@ -22550,7 +22687,7 @@
     "バスケ",
     "ドコモ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "c5d02f9480",
    "iconUrl": "https://catalog.uuuu.to/icons/nba-docomo.png?v=c5d02f9480"
   },
@@ -22717,7 +22854,7 @@
     "アニメ",
     "WWE"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ネットフリックス",
     "ネトフリ"
@@ -22773,7 +22910,7 @@
     "メディアサーバー",
     "動画"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "8ef5db0df6",
    "iconUrl": "https://catalog.uuuu.to/icons/plex-pass.png?v=8ef5db0df6"
   },
@@ -22816,7 +22953,7 @@
     "クーポン",
     "au"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ポンタパス",
     "auスマートパス"
@@ -22936,7 +23073,7 @@
     "アジアドラマ",
     "海外"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "2913815868",
    "iconUrl": "https://catalog.uuuu.to/icons/rakuten-viki.png?v=2913815868"
   },
@@ -23071,7 +23208,7 @@
     "特撮",
     "au"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "テラサ"
    ],
@@ -23128,7 +23265,7 @@
     "雑誌",
     "マンガ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ユーネクスト"
    ],
@@ -23520,7 +23657,7 @@
     "アニメ",
     "ドコモ"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "ディーアニメ",
     "dアニメ"
@@ -23600,7 +23737,7 @@
     "ドコモ",
     "専門チャンネル"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "8e4317bd40",
    "iconUrl": "https://catalog.uuuu.to/icons/hikari-tv.png?v=8e4317bd40"
   },
@@ -23708,7 +23845,7 @@
     "音楽",
     "アニメ"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "スカパー",
     "SKY PerfecTV"
@@ -23806,7 +23943,7 @@
     "生放送",
     "配信"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "bcd30bdf26",
    "iconUrl": "https://catalog.uuuu.to/icons/niconico.png?v=bcd30bdf26"
   },
@@ -23848,7 +23985,7 @@
     "ガンダム",
     "特撮"
    ],
-   "verifiedAt": "2026-10-21",
+   "verifiedAt": "2026-11-08",
    "aliases": [
     "バンダイ"
    ],
@@ -23895,7 +24032,7 @@
     "ライダー",
     "戦隊"
    ],
-   "verifiedAt": "2026-10-22",
+   "verifiedAt": "2026-11-08",
    "iconRev": "56e5098d54",
    "iconUrl": "https://catalog.uuuu.to/icons/ttfc.png?v=56e5098d54"
   }
