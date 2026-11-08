@@ -1,5 +1,5 @@
 {
- "version": 22,
+ "version": 23,
  "updatedAt": "2026-11-08",
  "idMigrations": {
   "niconico-premium": {
@@ -11702,8 +11702,8 @@
    ],
    "verifiedAt": "2026-11-08",
    "freeTrialDays": 0,
-   "iconRev": "c34567887d",
-   "iconUrl": "https://catalog.uuuu.to/icons/itunes-match.png?v=c34567887d"
+   "iconRev": "90619802a8",
+   "iconUrl": "https://catalog.uuuu.to/icons/itunes-match.png?v=90619802a8"
   },
   {
    "id": "pokekara-vip",
